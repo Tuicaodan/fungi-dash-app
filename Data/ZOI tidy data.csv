@@ -1,0 +1,3197 @@
+﻿ICMP,Test_Date,Incubation_time,BioRep,TechRep,Bacteria,Additives,ZOI_mm
+146,20201112,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+146,20201112,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+146,20201112,Day 3,1,1,E. coli,100ng/mL LPS,0
+146,20201112,Day 3,1,2,E. coli,100ng/mL LPS,0
+146,20201112,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+146,20201112,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+146,20201112,Day 3,1,1,E. coli,100ng/mL LTA,0
+146,20201112,Day 3,1,2,E. coli,100ng/mL LTA,0
+146,20201112,Day 3,1,1,E. coli,Autoclaved bacteria,0
+146,20201112,Day 3,1,2,E. coli,Autoclaved bacteria,0
+146,20201112,Day 3,1,1,E. coli,Fungi alone,0
+146,20201112,Day 3,1,2,E. coli,Fungi alone,0
+CON,20201112,Day 3,1,1,E. coli,CON control,0
+CON,20201112,Day 3,1,2,E. coli,CON control,0
+CON,20201112,Day 3,1,1,E. coli,PDB control,0
+CON,20201112,Day 3,1,2,E. coli,PDB control,0
+146,20201112,Day 3,1,1,S. aureus,0.1ng/mL LPS,11.5
+146,20201112,Day 3,1,2,S. aureus,0.1ng/mL LPS,12
+146,20201112,Day 3,1,1,S. aureus,100ng/mL LPS,11
+146,20201112,Day 3,1,2,S. aureus,100ng/mL LPS,11
+146,20201112,Day 3,1,1,S. aureus,0.1ng/mL LTA,10.5
+146,20201112,Day 3,1,2,S. aureus,0.1ng/mL LTA,11
+146,20201112,Day 3,1,1,S. aureus,100ng/mL LTA,10
+146,20201112,Day 3,1,2,S. aureus,100ng/mL LTA,10
+146,20201112,Day 3,1,1,S. aureus,Autoclaved bacteria,10.5
+146,20201112,Day 3,1,2,S. aureus,Autoclaved bacteria,11
+146,20201112,Day 3,1,1,S. aureus,Fungi alone,12
+146,20201112,Day 3,1,2,S. aureus,Fungi alone,11
+CON,20201112,Day 3,1,1,S. aureus,CON control,10.5
+CON,20201112,Day 3,1,2,S. aureus,CON control,11
+CON,20201112,Day 3,1,1,S. aureus,PDB control,10
+CON,20201112,Day 3,1,2,S. aureus,PDB control,10.5
+146,20201118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+146,20201118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+146,20201118,Day 7,1,1,E. coli,100ng/mL LPS,0
+146,20201118,Day 7,1,2,E. coli,100ng/mL LPS,0
+146,20201118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+146,20201118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+146,20201118,Day 7,1,1,E. coli,100ng/mL LTA,0
+146,20201118,Day 7,1,2,E. coli,100ng/mL LTA,0
+146,20201118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+146,20201118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+146,20201118,Day 7,1,1,E. coli,Fungi alone,0
+146,20201118,Day 7,1,2,E. coli,Fungi alone,0
+CON,20201118,Day 7,1,1,E. coli,CON control,0
+CON,20201118,Day 7,1,2,E. coli,CON control,0
+CON,20201118,Day 7,1,1,E. coli,PDB control,0
+CON,20201118,Day 7,1,2,E. coli,PDB control,0
+146,20201118,Day 7,1,1,S. aureus,0.1ng/mL LPS,8.5
+146,20201118,Day 7,1,2,S. aureus,0.1ng/mL LPS,9
+146,20201118,Day 7,1,1,S. aureus,100ng/mL LPS,9.5
+146,20201118,Day 7,1,2,S. aureus,100ng/mL LPS,9.5
+146,20201118,Day 7,1,1,S. aureus,0.1ng/mL LTA,10
+146,20201118,Day 7,1,2,S. aureus,0.1ng/mL LTA,10.5
+146,20201118,Day 7,1,1,S. aureus,100ng/mL LTA,10
+146,20201118,Day 7,1,2,S. aureus,100ng/mL LTA,10
+146,20201118,Day 7,1,1,S. aureus,Autoclaved bacteria,10
+146,20201118,Day 7,1,2,S. aureus,Autoclaved bacteria,10
+146,20201118,Day 7,1,1,S. aureus,Fungi alone,10
+146,20201118,Day 7,1,2,S. aureus,Fungi alone,9
+CON,20201118,Day 7,1,1,S. aureus,CON control,8.5
+CON,20201118,Day 7,1,2,S. aureus,CON control,9
+CON,20201118,Day 7,1,1,S. aureus,PDB control,9
+CON,20201118,Day 7,1,2,S. aureus,PDB control,8.5
+146,20201123,Day14,1,1,E. coli,0.1ng/mL LPS,0
+146,20201123,Day14,1,2,E. coli,0.1ng/mL LPS,0
+146,20201123,Day14,1,1,E. coli,100ng/mL LPS,0
+146,20201123,Day14,1,2,E. coli,100ng/mL LPS,0
+146,20201123,Day14,1,1,E. coli,0.1ng/mL LTA,0
+146,20201123,Day14,1,2,E. coli,0.1ng/mL LTA,0
+146,20201123,Day14,1,1,E. coli,100ng/mL LTA,0
+146,20201123,Day14,1,2,E. coli,100ng/mL LTA,0
+146,20201123,Day14,1,1,E. coli,Autoclaved bacteria,0
+146,20201123,Day14,1,2,E. coli,Autoclaved bacteria,0
+146,20201123,Day14,1,1,E. coli,Fungi alone,0
+146,20201123,Day14,1,2,E. coli,Fungi alone,0
+CON,20201123,Day14,1,1,E. coli,CON control,0
+CON,20201123,Day14,1,2,E. coli,CON control,0
+CON,20201123,Day14,1,1,E. coli,PDB control,0
+CON,20201123,Day14,1,2,E. coli,PDB control,0
+146,20201123,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+146,20201123,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+146,20201123,Day14,1,1,S. aureus,100ng/mL LPS,0
+146,20201123,Day14,1,2,S. aureus,100ng/mL LPS,0
+146,20201123,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+146,20201123,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+146,20201123,Day14,1,1,S. aureus,100ng/mL LTA,0
+146,20201123,Day14,1,2,S. aureus,100ng/mL LTA,0
+146,20201123,Day14,1,1,S. aureus,Autoclaved bacteria,0
+146,20201123,Day14,1,2,S. aureus,Autoclaved bacteria,0
+146,20201123,Day14,1,1,S. aureus,Fungi alone,0
+146,20201123,Day14,1,2,S. aureus,Fungi alone,0
+CON,20201123,Day14,1,1,S. aureus,CON control,0
+CON,20201123,Day14,1,2,S. aureus,CON control,0
+CON,20201123,Day14,1,1,S. aureus,PDB control,0
+CON,20201123,Day14,1,2,S. aureus,PDB control,0
+13875,20201112,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+13875,20201112,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+13875,20201112,Day 3,1,1,E. coli,100ng/mL LPS,0
+13875,20201112,Day 3,1,2,E. coli,100ng/mL LPS,0
+13875,20201112,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+13875,20201112,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+13875,20201112,Day 3,1,1,E. coli,100ng/mL LTA,0
+13875,20201112,Day 3,1,2,E. coli,100ng/mL LTA,0
+13875,20201112,Day 3,1,1,E. coli,Autoclaved bacteria,0
+13875,20201112,Day 3,1,2,E. coli,Autoclaved bacteria,0
+13875,20201112,Day 3,1,1,E. coli,Fungi alone,0
+13875,20201112,Day 3,1,2,E. coli,Fungi alone,0
+13875,20201112,Day 3,1,1,S. aureus,0.1ng/mL LPS,11
+13875,20201112,Day 3,1,2,S. aureus,0.1ng/mL LPS,12
+13875,20201112,Day 3,1,1,S. aureus,100ng/mL LPS,11
+13875,20201112,Day 3,1,2,S. aureus,100ng/mL LPS,12
+13875,20201112,Day 3,1,1,S. aureus,0.1ng/mL LTA,11
+13875,20201112,Day 3,1,2,S. aureus,0.1ng/mL LTA,10
+13875,20201112,Day 3,1,1,S. aureus,100ng/mL LTA,11
+13875,20201112,Day 3,1,2,S. aureus,100ng/mL LTA,10
+13875,20201112,Day 3,1,1,S. aureus,Autoclaved bacteria,11
+13875,20201112,Day 3,1,2,S. aureus,Autoclaved bacteria,10
+13875,20201112,Day 3,1,1,S. aureus,Fungi alone,11.5
+13875,20201112,Day 3,1,2,S. aureus,Fungi alone,12
+13875,20201118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+13875,20201118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+13875,20201118,Day 7,1,1,E. coli,100ng/mL LPS,0
+13875,20201118,Day 7,1,2,E. coli,100ng/mL LPS,0
+13875,20201118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+13875,20201118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+13875,20201118,Day 7,1,1,E. coli,100ng/mL LTA,0
+13875,20201118,Day 7,1,2,E. coli,100ng/mL LTA,0
+13875,20201118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+13875,20201118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+13875,20201118,Day 7,1,1,E. coli,Fungi alone,0
+13875,20201118,Day 7,1,2,E. coli,Fungi alone,0
+13875,20201118,Day 7,1,1,S. aureus,0.1ng/mL LPS,10
+13875,20201118,Day 7,1,2,S. aureus,0.1ng/mL LPS,9
+13875,20201118,Day 7,1,1,S. aureus,100ng/mL LPS,10
+13875,20201118,Day 7,1,2,S. aureus,100ng/mL LPS,11
+13875,20201118,Day 7,1,1,S. aureus,0.1ng/mL LTA,10
+13875,20201118,Day 7,1,2,S. aureus,0.1ng/mL LTA,9.5
+13875,20201118,Day 7,1,1,S. aureus,100ng/mL LTA,11
+13875,20201118,Day 7,1,2,S. aureus,100ng/mL LTA,9
+13875,20201118,Day 7,1,1,S. aureus,Autoclaved bacteria,9
+13875,20201118,Day 7,1,2,S. aureus,Autoclaved bacteria,9
+13875,20201118,Day 7,1,1,S. aureus,Fungi alone,10
+13875,20201118,Day 7,1,2,S. aureus,Fungi alone,10
+13875,20201123,Day14,1,1,E. coli,0.1ng/mL LPS,0
+13875,20201123,Day14,1,2,E. coli,0.1ng/mL LPS,0
+13875,20201123,Day14,1,1,E. coli,100ng/mL LPS,0
+13875,20201123,Day14,1,2,E. coli,100ng/mL LPS,0
+13875,20201123,Day14,1,1,E. coli,0.1ng/mL LTA,0
+13875,20201123,Day14,1,2,E. coli,0.1ng/mL LTA,0
+13875,20201123,Day14,1,1,E. coli,100ng/mL LTA,0
+13875,20201123,Day14,1,2,E. coli,100ng/mL LTA,0
+13875,20201123,Day14,1,1,E. coli,Autoclaved bacteria,0
+13875,20201123,Day14,1,2,E. coli,Autoclaved bacteria,0
+13875,20201123,Day14,1,1,E. coli,Fungi alone,0
+13875,20201123,Day14,1,2,E. coli,Fungi alone,0
+13875,20201123,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+13875,20201123,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+13875,20201123,Day14,1,1,S. aureus,100ng/mL LPS,0
+13875,20201123,Day14,1,2,S. aureus,100ng/mL LPS,0
+13875,20201123,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+13875,20201123,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+13875,20201123,Day14,1,1,S. aureus,100ng/mL LTA,0
+13875,20201123,Day14,1,2,S. aureus,100ng/mL LTA,0
+13875,20201123,Day14,1,1,S. aureus,Autoclaved bacteria,0
+13875,20201123,Day14,1,2,S. aureus,Autoclaved bacteria,0
+13875,20201123,Day14,1,1,S. aureus,Fungi alone,0
+13875,20201123,Day14,1,2,S. aureus,Fungi alone,0
+13903,20201112,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+13903,20201112,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+13903,20201112,Day 3,1,1,E. coli,100ng/mL LPS,0
+13903,20201112,Day 3,1,2,E. coli,100ng/mL LPS,0
+13903,20201112,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+13903,20201112,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+13903,20201112,Day 3,1,1,E. coli,100ng/mL LTA,0
+13903,20201112,Day 3,1,2,E. coli,100ng/mL LTA,0
+13903,20201112,Day 3,1,1,E. coli,Autoclaved bacteria,0
+13903,20201112,Day 3,1,2,E. coli,Autoclaved bacteria,0
+13903,20201112,Day 3,1,1,E. coli,Fungi alone,0
+13903,20201112,Day 3,1,2,E. coli,Fungi alone,0
+13903,20201112,Day 3,1,1,S. aureus,0.1ng/mL LPS,10
+13903,20201112,Day 3,1,2,S. aureus,0.1ng/mL LPS,10
+13903,20201112,Day 3,1,1,S. aureus,100ng/mL LPS,11.5
+13903,20201112,Day 3,1,2,S. aureus,100ng/mL LPS,10.5
+13903,20201112,Day 3,1,1,S. aureus,0.1ng/mL LTA,10.5
+13903,20201112,Day 3,1,2,S. aureus,0.1ng/mL LTA,11
+13903,20201112,Day 3,1,1,S. aureus,100ng/mL LTA,11
+13903,20201112,Day 3,1,2,S. aureus,100ng/mL LTA,11
+13903,20201112,Day 3,1,1,S. aureus,Autoclaved bacteria,11
+13903,20201112,Day 3,1,2,S. aureus,Autoclaved bacteria,10.5
+13903,20201112,Day 3,1,1,S. aureus,Fungi alone,10
+13903,20201112,Day 3,1,2,S. aureus,Fungi alone,11
+13903,20201118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+13903,20201118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+13903,20201118,Day 7,1,1,E. coli,100ng/mL LPS,0
+13903,20201118,Day 7,1,2,E. coli,100ng/mL LPS,0
+13903,20201118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+13903,20201118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+13903,20201118,Day 7,1,1,E. coli,100ng/mL LTA,0
+13903,20201118,Day 7,1,2,E. coli,100ng/mL LTA,0
+13903,20201118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+13903,20201118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+13903,20201118,Day 7,1,1,E. coli,Fungi alone,0
+13903,20201118,Day 7,1,2,E. coli,Fungi alone,0
+13903,20201118,Day 7,1,1,S. aureus,0.1ng/mL LPS,9
+13903,20201118,Day 7,1,2,S. aureus,0.1ng/mL LPS,10
+13903,20201118,Day 7,1,1,S. aureus,100ng/mL LPS,10
+13903,20201118,Day 7,1,2,S. aureus,100ng/mL LPS,9.5
+13903,20201118,Day 7,1,1,S. aureus,0.1ng/mL LTA,9
+13903,20201118,Day 7,1,2,S. aureus,0.1ng/mL LTA,9
+13903,20201118,Day 7,1,1,S. aureus,100ng/mL LTA,10.5
+13903,20201118,Day 7,1,2,S. aureus,100ng/mL LTA,8.5
+13903,20201118,Day 7,1,1,S. aureus,Autoclaved bacteria,10
+13903,20201118,Day 7,1,2,S. aureus,Autoclaved bacteria,9
+13903,20201118,Day 7,1,1,S. aureus,Fungi alone,10
+13903,20201118,Day 7,1,2,S. aureus,Fungi alone,10.5
+13903,20201123,Day14,1,1,E. coli,0.1ng/mL LPS,0
+13903,20201123,Day14,1,2,E. coli,0.1ng/mL LPS,0
+13903,20201123,Day14,1,1,E. coli,100ng/mL LPS,0
+13903,20201123,Day14,1,2,E. coli,100ng/mL LPS,0
+13903,20201123,Day14,1,1,E. coli,0.1ng/mL LTA,0
+13903,20201123,Day14,1,2,E. coli,0.1ng/mL LTA,0
+13903,20201123,Day14,1,1,E. coli,100ng/mL LTA,0
+13903,20201123,Day14,1,2,E. coli,100ng/mL LTA,0
+13903,20201123,Day14,1,1,E. coli,Autoclaved bacteria,0
+13903,20201123,Day14,1,2,E. coli,Autoclaved bacteria,0
+13903,20201123,Day14,1,1,E. coli,Fungi alone,0
+13903,20201123,Day14,1,2,E. coli,Fungi alone,0
+13903,20201123,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+13903,20201123,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+13903,20201123,Day14,1,1,S. aureus,100ng/mL LPS,0
+13903,20201123,Day14,1,2,S. aureus,100ng/mL LPS,0
+13903,20201123,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+13903,20201123,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+13903,20201123,Day14,1,1,S. aureus,100ng/mL LTA,0
+13903,20201123,Day14,1,2,S. aureus,100ng/mL LTA,0
+13903,20201123,Day14,1,1,S. aureus,Autoclaved bacteria,0
+13903,20201123,Day14,1,2,S. aureus,Autoclaved bacteria,0
+13903,20201123,Day14,1,1,S. aureus,Fungi alone,0
+13903,20201123,Day14,1,2,S. aureus,Fungi alone,0
+19129,20201112,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+19129,20201112,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+19129,20201112,Day 3,1,1,E. coli,100ng/mL LPS,0
+19129,20201112,Day 3,1,2,E. coli,100ng/mL LPS,0
+19129,20201112,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+19129,20201112,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+19129,20201112,Day 3,1,1,E. coli,100ng/mL LTA,0
+19129,20201112,Day 3,1,2,E. coli,100ng/mL LTA,0
+19129,20201112,Day 3,1,1,E. coli,Autoclaved bacteria,0
+19129,20201112,Day 3,1,2,E. coli,Autoclaved bacteria,0
+19129,20201112,Day 3,1,1,E. coli,Fungi alone,0
+19129,20201112,Day 3,1,2,E. coli,Fungi alone,0
+19129,20201112,Day 3,1,1,S. aureus,0.1ng/mL LPS,9
+19129,20201112,Day 3,1,2,S. aureus,0.1ng/mL LPS,10
+19129,20201112,Day 3,1,1,S. aureus,100ng/mL LPS,10
+19129,20201112,Day 3,1,2,S. aureus,100ng/mL LPS,10
+19129,20201112,Day 3,1,1,S. aureus,0.1ng/mL LTA,11
+19129,20201112,Day 3,1,2,S. aureus,0.1ng/mL LTA,10
+19129,20201112,Day 3,1,1,S. aureus,100ng/mL LTA,10
+19129,20201112,Day 3,1,2,S. aureus,100ng/mL LTA,10.5
+19129,20201112,Day 3,1,1,S. aureus,Autoclaved bacteria,10
+19129,20201112,Day 3,1,2,S. aureus,Autoclaved bacteria,9
+19129,20201112,Day 3,1,1,S. aureus,Fungi alone,10
+19129,20201112,Day 3,1,2,S. aureus,Fungi alone,10
+19129,20201118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+19129,20201118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+19129,20201118,Day 7,1,1,E. coli,100ng/mL LPS,0
+19129,20201118,Day 7,1,2,E. coli,100ng/mL LPS,0
+19129,20201118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+19129,20201118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+19129,20201118,Day 7,1,1,E. coli,100ng/mL LTA,0
+19129,20201118,Day 7,1,2,E. coli,100ng/mL LTA,0
+19129,20201118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+19129,20201118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+19129,20201118,Day 7,1,1,E. coli,Fungi alone,0
+19129,20201118,Day 7,1,2,E. coli,Fungi alone,0
+19129,20201118,Day 7,1,1,S. aureus,0.1ng/mL LPS,9
+19129,20201118,Day 7,1,2,S. aureus,0.1ng/mL LPS,8.5
+19129,20201118,Day 7,1,1,S. aureus,100ng/mL LPS,9
+19129,20201118,Day 7,1,2,S. aureus,100ng/mL LPS,8.5
+19129,20201118,Day 7,1,1,S. aureus,0.1ng/mL LTA,10
+19129,20201118,Day 7,1,2,S. aureus,0.1ng/mL LTA,8.5
+19129,20201118,Day 7,1,1,S. aureus,100ng/mL LTA,10
+19129,20201118,Day 7,1,2,S. aureus,100ng/mL LTA,9.5
+19129,20201118,Day 7,1,1,S. aureus,Autoclaved bacteria,9.5
+19129,20201118,Day 7,1,2,S. aureus,Autoclaved bacteria,9
+19129,20201118,Day 7,1,1,S. aureus,Fungi alone,9
+19129,20201118,Day 7,1,2,S. aureus,Fungi alone,9.5
+19129,20201123,Day14,1,1,E. coli,0.1ng/mL LPS,0
+19129,20201123,Day14,1,2,E. coli,0.1ng/mL LPS,0
+19129,20201123,Day14,1,1,E. coli,100ng/mL LPS,0
+19129,20201123,Day14,1,2,E. coli,100ng/mL LPS,0
+19129,20201123,Day14,1,1,E. coli,0.1ng/mL LTA,0
+19129,20201123,Day14,1,2,E. coli,0.1ng/mL LTA,0
+19129,20201123,Day14,1,1,E. coli,100ng/mL LTA,0
+19129,20201123,Day14,1,2,E. coli,100ng/mL LTA,0
+19129,20201123,Day14,1,1,E. coli,Autoclaved bacteria,0
+19129,20201123,Day14,1,2,E. coli,Autoclaved bacteria,0
+19129,20201123,Day14,1,1,E. coli,Fungi alone,0
+19129,20201123,Day14,1,2,E. coli,Fungi alone,0
+19129,20201123,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+19129,20201123,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+19129,20201123,Day14,1,1,S. aureus,100ng/mL LPS,0
+19129,20201123,Day14,1,2,S. aureus,100ng/mL LPS,0
+19129,20201123,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+19129,20201123,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+19129,20201123,Day14,1,1,S. aureus,100ng/mL LTA,0
+19129,20201123,Day14,1,2,S. aureus,100ng/mL LTA,0
+19129,20201123,Day14,1,1,S. aureus,Autoclaved bacteria,0
+19129,20201123,Day14,1,2,S. aureus,Autoclaved bacteria,0
+19129,20201123,Day14,1,1,S. aureus,Fungi alone,0
+19129,20201123,Day14,1,2,S. aureus,Fungi alone,0
+5181,20201112,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+5181,20201112,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+5181,20201112,Day 3,1,1,E. coli,100ng/mL LPS,0
+5181,20201112,Day 3,1,2,E. coli,100ng/mL LPS,0
+5181,20201112,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+5181,20201112,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+5181,20201112,Day 3,1,1,E. coli,100ng/mL LTA,0
+5181,20201112,Day 3,1,2,E. coli,100ng/mL LTA,0
+5181,20201112,Day 3,1,1,E. coli,Autoclaved bacteria,0
+5181,20201112,Day 3,1,2,E. coli,Autoclaved bacteria,0
+5181,20201112,Day 3,1,1,E. coli,Fungi alone,0
+5181,20201112,Day 3,1,2,E. coli,Fungi alone,0
+5181,20201112,Day 3,1,1,S. aureus,0.1ng/mL LPS,10
+5181,20201112,Day 3,1,2,S. aureus,0.1ng/mL LPS,11
+5181,20201112,Day 3,1,1,S. aureus,100ng/mL LPS,10
+5181,20201112,Day 3,1,2,S. aureus,100ng/mL LPS,10
+5181,20201112,Day 3,1,1,S. aureus,0.1ng/mL LTA,10
+5181,20201112,Day 3,1,2,S. aureus,0.1ng/mL LTA,10
+5181,20201112,Day 3,1,1,S. aureus,100ng/mL LTA,10
+5181,20201112,Day 3,1,2,S. aureus,100ng/mL LTA,9
+5181,20201112,Day 3,1,1,S. aureus,Autoclaved bacteria,10
+5181,20201112,Day 3,1,2,S. aureus,Autoclaved bacteria,9.5
+5181,20201112,Day 3,1,1,S. aureus,Fungi alone,10
+5181,20201112,Day 3,1,2,S. aureus,Fungi alone,10.5
+5181,20201118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+5181,20201118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+5181,20201118,Day 7,1,1,E. coli,100ng/mL LPS,0
+5181,20201118,Day 7,1,2,E. coli,100ng/mL LPS,0
+5181,20201118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+5181,20201118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+5181,20201118,Day 7,1,1,E. coli,100ng/mL LTA,0
+5181,20201118,Day 7,1,2,E. coli,100ng/mL LTA,0
+5181,20201118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+5181,20201118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+5181,20201118,Day 7,1,1,E. coli,Fungi alone,0
+5181,20201118,Day 7,1,2,E. coli,Fungi alone,0
+5181,20201118,Day 7,1,1,S. aureus,0.1ng/mL LPS,9
+5181,20201118,Day 7,1,2,S. aureus,0.1ng/mL LPS,8.5
+5181,20201118,Day 7,1,1,S. aureus,100ng/mL LPS,8
+5181,20201118,Day 7,1,2,S. aureus,100ng/mL LPS,9
+5181,20201118,Day 7,1,1,S. aureus,0.1ng/mL LTA,9.5
+5181,20201118,Day 7,1,2,S. aureus,0.1ng/mL LTA,10
+5181,20201118,Day 7,1,1,S. aureus,100ng/mL LTA,10
+5181,20201118,Day 7,1,2,S. aureus,100ng/mL LTA,10
+5181,20201118,Day 7,1,1,S. aureus,Autoclaved bacteria,11
+5181,20201118,Day 7,1,2,S. aureus,Autoclaved bacteria,9
+5181,20201118,Day 7,1,1,S. aureus,Fungi alone,8.5
+5181,20201118,Day 7,1,2,S. aureus,Fungi alone,8.5
+5181,20201123,Day14,1,1,E. coli,0.1ng/mL LPS,0
+5181,20201123,Day14,1,2,E. coli,0.1ng/mL LPS,0
+5181,20201123,Day14,1,1,E. coli,100ng/mL LPS,0
+5181,20201123,Day14,1,2,E. coli,100ng/mL LPS,0
+5181,20201123,Day14,1,1,E. coli,0.1ng/mL LTA,0
+5181,20201123,Day14,1,2,E. coli,0.1ng/mL LTA,0
+5181,20201123,Day14,1,1,E. coli,100ng/mL LTA,0
+5181,20201123,Day14,1,2,E. coli,100ng/mL LTA,0
+5181,20201123,Day14,1,1,E. coli,Autoclaved bacteria,0
+5181,20201123,Day14,1,2,E. coli,Autoclaved bacteria,0
+5181,20201123,Day14,1,1,E. coli,Fungi alone,0
+5181,20201123,Day14,1,2,E. coli,Fungi alone,0
+5181,20201123,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+5181,20201123,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+5181,20201123,Day14,1,1,S. aureus,100ng/mL LPS,0
+5181,20201123,Day14,1,2,S. aureus,100ng/mL LPS,0
+5181,20201123,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+5181,20201123,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+5181,20201123,Day14,1,1,S. aureus,100ng/mL LTA,0
+5181,20201123,Day14,1,2,S. aureus,100ng/mL LTA,0
+5181,20201123,Day14,1,1,S. aureus,Autoclaved bacteria,0
+5181,20201123,Day14,1,2,S. aureus,Autoclaved bacteria,0
+5181,20201123,Day14,1,1,S. aureus,Fungi alone,0
+5181,20201123,Day14,1,2,S. aureus,Fungi alone,0
+146,20201119,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+146,20201119,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+146,20201119,Day 3,2,1,E. coli,100ng/mL LPS,0
+146,20201119,Day 3,2,2,E. coli,100ng/mL LPS,0
+146,20201119,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+146,20201119,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+146,20201119,Day 3,2,1,E. coli,100ng/mL LTA,0
+146,20201119,Day 3,2,2,E. coli,100ng/mL LTA,0
+146,20201119,Day 3,2,1,E. coli,Autoclaved bacteria,0
+146,20201119,Day 3,2,2,E. coli,Autoclaved bacteria,0
+146,20201119,Day 3,2,1,E. coli,Fungi alone,0
+146,20201119,Day 3,2,2,E. coli,Fungi alone,0
+CON,20201119,Day 3,2,1,E. coli,CON control,0
+CON,20201119,Day 3,2,2,E. coli,CON control,0
+CON,20201119,Day 3,2,1,E. coli,PDB control,0
+CON,20201119,Day 3,2,2,E. coli,PDB control,0
+146,20201119,Day 3,2,1,S. aureus,0.1ng/mL LPS,10.5
+146,20201119,Day 3,2,2,S. aureus,0.1ng/mL LPS,10
+146,20201119,Day 3,2,1,S. aureus,100ng/mL LPS,11
+146,20201119,Day 3,2,2,S. aureus,100ng/mL LPS,9.5
+146,20201119,Day 3,2,1,S. aureus,0.1ng/mL LTA,10.5
+146,20201119,Day 3,2,2,S. aureus,0.1ng/mL LTA,9
+146,20201119,Day 3,2,1,S. aureus,100ng/mL LTA,10
+146,20201119,Day 3,2,2,S. aureus,100ng/mL LTA,10
+146,20201119,Day 3,2,1,S. aureus,Autoclaved bacteria,11
+146,20201119,Day 3,2,2,S. aureus,Autoclaved bacteria,11
+146,20201119,Day 3,2,1,S. aureus,Fungi alone,10
+146,20201119,Day 3,2,2,S. aureus,Fungi alone,10.5
+CON,20201119,Day 3,2,1,S. aureus,CON control,0
+CON,20201119,Day 3,2,2,S. aureus,CON control,0
+CON,20201119,Day 3,2,1,S. aureus,PDB control,0
+CON,20201119,Day 3,2,2,S. aureus,PDB control,0
+146,20201123,Day 7,2,1,E. coli,0.1ng/mL LPS,0
+146,20201123,Day 7,2,2,E. coli,0.1ng/mL LPS,0
+146,20201123,Day 7,2,1,E. coli,100ng/mL LPS,0
+146,20201123,Day 7,2,2,E. coli,100ng/mL LPS,0
+146,20201123,Day 7,2,1,E. coli,0.1ng/mL LTA,0
+146,20201123,Day 7,2,2,E. coli,0.1ng/mL LTA,0
+146,20201123,Day 7,2,1,E. coli,100ng/mL LTA,0
+146,20201123,Day 7,2,2,E. coli,100ng/mL LTA,0
+146,20201123,Day 7,2,1,E. coli,Autoclaved bacteria,0
+146,20201123,Day 7,2,2,E. coli,Autoclaved bacteria,0
+146,20201123,Day 7,2,1,E. coli,Fungi alone,0
+146,20201123,Day 7,2,2,E. coli,Fungi alone,0
+CON,20201123,Day 7,2,1,E. coli,CON control,0
+CON,20201123,Day 7,2,2,E. coli,CON control,0
+CON,20201123,Day 7,2,1,E. coli,PDB control,0
+CON,20201123,Day 7,2,2,E. coli,PDB control,0
+146,20201123,Day 7,2,1,S. aureus,0.1ng/mL LPS,0
+146,20201123,Day 7,2,2,S. aureus,0.1ng/mL LPS,0
+146,20201123,Day 7,2,1,S. aureus,100ng/mL LPS,0
+146,20201123,Day 7,2,2,S. aureus,100ng/mL LPS,0
+146,20201123,Day 7,2,1,S. aureus,0.1ng/mL LTA,0
+146,20201123,Day 7,2,2,S. aureus,0.1ng/mL LTA,0
+146,20201123,Day 7,2,1,S. aureus,100ng/mL LTA,0
+146,20201123,Day 7,2,2,S. aureus,100ng/mL LTA,0
+146,20201123,Day 7,2,1,S. aureus,Autoclaved bacteria,0
+146,20201123,Day 7,2,2,S. aureus,Autoclaved bacteria,0
+146,20201123,Day 7,2,1,S. aureus,Fungi alone,0
+146,20201123,Day 7,2,2,S. aureus,Fungi alone,0
+CON,20201123,Day 7,2,1,S. aureus,CON control,0
+CON,20201123,Day 7,2,2,S. aureus,CON control,0
+CON,20201123,Day 7,2,1,S. aureus,PDB control,0
+CON,20201123,Day 7,2,2,S. aureus,PDB control,0
+146,20201130,Day14,2,1,E. coli,0.1ng/mL LPS,0
+146,20201130,Day14,2,2,E. coli,0.1ng/mL LPS,0
+146,20201130,Day14,2,1,E. coli,100ng/mL LPS,0
+146,20201130,Day14,2,2,E. coli,100ng/mL LPS,0
+146,20201130,Day14,2,1,E. coli,0.1ng/mL LTA,0
+146,20201130,Day14,2,2,E. coli,0.1ng/mL LTA,0
+146,20201130,Day14,2,1,E. coli,100ng/mL LTA,0
+146,20201130,Day14,2,2,E. coli,100ng/mL LTA,0
+146,20201130,Day14,2,1,E. coli,Autoclaved bacteria,0
+146,20201130,Day14,2,2,E. coli,Autoclaved bacteria,0
+146,20201130,Day14,2,1,E. coli,Fungi alone,0
+146,20201130,Day14,2,2,E. coli,Fungi alone,0
+CON,20201130,Day14,2,1,E. coli,CON control,0
+CON,20201130,Day14,2,2,E. coli,CON control,0
+CON,20201130,Day14,2,1,E. coli,PDB control,0
+CON,20201130,Day14,2,2,E. coli,PDB control,0
+146,20201130,Day14,2,1,S. aureus,0.1ng/mL LPS,0
+146,20201130,Day14,2,2,S. aureus,0.1ng/mL LPS,0
+146,20201130,Day14,2,1,S. aureus,100ng/mL LPS,0
+146,20201130,Day14,2,2,S. aureus,100ng/mL LPS,0
+146,20201130,Day14,2,1,S. aureus,0.1ng/mL LTA,0
+146,20201130,Day14,2,2,S. aureus,0.1ng/mL LTA,0
+146,20201130,Day14,2,1,S. aureus,100ng/mL LTA,0
+146,20201130,Day14,2,2,S. aureus,100ng/mL LTA,0
+146,20201130,Day14,2,1,S. aureus,Autoclaved bacteria,0
+146,20201130,Day14,2,2,S. aureus,Autoclaved bacteria,0
+146,20201130,Day14,2,1,S. aureus,Fungi alone,0
+146,20201130,Day14,2,2,S. aureus,Fungi alone,0
+CON,20201130,Day14,2,1,S. aureus,CON control,0
+CON,20201130,Day14,2,2,S. aureus,CON control,0
+CON,20201130,Day14,2,1,S. aureus,PDB control,0
+CON,20201130,Day14,2,2,S. aureus,PDB control,0
+13875,20201119,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+13875,20201119,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+13875,20201119,Day 3,2,1,E. coli,100ng/mL LPS,0
+13875,20201119,Day 3,2,2,E. coli,100ng/mL LPS,0
+13875,20201119,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+13875,20201119,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+13875,20201119,Day 3,2,1,E. coli,100ng/mL LTA,0
+13875,20201119,Day 3,2,2,E. coli,100ng/mL LTA,0
+13875,20201119,Day 3,2,1,E. coli,Autoclaved bacteria,0
+13875,20201119,Day 3,2,2,E. coli,Autoclaved bacteria,0
+13875,20201119,Day 3,2,1,E. coli,Fungi alone,0
+13875,20201119,Day 3,2,2,E. coli,Fungi alone,0
+13875,20201119,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+13875,20201119,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+13875,20201119,Day 3,2,1,S. aureus,100ng/mL LPS,0
+13875,20201119,Day 3,2,2,S. aureus,100ng/mL LPS,0
+13875,20201119,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+13875,20201119,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+13875,20201119,Day 3,2,1,S. aureus,100ng/mL LTA,0
+13875,20201119,Day 3,2,2,S. aureus,100ng/mL LTA,0
+13875,20201119,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+13875,20201119,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+13875,20201119,Day 3,2,1,S. aureus,Fungi alone,0
+13875,20201119,Day 3,2,2,S. aureus,Fungi alone,0
+13875,20201123,Day 7,2,1,E. coli,0.1ng/mL LPS,0
+13875,20201123,Day 7,2,2,E. coli,0.1ng/mL LPS,0
+13875,20201123,Day 7,2,1,E. coli,100ng/mL LPS,0
+13875,20201123,Day 7,2,2,E. coli,100ng/mL LPS,0
+13875,20201123,Day 7,2,1,E. coli,0.1ng/mL LTA,0
+13875,20201123,Day 7,2,2,E. coli,0.1ng/mL LTA,0
+13875,20201123,Day 7,2,1,E. coli,100ng/mL LTA,0
+13875,20201123,Day 7,2,2,E. coli,100ng/mL LTA,0
+13875,20201123,Day 7,2,1,E. coli,Autoclaved bacteria,0
+13875,20201123,Day 7,2,2,E. coli,Autoclaved bacteria,0
+13875,20201123,Day 7,2,1,E. coli,Fungi alone,0
+13875,20201123,Day 7,2,2,E. coli,Fungi alone,0
+13875,20201123,Day 7,2,1,S. aureus,0.1ng/mL LPS,0
+13875,20201123,Day 7,2,2,S. aureus,0.1ng/mL LPS,0
+13875,20201123,Day 7,2,1,S. aureus,100ng/mL LPS,0
+13875,20201123,Day 7,2,2,S. aureus,100ng/mL LPS,0
+13875,20201123,Day 7,2,1,S. aureus,0.1ng/mL LTA,0
+13875,20201123,Day 7,2,2,S. aureus,0.1ng/mL LTA,0
+13875,20201123,Day 7,2,1,S. aureus,100ng/mL LTA,0
+13875,20201123,Day 7,2,2,S. aureus,100ng/mL LTA,0
+13875,20201123,Day 7,2,1,S. aureus,Autoclaved bacteria,0
+13875,20201123,Day 7,2,2,S. aureus,Autoclaved bacteria,0
+13875,20201123,Day 7,2,1,S. aureus,Fungi alone,0
+13875,20201123,Day 7,2,2,S. aureus,Fungi alone,0
+13875,20201130,Day14,2,1,E. coli,0.1ng/mL LPS,0
+13875,20201130,Day14,2,2,E. coli,0.1ng/mL LPS,0
+13875,20201130,Day14,2,1,E. coli,100ng/mL LPS,0
+13875,20201130,Day14,2,2,E. coli,100ng/mL LPS,0
+13875,20201130,Day14,2,1,E. coli,0.1ng/mL LTA,0
+13875,20201130,Day14,2,2,E. coli,0.1ng/mL LTA,0
+13875,20201130,Day14,2,1,E. coli,100ng/mL LTA,0
+13875,20201130,Day14,2,2,E. coli,100ng/mL LTA,0
+13875,20201130,Day14,2,1,E. coli,Autoclaved bacteria,0
+13875,20201130,Day14,2,2,E. coli,Autoclaved bacteria,0
+13875,20201130,Day14,2,1,E. coli,Fungi alone,0
+13875,20201130,Day14,2,2,E. coli,Fungi alone,0
+13875,20201130,Day14,2,1,S. aureus,0.1ng/mL LPS,0
+13875,20201130,Day14,2,2,S. aureus,0.1ng/mL LPS,0
+13875,20201130,Day14,2,1,S. aureus,100ng/mL LPS,0
+13875,20201130,Day14,2,2,S. aureus,100ng/mL LPS,0
+13875,20201130,Day14,2,1,S. aureus,0.1ng/mL LTA,0
+13875,20201130,Day14,2,2,S. aureus,0.1ng/mL LTA,0
+13875,20201130,Day14,2,1,S. aureus,100ng/mL LTA,0
+13875,20201130,Day14,2,2,S. aureus,100ng/mL LTA,0
+13875,20201130,Day14,2,1,S. aureus,Autoclaved bacteria,0
+13875,20201130,Day14,2,2,S. aureus,Autoclaved bacteria,0
+13875,20201130,Day14,2,1,S. aureus,Fungi alone,0
+13875,20201130,Day14,2,2,S. aureus,Fungi alone,0
+13903,20201119,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+13903,20201119,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+13903,20201119,Day 3,2,1,E. coli,100ng/mL LPS,0
+13903,20201119,Day 3,2,2,E. coli,100ng/mL LPS,0
+13903,20201119,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+13903,20201119,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+13903,20201119,Day 3,2,1,E. coli,100ng/mL LTA,0
+13903,20201119,Day 3,2,2,E. coli,100ng/mL LTA,0
+13903,20201119,Day 3,2,1,E. coli,Autoclaved bacteria,0
+13903,20201119,Day 3,2,2,E. coli,Autoclaved bacteria,0
+13903,20201119,Day 3,2,1,E. coli,Fungi alone,0
+13903,20201119,Day 3,2,2,E. coli,Fungi alone,0
+13903,20201119,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+13903,20201119,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+13903,20201119,Day 3,2,1,S. aureus,100ng/mL LPS,0
+13903,20201119,Day 3,2,2,S. aureus,100ng/mL LPS,0
+13903,20201119,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+13903,20201119,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+13903,20201119,Day 3,2,1,S. aureus,100ng/mL LTA,0
+13903,20201119,Day 3,2,2,S. aureus,100ng/mL LTA,0
+13903,20201119,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+13903,20201119,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+13903,20201119,Day 3,2,1,S. aureus,Fungi alone,0
+13903,20201119,Day 3,2,2,S. aureus,Fungi alone,0
+13903,20201123,Day 7,2,1,E. coli,0.1ng/mL LPS,0
+13903,20201123,Day 7,2,2,E. coli,0.1ng/mL LPS,0
+13903,20201123,Day 7,2,1,E. coli,100ng/mL LPS,0
+13903,20201123,Day 7,2,2,E. coli,100ng/mL LPS,0
+13903,20201123,Day 7,2,1,E. coli,0.1ng/mL LTA,0
+13903,20201123,Day 7,2,2,E. coli,0.1ng/mL LTA,0
+13903,20201123,Day 7,2,1,E. coli,100ng/mL LTA,0
+13903,20201123,Day 7,2,2,E. coli,100ng/mL LTA,0
+13903,20201123,Day 7,2,1,E. coli,Autoclaved bacteria,0
+13903,20201123,Day 7,2,2,E. coli,Autoclaved bacteria,0
+13903,20201123,Day 7,2,1,E. coli,Fungi alone,0
+13903,20201123,Day 7,2,2,E. coli,Fungi alone,0
+13903,20201123,Day 7,2,1,S. aureus,0.1ng/mL LPS,0
+13903,20201123,Day 7,2,2,S. aureus,0.1ng/mL LPS,0
+13903,20201123,Day 7,2,1,S. aureus,100ng/mL LPS,0
+13903,20201123,Day 7,2,2,S. aureus,100ng/mL LPS,0
+13903,20201123,Day 7,2,1,S. aureus,0.1ng/mL LTA,0
+13903,20201123,Day 7,2,2,S. aureus,0.1ng/mL LTA,0
+13903,20201123,Day 7,2,1,S. aureus,100ng/mL LTA,0
+13903,20201123,Day 7,2,2,S. aureus,100ng/mL LTA,0
+13903,20201123,Day 7,2,1,S. aureus,Autoclaved bacteria,0
+13903,20201123,Day 7,2,2,S. aureus,Autoclaved bacteria,0
+13903,20201123,Day 7,2,1,S. aureus,Fungi alone,0
+13903,20201123,Day 7,2,2,S. aureus,Fungi alone,0
+13903,20201130,Day14,2,1,E. coli,0.1ng/mL LPS,0
+13903,20201130,Day14,2,2,E. coli,0.1ng/mL LPS,0
+13903,20201130,Day14,2,1,E. coli,100ng/mL LPS,0
+13903,20201130,Day14,2,2,E. coli,100ng/mL LPS,0
+13903,20201130,Day14,2,1,E. coli,0.1ng/mL LTA,0
+13903,20201130,Day14,2,2,E. coli,0.1ng/mL LTA,0
+13903,20201130,Day14,2,1,E. coli,100ng/mL LTA,0
+13903,20201130,Day14,2,2,E. coli,100ng/mL LTA,0
+13903,20201130,Day14,2,1,E. coli,Autoclaved bacteria,0
+13903,20201130,Day14,2,2,E. coli,Autoclaved bacteria,0
+13903,20201130,Day14,2,1,E. coli,Fungi alone,0
+13903,20201130,Day14,2,2,E. coli,Fungi alone,0
+13903,20201130,Day14,2,1,S. aureus,0.1ng/mL LPS,0
+13903,20201130,Day14,2,2,S. aureus,0.1ng/mL LPS,0
+13903,20201130,Day14,2,1,S. aureus,100ng/mL LPS,0
+13903,20201130,Day14,2,2,S. aureus,100ng/mL LPS,0
+13903,20201130,Day14,2,1,S. aureus,0.1ng/mL LTA,0
+13903,20201130,Day14,2,2,S. aureus,0.1ng/mL LTA,0
+13903,20201130,Day14,2,1,S. aureus,100ng/mL LTA,0
+13903,20201130,Day14,2,2,S. aureus,100ng/mL LTA,0
+13903,20201130,Day14,2,1,S. aureus,Autoclaved bacteria,0
+13903,20201130,Day14,2,2,S. aureus,Autoclaved bacteria,0
+13903,20201130,Day14,2,1,S. aureus,Fungi alone,0
+13903,20201130,Day14,2,2,S. aureus,Fungi alone,0
+19129,20201119,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+19129,20201119,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+19129,20201119,Day 3,2,1,E. coli,100ng/mL LPS,0
+19129,20201119,Day 3,2,2,E. coli,100ng/mL LPS,0
+19129,20201119,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+19129,20201119,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+19129,20201119,Day 3,2,1,E. coli,100ng/mL LTA,0
+19129,20201119,Day 3,2,2,E. coli,100ng/mL LTA,0
+19129,20201119,Day 3,2,1,E. coli,Autoclaved bacteria,0
+19129,20201119,Day 3,2,2,E. coli,Autoclaved bacteria,0
+19129,20201119,Day 3,2,1,E. coli,Fungi alone,0
+19129,20201119,Day 3,2,2,E. coli,Fungi alone,0
+19129,20201119,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+19129,20201119,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+19129,20201119,Day 3,2,1,S. aureus,100ng/mL LPS,0
+19129,20201119,Day 3,2,2,S. aureus,100ng/mL LPS,0
+19129,20201119,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+19129,20201119,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+19129,20201119,Day 3,2,1,S. aureus,100ng/mL LTA,0
+19129,20201119,Day 3,2,2,S. aureus,100ng/mL LTA,0
+19129,20201119,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+19129,20201119,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+19129,20201119,Day 3,2,1,S. aureus,Fungi alone,0
+19129,20201119,Day 3,2,2,S. aureus,Fungi alone,0
+19129,20201123,Day 7,2,1,E. coli,0.1ng/mL LPS,0
+19129,20201123,Day 7,2,2,E. coli,0.1ng/mL LPS,0
+19129,20201123,Day 7,2,1,E. coli,100ng/mL LPS,0
+19129,20201123,Day 7,2,2,E. coli,100ng/mL LPS,0
+19129,20201123,Day 7,2,1,E. coli,0.1ng/mL LTA,0
+19129,20201123,Day 7,2,2,E. coli,0.1ng/mL LTA,0
+19129,20201123,Day 7,2,1,E. coli,100ng/mL LTA,0
+19129,20201123,Day 7,2,2,E. coli,100ng/mL LTA,0
+19129,20201123,Day 7,2,1,E. coli,Autoclaved bacteria,0
+19129,20201123,Day 7,2,2,E. coli,Autoclaved bacteria,0
+19129,20201123,Day 7,2,1,E. coli,Fungi alone,0
+19129,20201123,Day 7,2,2,E. coli,Fungi alone,0
+19129,20201123,Day 7,2,1,S. aureus,0.1ng/mL LPS,0
+19129,20201123,Day 7,2,2,S. aureus,0.1ng/mL LPS,0
+19129,20201123,Day 7,2,1,S. aureus,100ng/mL LPS,0
+19129,20201123,Day 7,2,2,S. aureus,100ng/mL LPS,0
+19129,20201123,Day 7,2,1,S. aureus,0.1ng/mL LTA,0
+19129,20201123,Day 7,2,2,S. aureus,0.1ng/mL LTA,0
+19129,20201123,Day 7,2,1,S. aureus,100ng/mL LTA,0
+19129,20201123,Day 7,2,2,S. aureus,100ng/mL LTA,0
+19129,20201123,Day 7,2,1,S. aureus,Autoclaved bacteria,0
+19129,20201123,Day 7,2,2,S. aureus,Autoclaved bacteria,0
+19129,20201123,Day 7,2,1,S. aureus,Fungi alone,0
+19129,20201123,Day 7,2,2,S. aureus,Fungi alone,0
+19129,20201130,Day14,2,1,E. coli,0.1ng/mL LPS,0
+19129,20201130,Day14,2,2,E. coli,0.1ng/mL LPS,0
+19129,20201130,Day14,2,1,E. coli,100ng/mL LPS,0
+19129,20201130,Day14,2,2,E. coli,100ng/mL LPS,0
+19129,20201130,Day14,2,1,E. coli,0.1ng/mL LTA,0
+19129,20201130,Day14,2,2,E. coli,0.1ng/mL LTA,0
+19129,20201130,Day14,2,1,E. coli,100ng/mL LTA,0
+19129,20201130,Day14,2,2,E. coli,100ng/mL LTA,0
+19129,20201130,Day14,2,1,E. coli,Autoclaved bacteria,0
+19129,20201130,Day14,2,2,E. coli,Autoclaved bacteria,0
+19129,20201130,Day14,2,1,E. coli,Fungi alone,0
+19129,20201130,Day14,2,2,E. coli,Fungi alone,0
+19129,20201130,Day14,2,1,S. aureus,0.1ng/mL LPS,0
+19129,20201130,Day14,2,2,S. aureus,0.1ng/mL LPS,0
+19129,20201130,Day14,2,1,S. aureus,100ng/mL LPS,0
+19129,20201130,Day14,2,2,S. aureus,100ng/mL LPS,0
+19129,20201130,Day14,2,1,S. aureus,0.1ng/mL LTA,0
+19129,20201130,Day14,2,2,S. aureus,0.1ng/mL LTA,0
+19129,20201130,Day14,2,1,S. aureus,100ng/mL LTA,0
+19129,20201130,Day14,2,2,S. aureus,100ng/mL LTA,0
+19129,20201130,Day14,2,1,S. aureus,Autoclaved bacteria,0
+19129,20201130,Day14,2,2,S. aureus,Autoclaved bacteria,0
+19129,20201130,Day14,2,1,S. aureus,Fungi alone,0
+19129,20201130,Day14,2,2,S. aureus,Fungi alone,0
+5181,20201119,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+5181,20201119,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+5181,20201119,Day 3,2,1,E. coli,100ng/mL LPS,0
+5181,20201119,Day 3,2,2,E. coli,100ng/mL LPS,0
+5181,20201119,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+5181,20201119,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+5181,20201119,Day 3,2,1,E. coli,100ng/mL LTA,0
+5181,20201119,Day 3,2,2,E. coli,100ng/mL LTA,0
+5181,20201119,Day 3,2,1,E. coli,Autoclaved bacteria,0
+5181,20201119,Day 3,2,2,E. coli,Autoclaved bacteria,0
+5181,20201119,Day 3,2,1,E. coli,Fungi alone,0
+5181,20201119,Day 3,2,2,E. coli,Fungi alone,0
+5181,20201119,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+5181,20201119,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+5181,20201119,Day 3,2,1,S. aureus,100ng/mL LPS,0
+5181,20201119,Day 3,2,2,S. aureus,100ng/mL LPS,0
+5181,20201119,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+5181,20201119,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+5181,20201119,Day 3,2,1,S. aureus,100ng/mL LTA,0
+5181,20201119,Day 3,2,2,S. aureus,100ng/mL LTA,0
+5181,20201119,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+5181,20201119,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+5181,20201119,Day 3,2,1,S. aureus,Fungi alone,0
+5181,20201119,Day 3,2,2,S. aureus,Fungi alone,0
+5181,20201123,Day 7,2,1,E. coli,0.1ng/mL LPS,0
+5181,20201123,Day 7,2,2,E. coli,0.1ng/mL LPS,0
+5181,20201123,Day 7,2,1,E. coli,100ng/mL LPS,0
+5181,20201123,Day 7,2,2,E. coli,100ng/mL LPS,0
+5181,20201123,Day 7,2,1,E. coli,0.1ng/mL LTA,0
+5181,20201123,Day 7,2,2,E. coli,0.1ng/mL LTA,0
+5181,20201123,Day 7,2,1,E. coli,100ng/mL LTA,0
+5181,20201123,Day 7,2,2,E. coli,100ng/mL LTA,0
+5181,20201123,Day 7,2,1,E. coli,Autoclaved bacteria,0
+5181,20201123,Day 7,2,2,E. coli,Autoclaved bacteria,0
+5181,20201123,Day 7,2,1,E. coli,Fungi alone,0
+5181,20201123,Day 7,2,2,E. coli,Fungi alone,0
+5181,20201123,Day 7,2,1,S. aureus,0.1ng/mL LPS,0
+5181,20201123,Day 7,2,2,S. aureus,0.1ng/mL LPS,0
+5181,20201123,Day 7,2,1,S. aureus,100ng/mL LPS,0
+5181,20201123,Day 7,2,2,S. aureus,100ng/mL LPS,0
+5181,20201123,Day 7,2,1,S. aureus,0.1ng/mL LTA,0
+5181,20201123,Day 7,2,2,S. aureus,0.1ng/mL LTA,0
+5181,20201123,Day 7,2,1,S. aureus,100ng/mL LTA,0
+5181,20201123,Day 7,2,2,S. aureus,100ng/mL LTA,0
+5181,20201123,Day 7,2,1,S. aureus,Autoclaved bacteria,0
+5181,20201123,Day 7,2,2,S. aureus,Autoclaved bacteria,0
+5181,20201123,Day 7,2,1,S. aureus,Fungi alone,0
+5181,20201123,Day 7,2,2,S. aureus,Fungi alone,0
+5181,20201130,Day14,2,1,E. coli,0.1ng/mL LPS,0
+5181,20201130,Day14,2,2,E. coli,0.1ng/mL LPS,0
+5181,20201130,Day14,2,1,E. coli,100ng/mL LPS,0
+5181,20201130,Day14,2,2,E. coli,100ng/mL LPS,0
+5181,20201130,Day14,2,1,E. coli,0.1ng/mL LTA,0
+5181,20201130,Day14,2,2,E. coli,0.1ng/mL LTA,0
+5181,20201130,Day14,2,1,E. coli,100ng/mL LTA,0
+5181,20201130,Day14,2,2,E. coli,100ng/mL LTA,0
+5181,20201130,Day14,2,1,E. coli,Autoclaved bacteria,0
+5181,20201130,Day14,2,2,E. coli,Autoclaved bacteria,0
+5181,20201130,Day14,2,1,E. coli,Fungi alone,0
+5181,20201130,Day14,2,2,E. coli,Fungi alone,0
+5181,20201130,Day14,2,1,S. aureus,0.1ng/mL LPS,0
+5181,20201130,Day14,2,2,S. aureus,0.1ng/mL LPS,0
+5181,20201130,Day14,2,1,S. aureus,100ng/mL LPS,0
+5181,20201130,Day14,2,2,S. aureus,100ng/mL LPS,0
+5181,20201130,Day14,2,1,S. aureus,0.1ng/mL LTA,0
+5181,20201130,Day14,2,2,S. aureus,0.1ng/mL LTA,0
+5181,20201130,Day14,2,1,S. aureus,100ng/mL LTA,0
+5181,20201130,Day14,2,2,S. aureus,100ng/mL LTA,0
+5181,20201130,Day14,2,1,S. aureus,Autoclaved bacteria,0
+5181,20201130,Day14,2,2,S. aureus,Autoclaved bacteria,0
+5181,20201130,Day14,2,1,S. aureus,Fungi alone,0
+5181,20201130,Day14,2,2,S. aureus,Fungi alone,0
+146,20201204,Day 3,3,1,E. coli,0.1ng/mL LPS,0
+146,20201204,Day 3,3,2,E. coli,0.1ng/mL LPS,0
+146,20201204,Day 3,3,1,E. coli,100ng/mL LPS,0
+146,20201204,Day 3,3,2,E. coli,100ng/mL LPS,0
+146,20201204,Day 3,3,1,E. coli,0.1ng/mL LTA,0
+146,20201204,Day 3,3,2,E. coli,0.1ng/mL LTA,0
+146,20201204,Day 3,3,1,E. coli,100ng/mL LTA,0
+146,20201204,Day 3,3,2,E. coli,100ng/mL LTA,0
+146,20201204,Day 3,3,1,E. coli,Autoclaved bacteria,0
+146,20201204,Day 3,3,2,E. coli,Autoclaved bacteria,0
+146,20201204,Day 3,3,1,E. coli,Fungi alone,0
+146,20201204,Day 3,3,2,E. coli,Fungi alone,0
+CON,20201204,Day 3,3,1,E. coli,CON control,0
+CON,20201204,Day 3,3,2,E. coli,CON control,0
+CON,20201204,Day 3,3,1,E. coli,PDB control,0
+CON,20201204,Day 3,3,2,E. coli,PDB control,0
+146,20201204,Day 3,3,1,S. aureus,0.1ng/mL LPS,0
+146,20201204,Day 3,3,2,S. aureus,0.1ng/mL LPS,0
+146,20201204,Day 3,3,1,S. aureus,100ng/mL LPS,0
+146,20201204,Day 3,3,2,S. aureus,100ng/mL LPS,0
+146,20201204,Day 3,3,1,S. aureus,0.1ng/mL LTA,0
+146,20201204,Day 3,3,2,S. aureus,0.1ng/mL LTA,0
+146,20201204,Day 3,3,1,S. aureus,100ng/mL LTA,0
+146,20201204,Day 3,3,2,S. aureus,100ng/mL LTA,0
+146,20201204,Day 3,3,1,S. aureus,Autoclaved bacteria,0
+146,20201204,Day 3,3,2,S. aureus,Autoclaved bacteria,0
+146,20201204,Day 3,3,1,S. aureus,Fungi alone,0
+146,20201204,Day 3,3,2,S. aureus,Fungi alone,0
+CON,20201204,Day 3,3,1,S. aureus,CON control,0
+CON,20201204,Day 3,3,2,S. aureus,CON control,0
+CON,20201204,Day 3,3,1,S. aureus,PDB control,0
+CON,20201204,Day 3,3,2,S. aureus,PDB control,0
+146,20201208,Day 7,3,1,E. coli,0.1ng/mL LPS,0
+146,20201208,Day 7,3,2,E. coli,0.1ng/mL LPS,0
+146,20201208,Day 7,3,1,E. coli,100ng/mL LPS,0
+146,20201208,Day 7,3,2,E. coli,100ng/mL LPS,0
+146,20201208,Day 7,3,1,E. coli,0.1ng/mL LTA,0
+146,20201208,Day 7,3,2,E. coli,0.1ng/mL LTA,0
+146,20201208,Day 7,3,1,E. coli,100ng/mL LTA,0
+146,20201208,Day 7,3,2,E. coli,100ng/mL LTA,0
+146,20201208,Day 7,3,1,E. coli,Autoclaved bacteria,0
+146,20201208,Day 7,3,2,E. coli,Autoclaved bacteria,0
+146,20201208,Day 7,3,1,E. coli,Fungi alone,0
+146,20201208,Day 7,3,2,E. coli,Fungi alone,0
+CON,20201208,Day 7,3,1,E. coli,CON control,0
+CON,20201208,Day 7,3,2,E. coli,CON control,0
+CON,20201208,Day 7,3,1,E. coli,PDB control,0
+CON,20201208,Day 7,3,2,E. coli,PDB control,0
+146,20201208,Day 7,3,1,S. aureus,0.1ng/mL LPS,0
+146,20201208,Day 7,3,2,S. aureus,0.1ng/mL LPS,0
+146,20201208,Day 7,3,1,S. aureus,100ng/mL LPS,0
+146,20201208,Day 7,3,2,S. aureus,100ng/mL LPS,0
+146,20201208,Day 7,3,1,S. aureus,0.1ng/mL LTA,0
+146,20201208,Day 7,3,2,S. aureus,0.1ng/mL LTA,0
+146,20201208,Day 7,3,1,S. aureus,100ng/mL LTA,0
+146,20201208,Day 7,3,2,S. aureus,100ng/mL LTA,0
+146,20201208,Day 7,3,1,S. aureus,Autoclaved bacteria,0
+146,20201208,Day 7,3,2,S. aureus,Autoclaved bacteria,0
+146,20201208,Day 7,3,1,S. aureus,Fungi alone,0
+146,20201208,Day 7,3,2,S. aureus,Fungi alone,0
+CON,20201208,Day 7,3,1,S. aureus,CON control,0
+CON,20201208,Day 7,3,2,S. aureus,CON control,0
+CON,20201208,Day 7,3,1,S. aureus,PDB control,0
+CON,20201208,Day 7,3,2,S. aureus,PDB control,0
+146,20201215,Day14,3,1,E. coli,0.1ng/mL LPS,0
+146,20201215,Day14,3,2,E. coli,0.1ng/mL LPS,0
+146,20201215,Day14,3,1,E. coli,100ng/mL LPS,0
+146,20201215,Day14,3,2,E. coli,100ng/mL LPS,0
+146,20201215,Day14,3,1,E. coli,0.1ng/mL LTA,0
+146,20201215,Day14,3,2,E. coli,0.1ng/mL LTA,0
+146,20201215,Day14,3,1,E. coli,100ng/mL LTA,0
+146,20201215,Day14,3,2,E. coli,100ng/mL LTA,0
+146,20201215,Day14,3,1,E. coli,Autoclaved bacteria,0
+146,20201215,Day14,3,2,E. coli,Autoclaved bacteria,0
+146,20201215,Day14,3,1,E. coli,Fungi alone,0
+146,20201215,Day14,3,2,E. coli,Fungi alone,0
+CON,20201215,Day14,3,1,E. coli,CON control,0
+CON,20201215,Day14,3,2,E. coli,CON control,0
+CON,20201215,Day14,3,1,E. coli,PDB control,0
+CON,20201215,Day14,3,2,E. coli,PDB control,0
+146,20201215,Day14,3,1,S. aureus,0.1ng/mL LPS,0
+146,20201215,Day14,3,2,S. aureus,0.1ng/mL LPS,0
+146,20201215,Day14,3,1,S. aureus,100ng/mL LPS,0
+146,20201215,Day14,3,2,S. aureus,100ng/mL LPS,0
+146,20201215,Day14,3,1,S. aureus,0.1ng/mL LTA,0
+146,20201215,Day14,3,2,S. aureus,0.1ng/mL LTA,0
+146,20201215,Day14,3,1,S. aureus,100ng/mL LTA,0
+146,20201215,Day14,3,2,S. aureus,100ng/mL LTA,0
+146,20201215,Day14,3,1,S. aureus,Autoclaved bacteria,0
+146,20201215,Day14,3,2,S. aureus,Autoclaved bacteria,0
+146,20201215,Day14,3,1,S. aureus,Fungi alone,0
+146,20201215,Day14,3,2,S. aureus,Fungi alone,0
+CON,20201215,Day14,3,1,S. aureus,CON control,0
+CON,20201215,Day14,3,2,S. aureus,CON control,0
+CON,20201215,Day14,3,1,S. aureus,PDB control,0
+CON,20201215,Day14,3,2,S. aureus,PDB control,0
+13875,20201204,Day 3,3,1,E. coli,0.1ng/mL LPS,0
+13875,20201204,Day 3,3,2,E. coli,0.1ng/mL LPS,0
+13875,20201204,Day 3,3,1,E. coli,100ng/mL LPS,0
+13875,20201204,Day 3,3,2,E. coli,100ng/mL LPS,0
+13875,20201204,Day 3,3,1,E. coli,0.1ng/mL LTA,0
+13875,20201204,Day 3,3,2,E. coli,0.1ng/mL LTA,0
+13875,20201204,Day 3,3,1,E. coli,100ng/mL LTA,0
+13875,20201204,Day 3,3,2,E. coli,100ng/mL LTA,0
+13875,20201204,Day 3,3,1,E. coli,Autoclaved bacteria,0
+13875,20201204,Day 3,3,2,E. coli,Autoclaved bacteria,0
+13875,20201204,Day 3,3,1,E. coli,Fungi alone,0
+13875,20201204,Day 3,3,2,E. coli,Fungi alone,0
+13875,20201204,Day 3,3,1,S. aureus,0.1ng/mL LPS,0
+13875,20201204,Day 3,3,2,S. aureus,0.1ng/mL LPS,0
+13875,20201204,Day 3,3,1,S. aureus,100ng/mL LPS,0
+13875,20201204,Day 3,3,2,S. aureus,100ng/mL LPS,0
+13875,20201204,Day 3,3,1,S. aureus,0.1ng/mL LTA,0
+13875,20201204,Day 3,3,2,S. aureus,0.1ng/mL LTA,0
+13875,20201204,Day 3,3,1,S. aureus,100ng/mL LTA,0
+13875,20201204,Day 3,3,2,S. aureus,100ng/mL LTA,0
+13875,20201204,Day 3,3,1,S. aureus,Autoclaved bacteria,0
+13875,20201204,Day 3,3,2,S. aureus,Autoclaved bacteria,0
+13875,20201204,Day 3,3,1,S. aureus,Fungi alone,0
+13875,20201204,Day 3,3,2,S. aureus,Fungi alone,0
+13875,20201208,Day 7,3,1,E. coli,0.1ng/mL LPS,0
+13875,20201208,Day 7,3,2,E. coli,0.1ng/mL LPS,0
+13875,20201208,Day 7,3,1,E. coli,100ng/mL LPS,0
+13875,20201208,Day 7,3,2,E. coli,100ng/mL LPS,0
+13875,20201208,Day 7,3,1,E. coli,0.1ng/mL LTA,0
+13875,20201208,Day 7,3,2,E. coli,0.1ng/mL LTA,0
+13875,20201208,Day 7,3,1,E. coli,100ng/mL LTA,0
+13875,20201208,Day 7,3,2,E. coli,100ng/mL LTA,0
+13875,20201208,Day 7,3,1,E. coli,Autoclaved bacteria,0
+13875,20201208,Day 7,3,2,E. coli,Autoclaved bacteria,0
+13875,20201208,Day 7,3,1,E. coli,Fungi alone,0
+13875,20201208,Day 7,3,2,E. coli,Fungi alone,0
+13875,20201208,Day 7,3,1,S. aureus,0.1ng/mL LPS,0
+13875,20201208,Day 7,3,2,S. aureus,0.1ng/mL LPS,0
+13875,20201208,Day 7,3,1,S. aureus,100ng/mL LPS,0
+13875,20201208,Day 7,3,2,S. aureus,100ng/mL LPS,0
+13875,20201208,Day 7,3,1,S. aureus,0.1ng/mL LTA,0
+13875,20201208,Day 7,3,2,S. aureus,0.1ng/mL LTA,0
+13875,20201208,Day 7,3,1,S. aureus,100ng/mL LTA,0
+13875,20201208,Day 7,3,2,S. aureus,100ng/mL LTA,0
+13875,20201208,Day 7,3,1,S. aureus,Autoclaved bacteria,0
+13875,20201208,Day 7,3,2,S. aureus,Autoclaved bacteria,0
+13875,20201208,Day 7,3,1,S. aureus,Fungi alone,0
+13875,20201208,Day 7,3,2,S. aureus,Fungi alone,0
+13875,20201215,Day14,3,1,E. coli,0.1ng/mL LPS,0
+13875,20201215,Day14,3,2,E. coli,0.1ng/mL LPS,0
+13875,20201215,Day14,3,1,E. coli,100ng/mL LPS,0
+13875,20201215,Day14,3,2,E. coli,100ng/mL LPS,0
+13875,20201215,Day14,3,1,E. coli,0.1ng/mL LTA,0
+13875,20201215,Day14,3,2,E. coli,0.1ng/mL LTA,0
+13875,20201215,Day14,3,1,E. coli,100ng/mL LTA,0
+13875,20201215,Day14,3,2,E. coli,100ng/mL LTA,0
+13875,20201215,Day14,3,1,E. coli,Autoclaved bacteria,0
+13875,20201215,Day14,3,2,E. coli,Autoclaved bacteria,0
+13875,20201215,Day14,3,1,E. coli,Fungi alone,0
+13875,20201215,Day14,3,2,E. coli,Fungi alone,0
+13875,20201215,Day14,3,1,S. aureus,0.1ng/mL LPS,0
+13875,20201215,Day14,3,2,S. aureus,0.1ng/mL LPS,0
+13875,20201215,Day14,3,1,S. aureus,100ng/mL LPS,0
+13875,20201215,Day14,3,2,S. aureus,100ng/mL LPS,0
+13875,20201215,Day14,3,1,S. aureus,0.1ng/mL LTA,0
+13875,20201215,Day14,3,2,S. aureus,0.1ng/mL LTA,0
+13875,20201215,Day14,3,1,S. aureus,100ng/mL LTA,0
+13875,20201215,Day14,3,2,S. aureus,100ng/mL LTA,0
+13875,20201215,Day14,3,1,S. aureus,Autoclaved bacteria,0
+13875,20201215,Day14,3,2,S. aureus,Autoclaved bacteria,0
+13875,20201215,Day14,3,1,S. aureus,Fungi alone,0
+13875,20201215,Day14,3,2,S. aureus,Fungi alone,0
+13903,20201204,Day 3,3,1,E. coli,0.1ng/mL LPS,0
+13903,20201204,Day 3,3,2,E. coli,0.1ng/mL LPS,0
+13903,20201204,Day 3,3,1,E. coli,100ng/mL LPS,0
+13903,20201204,Day 3,3,2,E. coli,100ng/mL LPS,0
+13903,20201204,Day 3,3,1,E. coli,0.1ng/mL LTA,0
+13903,20201204,Day 3,3,2,E. coli,0.1ng/mL LTA,0
+13903,20201204,Day 3,3,1,E. coli,100ng/mL LTA,0
+13903,20201204,Day 3,3,2,E. coli,100ng/mL LTA,0
+13903,20201204,Day 3,3,1,E. coli,Autoclaved bacteria,0
+13903,20201204,Day 3,3,2,E. coli,Autoclaved bacteria,0
+13903,20201204,Day 3,3,1,E. coli,Fungi alone,0
+13903,20201204,Day 3,3,2,E. coli,Fungi alone,0
+13903,20201204,Day 3,3,1,S. aureus,0.1ng/mL LPS,0
+13903,20201204,Day 3,3,2,S. aureus,0.1ng/mL LPS,0
+13903,20201204,Day 3,3,1,S. aureus,100ng/mL LPS,0
+13903,20201204,Day 3,3,2,S. aureus,100ng/mL LPS,0
+13903,20201204,Day 3,3,1,S. aureus,0.1ng/mL LTA,0
+13903,20201204,Day 3,3,2,S. aureus,0.1ng/mL LTA,0
+13903,20201204,Day 3,3,1,S. aureus,100ng/mL LTA,0
+13903,20201204,Day 3,3,2,S. aureus,100ng/mL LTA,0
+13903,20201204,Day 3,3,1,S. aureus,Autoclaved bacteria,0
+13903,20201204,Day 3,3,2,S. aureus,Autoclaved bacteria,0
+13903,20201204,Day 3,3,1,S. aureus,Fungi alone,0
+13903,20201204,Day 3,3,2,S. aureus,Fungi alone,0
+13903,20201208,Day 7,3,1,E. coli,0.1ng/mL LPS,0
+13903,20201208,Day 7,3,2,E. coli,0.1ng/mL LPS,0
+13903,20201208,Day 7,3,1,E. coli,100ng/mL LPS,0
+13903,20201208,Day 7,3,2,E. coli,100ng/mL LPS,0
+13903,20201208,Day 7,3,1,E. coli,0.1ng/mL LTA,0
+13903,20201208,Day 7,3,2,E. coli,0.1ng/mL LTA,0
+13903,20201208,Day 7,3,1,E. coli,100ng/mL LTA,0
+13903,20201208,Day 7,3,2,E. coli,100ng/mL LTA,0
+13903,20201208,Day 7,3,1,E. coli,Autoclaved bacteria,0
+13903,20201208,Day 7,3,2,E. coli,Autoclaved bacteria,0
+13903,20201208,Day 7,3,1,E. coli,Fungi alone,0
+13903,20201208,Day 7,3,2,E. coli,Fungi alone,0
+13903,20201208,Day 7,3,1,S. aureus,0.1ng/mL LPS,0
+13903,20201208,Day 7,3,2,S. aureus,0.1ng/mL LPS,0
+13903,20201208,Day 7,3,1,S. aureus,100ng/mL LPS,0
+13903,20201208,Day 7,3,2,S. aureus,100ng/mL LPS,0
+13903,20201208,Day 7,3,1,S. aureus,0.1ng/mL LTA,0
+13903,20201208,Day 7,3,2,S. aureus,0.1ng/mL LTA,0
+13903,20201208,Day 7,3,1,S. aureus,100ng/mL LTA,0
+13903,20201208,Day 7,3,2,S. aureus,100ng/mL LTA,0
+13903,20201208,Day 7,3,1,S. aureus,Autoclaved bacteria,0
+13903,20201208,Day 7,3,2,S. aureus,Autoclaved bacteria,0
+13903,20201208,Day 7,3,1,S. aureus,Fungi alone,0
+13903,20201208,Day 7,3,2,S. aureus,Fungi alone,0
+13903,20201215,Day14,3,1,E. coli,0.1ng/mL LPS,0
+13903,20201215,Day14,3,2,E. coli,0.1ng/mL LPS,0
+13903,20201215,Day14,3,1,E. coli,100ng/mL LPS,0
+13903,20201215,Day14,3,2,E. coli,100ng/mL LPS,0
+13903,20201215,Day14,3,1,E. coli,0.1ng/mL LTA,0
+13903,20201215,Day14,3,2,E. coli,0.1ng/mL LTA,0
+13903,20201215,Day14,3,1,E. coli,100ng/mL LTA,0
+13903,20201215,Day14,3,2,E. coli,100ng/mL LTA,0
+13903,20201215,Day14,3,1,E. coli,Autoclaved bacteria,0
+13903,20201215,Day14,3,2,E. coli,Autoclaved bacteria,0
+13903,20201215,Day14,3,1,E. coli,Fungi alone,0
+13903,20201215,Day14,3,2,E. coli,Fungi alone,0
+13903,20201215,Day14,3,1,S. aureus,0.1ng/mL LPS,0
+13903,20201215,Day14,3,2,S. aureus,0.1ng/mL LPS,0
+13903,20201215,Day14,3,1,S. aureus,100ng/mL LPS,0
+13903,20201215,Day14,3,2,S. aureus,100ng/mL LPS,0
+13903,20201215,Day14,3,1,S. aureus,0.1ng/mL LTA,0
+13903,20201215,Day14,3,2,S. aureus,0.1ng/mL LTA,0
+13903,20201215,Day14,3,1,S. aureus,100ng/mL LTA,0
+13903,20201215,Day14,3,2,S. aureus,100ng/mL LTA,0
+13903,20201215,Day14,3,1,S. aureus,Autoclaved bacteria,0
+13903,20201215,Day14,3,2,S. aureus,Autoclaved bacteria,0
+13903,20201215,Day14,3,1,S. aureus,Fungi alone,0
+13903,20201215,Day14,3,2,S. aureus,Fungi alone,0
+19129,20201204,Day 3,3,1,E. coli,0.1ng/mL LPS,0
+19129,20201204,Day 3,3,2,E. coli,0.1ng/mL LPS,0
+19129,20201204,Day 3,3,1,E. coli,100ng/mL LPS,0
+19129,20201204,Day 3,3,2,E. coli,100ng/mL LPS,0
+19129,20201204,Day 3,3,1,E. coli,0.1ng/mL LTA,0
+19129,20201204,Day 3,3,2,E. coli,0.1ng/mL LTA,0
+19129,20201204,Day 3,3,1,E. coli,100ng/mL LTA,0
+19129,20201204,Day 3,3,2,E. coli,100ng/mL LTA,0
+19129,20201204,Day 3,3,1,E. coli,Autoclaved bacteria,0
+19129,20201204,Day 3,3,2,E. coli,Autoclaved bacteria,0
+19129,20201204,Day 3,3,1,E. coli,Fungi alone,0
+19129,20201204,Day 3,3,2,E. coli,Fungi alone,0
+19129,20201204,Day 3,3,1,S. aureus,0.1ng/mL LPS,0
+19129,20201204,Day 3,3,2,S. aureus,0.1ng/mL LPS,0
+19129,20201204,Day 3,3,1,S. aureus,100ng/mL LPS,0
+19129,20201204,Day 3,3,2,S. aureus,100ng/mL LPS,0
+19129,20201204,Day 3,3,1,S. aureus,0.1ng/mL LTA,0
+19129,20201204,Day 3,3,2,S. aureus,0.1ng/mL LTA,0
+19129,20201204,Day 3,3,1,S. aureus,100ng/mL LTA,0
+19129,20201204,Day 3,3,2,S. aureus,100ng/mL LTA,0
+19129,20201204,Day 3,3,1,S. aureus,Autoclaved bacteria,0
+19129,20201204,Day 3,3,2,S. aureus,Autoclaved bacteria,0
+19129,20201204,Day 3,3,1,S. aureus,Fungi alone,0
+19129,20201204,Day 3,3,2,S. aureus,Fungi alone,0
+19129,20201208,Day 7,3,1,E. coli,0.1ng/mL LPS,0
+19129,20201208,Day 7,3,2,E. coli,0.1ng/mL LPS,0
+19129,20201208,Day 7,3,1,E. coli,100ng/mL LPS,0
+19129,20201208,Day 7,3,2,E. coli,100ng/mL LPS,0
+19129,20201208,Day 7,3,1,E. coli,0.1ng/mL LTA,0
+19129,20201208,Day 7,3,2,E. coli,0.1ng/mL LTA,0
+19129,20201208,Day 7,3,1,E. coli,100ng/mL LTA,0
+19129,20201208,Day 7,3,2,E. coli,100ng/mL LTA,0
+19129,20201208,Day 7,3,1,E. coli,Autoclaved bacteria,0
+19129,20201208,Day 7,3,2,E. coli,Autoclaved bacteria,0
+19129,20201208,Day 7,3,1,E. coli,Fungi alone,0
+19129,20201208,Day 7,3,2,E. coli,Fungi alone,0
+19129,20201208,Day 7,3,1,S. aureus,0.1ng/mL LPS,0
+19129,20201208,Day 7,3,2,S. aureus,0.1ng/mL LPS,0
+19129,20201208,Day 7,3,1,S. aureus,100ng/mL LPS,0
+19129,20201208,Day 7,3,2,S. aureus,100ng/mL LPS,0
+19129,20201208,Day 7,3,1,S. aureus,0.1ng/mL LTA,0
+19129,20201208,Day 7,3,2,S. aureus,0.1ng/mL LTA,0
+19129,20201208,Day 7,3,1,S. aureus,100ng/mL LTA,0
+19129,20201208,Day 7,3,2,S. aureus,100ng/mL LTA,0
+19129,20201208,Day 7,3,1,S. aureus,Autoclaved bacteria,0
+19129,20201208,Day 7,3,2,S. aureus,Autoclaved bacteria,0
+19129,20201208,Day 7,3,1,S. aureus,Fungi alone,0
+19129,20201208,Day 7,3,2,S. aureus,Fungi alone,0
+19129,20201215,Day14,3,1,E. coli,0.1ng/mL LPS,0
+19129,20201215,Day14,3,2,E. coli,0.1ng/mL LPS,0
+19129,20201215,Day14,3,1,E. coli,100ng/mL LPS,0
+19129,20201215,Day14,3,2,E. coli,100ng/mL LPS,0
+19129,20201215,Day14,3,1,E. coli,0.1ng/mL LTA,0
+19129,20201215,Day14,3,2,E. coli,0.1ng/mL LTA,0
+19129,20201215,Day14,3,1,E. coli,100ng/mL LTA,0
+19129,20201215,Day14,3,2,E. coli,100ng/mL LTA,0
+19129,20201215,Day14,3,1,E. coli,Autoclaved bacteria,0
+19129,20201215,Day14,3,2,E. coli,Autoclaved bacteria,0
+19129,20201215,Day14,3,1,E. coli,Fungi alone,0
+19129,20201215,Day14,3,2,E. coli,Fungi alone,0
+19129,20201215,Day14,3,1,S. aureus,0.1ng/mL LPS,0
+19129,20201215,Day14,3,2,S. aureus,0.1ng/mL LPS,0
+19129,20201215,Day14,3,1,S. aureus,100ng/mL LPS,0
+19129,20201215,Day14,3,2,S. aureus,100ng/mL LPS,0
+19129,20201215,Day14,3,1,S. aureus,0.1ng/mL LTA,0
+19129,20201215,Day14,3,2,S. aureus,0.1ng/mL LTA,0
+19129,20201215,Day14,3,1,S. aureus,100ng/mL LTA,0
+19129,20201215,Day14,3,2,S. aureus,100ng/mL LTA,0
+19129,20201215,Day14,3,1,S. aureus,Autoclaved bacteria,0
+19129,20201215,Day14,3,2,S. aureus,Autoclaved bacteria,0
+19129,20201215,Day14,3,1,S. aureus,Fungi alone,0
+19129,20201215,Day14,3,2,S. aureus,Fungi alone,0
+5181,20201204,Day 3,3,1,E. coli,0.1ng/mL LPS,0
+5181,20201204,Day 3,3,2,E. coli,0.1ng/mL LPS,0
+5181,20201204,Day 3,3,1,E. coli,100ng/mL LPS,0
+5181,20201204,Day 3,3,2,E. coli,100ng/mL LPS,0
+5181,20201204,Day 3,3,1,E. coli,0.1ng/mL LTA,0
+5181,20201204,Day 3,3,2,E. coli,0.1ng/mL LTA,0
+5181,20201204,Day 3,3,1,E. coli,100ng/mL LTA,0
+5181,20201204,Day 3,3,2,E. coli,100ng/mL LTA,0
+5181,20201204,Day 3,3,1,E. coli,Autoclaved bacteria,0
+5181,20201204,Day 3,3,2,E. coli,Autoclaved bacteria,0
+5181,20201204,Day 3,3,1,E. coli,Fungi alone,0
+5181,20201204,Day 3,3,2,E. coli,Fungi alone,0
+5181,20201204,Day 3,3,1,S. aureus,0.1ng/mL LPS,0
+5181,20201204,Day 3,3,2,S. aureus,0.1ng/mL LPS,0
+5181,20201204,Day 3,3,1,S. aureus,100ng/mL LPS,0
+5181,20201204,Day 3,3,2,S. aureus,100ng/mL LPS,0
+5181,20201204,Day 3,3,1,S. aureus,0.1ng/mL LTA,0
+5181,20201204,Day 3,3,2,S. aureus,0.1ng/mL LTA,0
+5181,20201204,Day 3,3,1,S. aureus,100ng/mL LTA,0
+5181,20201204,Day 3,3,2,S. aureus,100ng/mL LTA,0
+5181,20201204,Day 3,3,1,S. aureus,Autoclaved bacteria,0
+5181,20201204,Day 3,3,2,S. aureus,Autoclaved bacteria,0
+5181,20201204,Day 3,3,1,S. aureus,Fungi alone,0
+5181,20201204,Day 3,3,2,S. aureus,Fungi alone,0
+5181,20201208,Day 7,3,1,E. coli,0.1ng/mL LPS,0
+5181,20201208,Day 7,3,2,E. coli,0.1ng/mL LPS,0
+5181,20201208,Day 7,3,1,E. coli,100ng/mL LPS,0
+5181,20201208,Day 7,3,2,E. coli,100ng/mL LPS,0
+5181,20201208,Day 7,3,1,E. coli,0.1ng/mL LTA,0
+5181,20201208,Day 7,3,2,E. coli,0.1ng/mL LTA,0
+5181,20201208,Day 7,3,1,E. coli,100ng/mL LTA,0
+5181,20201208,Day 7,3,2,E. coli,100ng/mL LTA,0
+5181,20201208,Day 7,3,1,E. coli,Autoclaved bacteria,0
+5181,20201208,Day 7,3,2,E. coli,Autoclaved bacteria,0
+5181,20201208,Day 7,3,1,E. coli,Fungi alone,0
+5181,20201208,Day 7,3,2,E. coli,Fungi alone,0
+5181,20201208,Day 7,3,1,S. aureus,0.1ng/mL LPS,0
+5181,20201208,Day 7,3,2,S. aureus,0.1ng/mL LPS,0
+5181,20201208,Day 7,3,1,S. aureus,100ng/mL LPS,0
+5181,20201208,Day 7,3,2,S. aureus,100ng/mL LPS,0
+5181,20201208,Day 7,3,1,S. aureus,0.1ng/mL LTA,0
+5181,20201208,Day 7,3,2,S. aureus,0.1ng/mL LTA,0
+5181,20201208,Day 7,3,1,S. aureus,100ng/mL LTA,0
+5181,20201208,Day 7,3,2,S. aureus,100ng/mL LTA,0
+5181,20201208,Day 7,3,1,S. aureus,Autoclaved bacteria,0
+5181,20201208,Day 7,3,2,S. aureus,Autoclaved bacteria,0
+5181,20201208,Day 7,3,1,S. aureus,Fungi alone,0
+5181,20201208,Day 7,3,2,S. aureus,Fungi alone,0
+5181,20201215,Day14,3,1,E. coli,0.1ng/mL LPS,0
+5181,20201215,Day14,3,2,E. coli,0.1ng/mL LPS,0
+5181,20201215,Day14,3,1,E. coli,100ng/mL LPS,0
+5181,20201215,Day14,3,2,E. coli,100ng/mL LPS,0
+5181,20201215,Day14,3,1,E. coli,0.1ng/mL LTA,0
+5181,20201215,Day14,3,2,E. coli,0.1ng/mL LTA,0
+5181,20201215,Day14,3,1,E. coli,100ng/mL LTA,0
+5181,20201215,Day14,3,2,E. coli,100ng/mL LTA,0
+5181,20201215,Day14,3,1,E. coli,Autoclaved bacteria,0
+5181,20201215,Day14,3,2,E. coli,Autoclaved bacteria,0
+5181,20201215,Day14,3,1,E. coli,Fungi alone,0
+5181,20201215,Day14,3,2,E. coli,Fungi alone,0
+5181,20201215,Day14,3,1,S. aureus,0.1ng/mL LPS,0
+5181,20201215,Day14,3,2,S. aureus,0.1ng/mL LPS,0
+5181,20201215,Day14,3,1,S. aureus,100ng/mL LPS,0
+5181,20201215,Day14,3,2,S. aureus,100ng/mL LPS,0
+5181,20201215,Day14,3,1,S. aureus,0.1ng/mL LTA,0
+5181,20201215,Day14,3,2,S. aureus,0.1ng/mL LTA,0
+5181,20201215,Day14,3,1,S. aureus,100ng/mL LTA,0
+5181,20201215,Day14,3,2,S. aureus,100ng/mL LTA,0
+5181,20201215,Day14,3,1,S. aureus,Autoclaved bacteria,0
+5181,20201215,Day14,3,2,S. aureus,Autoclaved bacteria,0
+5181,20201215,Day14,3,1,S. aureus,Fungi alone,0
+5181,20201215,Day14,3,2,S. aureus,Fungi alone,0
+14000,20210114,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+14000,20210114,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+14000,20210114,Day 3,1,1,E. coli,100ng/mL LPS,0
+14000,20210114,Day 3,1,2,E. coli,100ng/mL LPS,0
+14000,20210114,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+14000,20210114,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+14000,20210114,Day 3,1,1,E. coli,100ng/mL LTA,0
+14000,20210114,Day 3,1,2,E. coli,100ng/mL LTA,0
+14000,20210114,Day 3,1,1,E. coli,Autoclaved bacteria,0
+14000,20210114,Day 3,1,2,E. coli,Autoclaved bacteria,0
+14000,20210114,Day 3,1,1,E. coli,Fungi alone,0
+14000,20210114,Day 3,1,2,E. coli,Fungi alone,0
+CON,20210114,Day 3,1,1,E. coli,CON control,0
+CON,20210114,Day 3,1,2,E. coli,CON control,0
+CON,20210114,Day 3,1,1,E. coli,PDB control,0
+CON,20210114,Day 3,1,2,E. coli,PDB control,0
+14000,20210114,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+14000,20210114,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+14000,20210114,Day 3,1,1,S. aureus,100ng/mL LPS,0
+14000,20210114,Day 3,1,2,S. aureus,100ng/mL LPS,0
+14000,20210114,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+14000,20210114,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+14000,20210114,Day 3,1,1,S. aureus,100ng/mL LTA,0
+14000,20210114,Day 3,1,2,S. aureus,100ng/mL LTA,0
+14000,20210114,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+14000,20210114,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+14000,20210114,Day 3,1,1,S. aureus,Fungi alone,0
+14000,20210114,Day 3,1,2,S. aureus,Fungi alone,0
+CON,20210114,Day 3,1,1,S. aureus,CON control,0
+CON,20210114,Day 3,1,2,S. aureus,CON control,0
+CON,20210114,Day 3,1,1,S. aureus,PDB control,0
+CON,20210114,Day 3,1,2,S. aureus,PDB control,0
+11458,20210114,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+11458,20210114,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+11458,20210114,Day 3,1,1,E. coli,100ng/mL LPS,0
+11458,20210114,Day 3,1,2,E. coli,100ng/mL LPS,0
+11458,20210114,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+11458,20210114,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+11458,20210114,Day 3,1,1,E. coli,100ng/mL LTA,0
+11458,20210114,Day 3,1,2,E. coli,100ng/mL LTA,0
+11458,20210114,Day 3,1,1,E. coli,Autoclaved bacteria,0
+11458,20210114,Day 3,1,2,E. coli,Autoclaved bacteria,0
+11458,20210114,Day 3,1,1,E. coli,Fungi alone,0
+11458,20210114,Day 3,1,2,E. coli,Fungi alone,0
+11458,20210114,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+11458,20210114,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+11458,20210114,Day 3,1,1,S. aureus,100ng/mL LPS,0
+11458,20210114,Day 3,1,2,S. aureus,100ng/mL LPS,0
+11458,20210114,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+11458,20210114,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+11458,20210114,Day 3,1,1,S. aureus,100ng/mL LTA,0
+11458,20210114,Day 3,1,2,S. aureus,100ng/mL LTA,0
+11458,20210114,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+11458,20210114,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+11458,20210114,Day 3,1,1,S. aureus,Fungi alone,0
+11458,20210114,Day 3,1,2,S. aureus,Fungi alone,0
+15555,20210114,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+15555,20210114,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+15555,20210114,Day 3,1,1,E. coli,100ng/mL LPS,0
+15555,20210114,Day 3,1,2,E. coli,100ng/mL LPS,0
+15555,20210114,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+15555,20210114,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+15555,20210114,Day 3,1,1,E. coli,100ng/mL LTA,0
+15555,20210114,Day 3,1,2,E. coli,100ng/mL LTA,0
+15555,20210114,Day 3,1,1,E. coli,Autoclaved bacteria,0
+15555,20210114,Day 3,1,2,E. coli,Autoclaved bacteria,0
+15555,20210114,Day 3,1,1,E. coli,Fungi alone,0
+15555,20210114,Day 3,1,2,E. coli,Fungi alone,0
+15555,20210114,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+15555,20210114,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+15555,20210114,Day 3,1,1,S. aureus,100ng/mL LPS,0
+15555,20210114,Day 3,1,2,S. aureus,100ng/mL LPS,0
+15555,20210114,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+15555,20210114,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+15555,20210114,Day 3,1,1,S. aureus,100ng/mL LTA,0
+15555,20210114,Day 3,1,2,S. aureus,100ng/mL LTA,0
+15555,20210114,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+15555,20210114,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+15555,20210114,Day 3,1,1,S. aureus,Fungi alone,0
+15555,20210114,Day 3,1,2,S. aureus,Fungi alone,0
+18208,20210114,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+18208,20210114,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+18208,20210114,Day 3,1,1,E. coli,100ng/mL LPS,0
+18208,20210114,Day 3,1,2,E. coli,100ng/mL LPS,0
+18208,20210114,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+18208,20210114,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+18208,20210114,Day 3,1,1,E. coli,100ng/mL LTA,0
+18208,20210114,Day 3,1,2,E. coli,100ng/mL LTA,0
+18208,20210114,Day 3,1,1,E. coli,Autoclaved bacteria,0
+18208,20210114,Day 3,1,2,E. coli,Autoclaved bacteria,0
+18208,20210114,Day 3,1,1,E. coli,Fungi alone,0
+18208,20210114,Day 3,1,2,E. coli,Fungi alone,0
+18208,20210114,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+18208,20210114,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+18208,20210114,Day 3,1,1,S. aureus,100ng/mL LPS,0
+18208,20210114,Day 3,1,2,S. aureus,100ng/mL LPS,0
+18208,20210114,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+18208,20210114,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+18208,20210114,Day 3,1,1,S. aureus,100ng/mL LTA,0
+18208,20210114,Day 3,1,2,S. aureus,100ng/mL LTA,0
+18208,20210114,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+18208,20210114,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+18208,20210114,Day 3,1,1,S. aureus,Fungi alone,0
+18208,20210114,Day 3,1,2,S. aureus,Fungi alone,0
+21054,20210114,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21054,20210114,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21054,20210114,Day 3,1,1,E. coli,100ng/mL LPS,0
+21054,20210114,Day 3,1,2,E. coli,100ng/mL LPS,0
+21054,20210114,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21054,20210114,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21054,20210114,Day 3,1,1,E. coli,100ng/mL LTA,0
+21054,20210114,Day 3,1,2,E. coli,100ng/mL LTA,0
+21054,20210114,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21054,20210114,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21054,20210114,Day 3,1,1,E. coli,Fungi alone,0
+21054,20210114,Day 3,1,2,E. coli,Fungi alone,0
+21054,20210114,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21054,20210114,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21054,20210114,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21054,20210114,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21054,20210114,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21054,20210114,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21054,20210114,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21054,20210114,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21054,20210114,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21054,20210114,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21054,20210114,Day 3,1,1,S. aureus,Fungi alone,0
+21054,20210114,Day 3,1,2,S. aureus,Fungi alone,0
+14000,20210118,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+14000,20210118,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+14000,20210118,Day 3,2,1,E. coli,100ng/mL LPS,0
+14000,20210118,Day 3,2,2,E. coli,100ng/mL LPS,0
+14000,20210118,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+14000,20210118,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+14000,20210118,Day 3,2,1,E. coli,100ng/mL LTA,0
+14000,20210118,Day 3,2,2,E. coli,100ng/mL LTA,0
+14000,20210118,Day 3,2,1,E. coli,Autoclaved bacteria,0
+14000,20210118,Day 3,2,2,E. coli,Autoclaved bacteria,0
+14000,20210118,Day 3,2,1,E. coli,Fungi alone,0
+14000,20210118,Day 3,2,2,E. coli,Fungi alone,0
+14000,20210118,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+14000,20210118,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+14000,20210118,Day 3,2,1,S. aureus,100ng/mL LPS,0
+14000,20210118,Day 3,2,2,S. aureus,100ng/mL LPS,0
+14000,20210118,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+14000,20210118,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+14000,20210118,Day 3,2,1,S. aureus,100ng/mL LTA,0
+14000,20210118,Day 3,2,2,S. aureus,100ng/mL LTA,0
+14000,20210118,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+14000,20210118,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+14000,20210118,Day 3,2,1,S. aureus,Fungi alone,0
+14000,20210118,Day 3,2,2,S. aureus,Fungi alone,0
+11458,20210118,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+11458,20210118,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+11458,20210118,Day 3,2,1,E. coli,100ng/mL LPS,0
+11458,20210118,Day 3,2,2,E. coli,100ng/mL LPS,0
+11458,20210118,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+11458,20210118,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+11458,20210118,Day 3,2,1,E. coli,100ng/mL LTA,0
+11458,20210118,Day 3,2,2,E. coli,100ng/mL LTA,0
+11458,20210118,Day 3,2,1,E. coli,Autoclaved bacteria,0
+11458,20210118,Day 3,2,2,E. coli,Autoclaved bacteria,0
+11458,20210118,Day 3,2,1,E. coli,Fungi alone,0
+11458,20210118,Day 3,2,2,E. coli,Fungi alone,0
+11458,20210118,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+11458,20210118,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+11458,20210118,Day 3,2,1,S. aureus,100ng/mL LPS,0
+11458,20210118,Day 3,2,2,S. aureus,100ng/mL LPS,0
+11458,20210118,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+11458,20210118,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+11458,20210118,Day 3,2,1,S. aureus,100ng/mL LTA,0
+11458,20210118,Day 3,2,2,S. aureus,100ng/mL LTA,0
+11458,20210118,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+11458,20210118,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+11458,20210118,Day 3,2,1,S. aureus,Fungi alone,0
+11458,20210118,Day 3,2,2,S. aureus,Fungi alone,0
+15555,20210118,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+15555,20210118,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+15555,20210118,Day 3,2,1,E. coli,100ng/mL LPS,0
+15555,20210118,Day 3,2,2,E. coli,100ng/mL LPS,0
+15555,20210118,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+15555,20210118,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+15555,20210118,Day 3,2,1,E. coli,100ng/mL LTA,0
+15555,20210118,Day 3,2,2,E. coli,100ng/mL LTA,0
+15555,20210118,Day 3,2,1,E. coli,Autoclaved bacteria,0
+15555,20210118,Day 3,2,2,E. coli,Autoclaved bacteria,0
+15555,20210118,Day 3,2,1,E. coli,Fungi alone,0
+15555,20210118,Day 3,2,2,E. coli,Fungi alone,0
+15555,20210118,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+15555,20210118,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+15555,20210118,Day 3,2,1,S. aureus,100ng/mL LPS,0
+15555,20210118,Day 3,2,2,S. aureus,100ng/mL LPS,0
+15555,20210118,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+15555,20210118,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+15555,20210118,Day 3,2,1,S. aureus,100ng/mL LTA,0
+15555,20210118,Day 3,2,2,S. aureus,100ng/mL LTA,0
+15555,20210118,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+15555,20210118,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+15555,20210118,Day 3,2,1,S. aureus,Fungi alone,0
+15555,20210118,Day 3,2,2,S. aureus,Fungi alone,0
+18208,20210118,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+18208,20210118,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+18208,20210118,Day 3,2,1,E. coli,100ng/mL LPS,0
+18208,20210118,Day 3,2,2,E. coli,100ng/mL LPS,0
+18208,20210118,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+18208,20210118,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+18208,20210118,Day 3,2,1,E. coli,100ng/mL LTA,0
+18208,20210118,Day 3,2,2,E. coli,100ng/mL LTA,0
+18208,20210118,Day 3,2,1,E. coli,Autoclaved bacteria,0
+18208,20210118,Day 3,2,2,E. coli,Autoclaved bacteria,0
+18208,20210118,Day 3,2,1,E. coli,Fungi alone,0
+18208,20210118,Day 3,2,2,E. coli,Fungi alone,0
+18208,20210118,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+18208,20210118,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+18208,20210118,Day 3,2,1,S. aureus,100ng/mL LPS,0
+18208,20210118,Day 3,2,2,S. aureus,100ng/mL LPS,0
+18208,20210118,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+18208,20210118,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+18208,20210118,Day 3,2,1,S. aureus,100ng/mL LTA,0
+18208,20210118,Day 3,2,2,S. aureus,100ng/mL LTA,0
+18208,20210118,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+18208,20210118,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+18208,20210118,Day 3,2,1,S. aureus,Fungi alone,0
+18208,20210118,Day 3,2,2,S. aureus,Fungi alone,0
+21054,20210118,Day 3,2,1,E. coli,0.1ng/mL LPS,0
+21054,20210118,Day 3,2,2,E. coli,0.1ng/mL LPS,0
+21054,20210118,Day 3,2,1,E. coli,100ng/mL LPS,0
+21054,20210118,Day 3,2,2,E. coli,100ng/mL LPS,0
+21054,20210118,Day 3,2,1,E. coli,0.1ng/mL LTA,0
+21054,20210118,Day 3,2,2,E. coli,0.1ng/mL LTA,0
+21054,20210118,Day 3,2,1,E. coli,100ng/mL LTA,0
+21054,20210118,Day 3,2,2,E. coli,100ng/mL LTA,0
+21054,20210118,Day 3,2,1,E. coli,Autoclaved bacteria,0
+21054,20210118,Day 3,2,2,E. coli,Autoclaved bacteria,0
+21054,20210118,Day 3,2,1,E. coli,Fungi alone,0
+21054,20210118,Day 3,2,2,E. coli,Fungi alone,0
+21054,20210118,Day 3,2,1,S. aureus,0.1ng/mL LPS,0
+21054,20210118,Day 3,2,2,S. aureus,0.1ng/mL LPS,0
+21054,20210118,Day 3,2,1,S. aureus,100ng/mL LPS,0
+21054,20210118,Day 3,2,2,S. aureus,100ng/mL LPS,0
+21054,20210118,Day 3,2,1,S. aureus,0.1ng/mL LTA,0
+21054,20210118,Day 3,2,2,S. aureus,0.1ng/mL LTA,0
+21054,20210118,Day 3,2,1,S. aureus,100ng/mL LTA,0
+21054,20210118,Day 3,2,2,S. aureus,100ng/mL LTA,0
+21054,20210118,Day 3,2,1,S. aureus,Autoclaved bacteria,0
+21054,20210118,Day 3,2,2,S. aureus,Autoclaved bacteria,0
+21054,20210118,Day 3,2,1,S. aureus,Fungi alone,0
+21054,20210118,Day 3,2,2,S. aureus,Fungi alone,0
+CON,20210118,Day 3,2,1,E. coli,CON control,0
+CON,20210118,Day 3,2,2,E. coli,CON control,0
+CON,20210118,Day 3,2,1,E. coli,PDB control,0
+CON,20210118,Day 3,2,2,E. coli,PDB control,0
+CON,20210118,Day 3,2,1,S. aureus,CON control,0
+CON,20210118,Day 3,2,2,S. aureus,CON control,0
+CON,20210118,Day 3,2,1,S. aureus,PDB control,0
+CON,20210118,Day 3,2,2,S. aureus,PDB control,0
+CON,20210118,Day 7,1,1,E. coli,CON control,0
+CON,20210118,Day 7,1,2,E. coli,CON control,0
+CON,20210118,Day 7,1,1,E. coli,PDB control,0
+CON,20210118,Day 7,1,2,E. coli,PDB control,0
+CON,20210118,Day 7,1,1,S. aureus,CON control,0
+CON,20210118,Day 7,1,2,S. aureus,CON control,0
+CON,20210118,Day 7,1,1,S. aureus,PDB control,0
+CON,20210118,Day 7,1,2,S. aureus,PDB control,0
+14000,20210118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+14000,20210118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+14000,20210118,Day 7,1,1,E. coli,100ng/mL LPS,0
+14000,20210118,Day 7,1,2,E. coli,100ng/mL LPS,0
+14000,20210118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+14000,20210118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+14000,20210118,Day 7,1,1,E. coli,100ng/mL LTA,0
+14000,20210118,Day 7,1,2,E. coli,100ng/mL LTA,0
+14000,20210118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+14000,20210118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+14000,20210118,Day 7,1,1,E. coli,Fungi alone,0
+14000,20210118,Day 7,1,2,E. coli,Fungi alone,0
+14000,20210118,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+14000,20210118,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+14000,20210118,Day 7,1,1,S. aureus,100ng/mL LPS,0
+14000,20210118,Day 7,1,2,S. aureus,100ng/mL LPS,0
+14000,20210118,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+14000,20210118,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+14000,20210118,Day 7,1,1,S. aureus,100ng/mL LTA,0
+14000,20210118,Day 7,1,2,S. aureus,100ng/mL LTA,0
+14000,20210118,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+14000,20210118,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+14000,20210118,Day 7,1,1,S. aureus,Fungi alone,0
+14000,20210118,Day 7,1,2,S. aureus,Fungi alone,0
+11458,20210118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+11458,20210118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+11458,20210118,Day 7,1,1,E. coli,100ng/mL LPS,0
+11458,20210118,Day 7,1,2,E. coli,100ng/mL LPS,0
+11458,20210118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+11458,20210118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+11458,20210118,Day 7,1,1,E. coli,100ng/mL LTA,0
+11458,20210118,Day 7,1,2,E. coli,100ng/mL LTA,0
+11458,20210118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+11458,20210118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+11458,20210118,Day 7,1,1,E. coli,Fungi alone,0
+11458,20210118,Day 7,1,2,E. coli,Fungi alone,0
+11458,20210118,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+11458,20210118,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+11458,20210118,Day 7,1,1,S. aureus,100ng/mL LPS,0
+11458,20210118,Day 7,1,2,S. aureus,100ng/mL LPS,0
+11458,20210118,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+11458,20210118,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+11458,20210118,Day 7,1,1,S. aureus,100ng/mL LTA,0
+11458,20210118,Day 7,1,2,S. aureus,100ng/mL LTA,0
+11458,20210118,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+11458,20210118,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+11458,20210118,Day 7,1,1,S. aureus,Fungi alone,0
+11458,20210118,Day 7,1,2,S. aureus,Fungi alone,0
+15555,20210118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+15555,20210118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+15555,20210118,Day 7,1,1,E. coli,100ng/mL LPS,0
+15555,20210118,Day 7,1,2,E. coli,100ng/mL LPS,0
+15555,20210118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+15555,20210118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+15555,20210118,Day 7,1,1,E. coli,100ng/mL LTA,0
+15555,20210118,Day 7,1,2,E. coli,100ng/mL LTA,0
+15555,20210118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+15555,20210118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+15555,20210118,Day 7,1,1,E. coli,Fungi alone,0
+15555,20210118,Day 7,1,2,E. coli,Fungi alone,0
+15555,20210118,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+15555,20210118,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+15555,20210118,Day 7,1,1,S. aureus,100ng/mL LPS,0
+15555,20210118,Day 7,1,2,S. aureus,100ng/mL LPS,0
+15555,20210118,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+15555,20210118,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+15555,20210118,Day 7,1,1,S. aureus,100ng/mL LTA,0
+15555,20210118,Day 7,1,2,S. aureus,100ng/mL LTA,0
+15555,20210118,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+15555,20210118,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+15555,20210118,Day 7,1,1,S. aureus,Fungi alone,0
+15555,20210118,Day 7,1,2,S. aureus,Fungi alone,0
+18208,20210118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+18208,20210118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+18208,20210118,Day 7,1,1,E. coli,100ng/mL LPS,0
+18208,20210118,Day 7,1,2,E. coli,100ng/mL LPS,0
+18208,20210118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+18208,20210118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+18208,20210118,Day 7,1,1,E. coli,100ng/mL LTA,0
+18208,20210118,Day 7,1,2,E. coli,100ng/mL LTA,0
+18208,20210118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+18208,20210118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+18208,20210118,Day 7,1,1,E. coli,Fungi alone,0
+18208,20210118,Day 7,1,2,E. coli,Fungi alone,0
+18208,20210118,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+18208,20210118,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+18208,20210118,Day 7,1,1,S. aureus,100ng/mL LPS,0
+18208,20210118,Day 7,1,2,S. aureus,100ng/mL LPS,0
+18208,20210118,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+18208,20210118,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+18208,20210118,Day 7,1,1,S. aureus,100ng/mL LTA,0
+18208,20210118,Day 7,1,2,S. aureus,100ng/mL LTA,0
+18208,20210118,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+18208,20210118,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+18208,20210118,Day 7,1,1,S. aureus,Fungi alone,0
+18208,20210118,Day 7,1,2,S. aureus,Fungi alone,0
+21054,20210118,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21054,20210118,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21054,20210118,Day 7,1,1,E. coli,100ng/mL LPS,0
+21054,20210118,Day 7,1,2,E. coli,100ng/mL LPS,0
+21054,20210118,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21054,20210118,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21054,20210118,Day 7,1,1,E. coli,100ng/mL LTA,0
+21054,20210118,Day 7,1,2,E. coli,100ng/mL LTA,0
+21054,20210118,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21054,20210118,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21054,20210118,Day 7,1,1,E. coli,Fungi alone,0
+21054,20210118,Day 7,1,2,E. coli,Fungi alone,0
+21054,20210118,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21054,20210118,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21054,20210118,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21054,20210118,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21054,20210118,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21054,20210118,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21054,20210118,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21054,20210118,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21054,20210118,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21054,20210118,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21054,20210118,Day 7,1,1,S. aureus,Fungi alone,0
+21054,20210118,Day 7,1,2,S. aureus,Fungi alone,0
+14000,20210125,Day14,1,1,E. coli,0.1ng/mL LPS,0
+14000,20210125,Day14,1,2,E. coli,0.1ng/mL LPS,0
+14000,20210125,Day14,1,1,E. coli,100ng/mL LPS,0
+14000,20210125,Day14,1,2,E. coli,100ng/mL LPS,0
+14000,20210125,Day14,1,1,E. coli,0.1ng/mL LTA,0
+14000,20210125,Day14,1,2,E. coli,0.1ng/mL LTA,0
+14000,20210125,Day14,1,1,E. coli,100ng/mL LTA,0
+14000,20210125,Day14,1,2,E. coli,100ng/mL LTA,0
+14000,20210125,Day14,1,1,E. coli,Autoclaved bacteria,0
+14000,20210125,Day14,1,2,E. coli,Autoclaved bacteria,0
+14000,20210125,Day14,1,1,E. coli,Fungi alone,0
+14000,20210125,Day14,1,2,E. coli,Fungi alone,0
+14000,20210125,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+14000,20210125,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+14000,20210125,Day14,1,1,S. aureus,100ng/mL LPS,0
+14000,20210125,Day14,1,2,S. aureus,100ng/mL LPS,0
+14000,20210125,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+14000,20210125,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+14000,20210125,Day14,1,1,S. aureus,100ng/mL LTA,0
+14000,20210125,Day14,1,2,S. aureus,100ng/mL LTA,0
+14000,20210125,Day14,1,1,S. aureus,Autoclaved bacteria,0
+14000,20210125,Day14,1,2,S. aureus,Autoclaved bacteria,0
+14000,20210125,Day14,1,1,S. aureus,Fungi alone,0
+14000,20210125,Day14,1,2,S. aureus,Fungi alone,0
+11458,20210125,Day14,1,1,E. coli,0.1ng/mL LPS,0
+11458,20210125,Day14,1,2,E. coli,0.1ng/mL LPS,0
+11458,20210125,Day14,1,1,E. coli,100ng/mL LPS,0
+11458,20210125,Day14,1,2,E. coli,100ng/mL LPS,0
+11458,20210125,Day14,1,1,E. coli,0.1ng/mL LTA,0
+11458,20210125,Day14,1,2,E. coli,0.1ng/mL LTA,0
+11458,20210125,Day14,1,1,E. coli,100ng/mL LTA,0
+11458,20210125,Day14,1,2,E. coli,100ng/mL LTA,0
+11458,20210125,Day14,1,1,E. coli,Autoclaved bacteria,0
+11458,20210125,Day14,1,2,E. coli,Autoclaved bacteria,0
+11458,20210125,Day14,1,1,E. coli,Fungi alone,0
+11458,20210125,Day14,1,2,E. coli,Fungi alone,0
+11458,20210125,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+11458,20210125,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+11458,20210125,Day14,1,1,S. aureus,100ng/mL LPS,0
+11458,20210125,Day14,1,2,S. aureus,100ng/mL LPS,0
+11458,20210125,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+11458,20210125,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+11458,20210125,Day14,1,1,S. aureus,100ng/mL LTA,0
+11458,20210125,Day14,1,2,S. aureus,100ng/mL LTA,0
+11458,20210125,Day14,1,1,S. aureus,Autoclaved bacteria,0
+11458,20210125,Day14,1,2,S. aureus,Autoclaved bacteria,0
+11458,20210125,Day14,1,1,S. aureus,Fungi alone,0
+11458,20210125,Day14,1,2,S. aureus,Fungi alone,0
+15555,20210125,Day14,1,1,E. coli,0.1ng/mL LPS,6
+15555,20210125,Day14,1,2,E. coli,0.1ng/mL LPS,6
+15555,20210125,Day14,1,1,E. coli,100ng/mL LPS,7
+15555,20210125,Day14,1,2,E. coli,100ng/mL LPS,6.5
+15555,20210125,Day14,1,1,E. coli,0.1ng/mL LTA,5
+15555,20210125,Day14,1,2,E. coli,0.1ng/mL LTA,6
+15555,20210125,Day14,1,1,E. coli,100ng/mL LTA,5
+15555,20210125,Day14,1,2,E. coli,100ng/mL LTA,6.5
+15555,20210125,Day14,1,1,E. coli,Autoclaved bacteria,5
+15555,20210125,Day14,1,2,E. coli,Autoclaved bacteria,7
+15555,20210125,Day14,1,1,E. coli,Fungi alone,6
+15555,20210125,Day14,1,2,E. coli,Fungi alone,6
+15555,20210125,Day14,1,1,S. aureus,0.1ng/mL LPS,8.5
+15555,20210125,Day14,1,2,S. aureus,0.1ng/mL LPS,7
+15555,20210125,Day14,1,1,S. aureus,100ng/mL LPS,7
+15555,20210125,Day14,1,2,S. aureus,100ng/mL LPS,10.5
+15555,20210125,Day14,1,1,S. aureus,0.1ng/mL LTA,9
+15555,20210125,Day14,1,2,S. aureus,0.1ng/mL LTA,7
+15555,20210125,Day14,1,1,S. aureus,100ng/mL LTA,8
+15555,20210125,Day14,1,2,S. aureus,100ng/mL LTA,10
+15555,20210125,Day14,1,1,S. aureus,Autoclaved bacteria,10
+15555,20210125,Day14,1,2,S. aureus,Autoclaved bacteria,8
+15555,20210125,Day14,1,1,S. aureus,Fungi alone,10
+15555,20210125,Day14,1,2,S. aureus,Fungi alone,8
+18208,20210125,Day14,1,1,E. coli,0.1ng/mL LPS,7
+18208,20210125,Day14,1,2,E. coli,0.1ng/mL LPS,6
+18208,20210125,Day14,1,1,E. coli,100ng/mL LPS,6
+18208,20210125,Day14,1,2,E. coli,100ng/mL LPS,5
+18208,20210125,Day14,1,1,E. coli,0.1ng/mL LTA,7
+18208,20210125,Day14,1,2,E. coli,0.1ng/mL LTA,5.5
+18208,20210125,Day14,1,1,E. coli,100ng/mL LTA,7
+18208,20210125,Day14,1,2,E. coli,100ng/mL LTA,5
+18208,20210125,Day14,1,1,E. coli,Autoclaved bacteria,5.5
+18208,20210125,Day14,1,2,E. coli,Autoclaved bacteria,5.5
+18208,20210125,Day14,1,1,E. coli,Fungi alone,6
+18208,20210125,Day14,1,2,E. coli,Fungi alone,6.5
+18208,20210125,Day14,1,1,S. aureus,0.1ng/mL LPS,7
+18208,20210125,Day14,1,2,S. aureus,0.1ng/mL LPS,6
+18208,20210125,Day14,1,1,S. aureus,100ng/mL LPS,6.5
+18208,20210125,Day14,1,2,S. aureus,100ng/mL LPS,6
+18208,20210125,Day14,1,1,S. aureus,0.1ng/mL LTA,5
+18208,20210125,Day14,1,2,S. aureus,0.1ng/mL LTA,7
+18208,20210125,Day14,1,1,S. aureus,100ng/mL LTA,5
+18208,20210125,Day14,1,2,S. aureus,100ng/mL LTA,6.5
+18208,20210125,Day14,1,1,S. aureus,Autoclaved bacteria,6
+18208,20210125,Day14,1,2,S. aureus,Autoclaved bacteria,6.5
+18208,20210125,Day14,1,1,S. aureus,Fungi alone,8
+18208,20210125,Day14,1,2,S. aureus,Fungi alone,6
+21054,20210125,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21054,20210125,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21054,20210125,Day14,1,1,E. coli,100ng/mL LPS,0
+21054,20210125,Day14,1,2,E. coli,100ng/mL LPS,0
+21054,20210125,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21054,20210125,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21054,20210125,Day14,1,1,E. coli,100ng/mL LTA,0
+21054,20210125,Day14,1,2,E. coli,100ng/mL LTA,0
+21054,20210125,Day14,1,1,E. coli,Autoclaved bacteria,0
+21054,20210125,Day14,1,2,E. coli,Autoclaved bacteria,0
+21054,20210125,Day14,1,1,E. coli,Fungi alone,0
+21054,20210125,Day14,1,2,E. coli,Fungi alone,0
+21054,20210125,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21054,20210125,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21054,20210125,Day14,1,1,S. aureus,100ng/mL LPS,0
+21054,20210125,Day14,1,2,S. aureus,100ng/mL LPS,0
+21054,20210125,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+21054,20210125,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21054,20210125,Day14,1,1,S. aureus,100ng/mL LTA,0
+21054,20210125,Day14,1,2,S. aureus,100ng/mL LTA,0
+21054,20210125,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21054,20210125,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21054,20210125,Day14,1,1,S. aureus,Fungi alone,0
+21054,20210125,Day14,1,2,S. aureus,Fungi alone,0
+CON,20210125,Day14,1,1,E. coli,CON control,0
+CON,20210125,Day14,1,2,E. coli,CON control,0
+CON,20210125,Day14,1,1,E. coli,PDB control,0
+CON,20210125,Day14,1,2,E. coli,PDB control,0
+CON,20210125,Day14,1,1,S. aureus,CON control,0
+CON,20210125,Day14,1,2,S. aureus,CON control,0
+CON,20210125,Day14,1,1,S. aureus,PDB control,0
+CON,20210125,Day14,1,2,S. aureus,PDB control,0
+5422,20210125,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+5422,20210125,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+5422,20210125,Day 3,1,1,E. coli,100ng/mL LPS,0
+5422,20210125,Day 3,1,2,E. coli,100ng/mL LPS,0
+5422,20210125,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+5422,20210125,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+5422,20210125,Day 3,1,1,E. coli,100ng/mL LTA,0
+5422,20210125,Day 3,1,2,E. coli,100ng/mL LTA,0
+5422,20210125,Day 3,1,1,E. coli,Autoclaved bacteria,0
+5422,20210125,Day 3,1,2,E. coli,Autoclaved bacteria,0
+5422,20210125,Day 3,1,1,E. coli,Fungi alone,0
+5422,20210125,Day 3,1,2,E. coli,Fungi alone,0
+5422,20210125,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+5422,20210125,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+5422,20210125,Day 3,1,1,S. aureus,100ng/mL LPS,0
+5422,20210125,Day 3,1,2,S. aureus,100ng/mL LPS,0
+5422,20210125,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+5422,20210125,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+5422,20210125,Day 3,1,1,S. aureus,100ng/mL LTA,0
+5422,20210125,Day 3,1,2,S. aureus,100ng/mL LTA,0
+5422,20210125,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+5422,20210125,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+5422,20210125,Day 3,1,1,S. aureus,Fungi alone,0
+5422,20210125,Day 3,1,2,S. aureus,Fungi alone,0
+9534,20210125,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+9534,20210125,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+9534,20210125,Day 3,1,1,E. coli,100ng/mL LPS,0
+9534,20210125,Day 3,1,2,E. coli,100ng/mL LPS,0
+9534,20210125,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+9534,20210125,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+9534,20210125,Day 3,1,1,E. coli,100ng/mL LTA,0
+9534,20210125,Day 3,1,2,E. coli,100ng/mL LTA,0
+9534,20210125,Day 3,1,1,E. coli,Autoclaved bacteria,0
+9534,20210125,Day 3,1,2,E. coli,Autoclaved bacteria,0
+9534,20210125,Day 3,1,1,E. coli,Fungi alone,0
+9534,20210125,Day 3,1,2,E. coli,Fungi alone,0
+9534,20210125,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+9534,20210125,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+9534,20210125,Day 3,1,1,S. aureus,100ng/mL LPS,0
+9534,20210125,Day 3,1,2,S. aureus,100ng/mL LPS,0
+9534,20210125,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+9534,20210125,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+9534,20210125,Day 3,1,1,S. aureus,100ng/mL LTA,0
+9534,20210125,Day 3,1,2,S. aureus,100ng/mL LTA,0
+9534,20210125,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+9534,20210125,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+9534,20210125,Day 3,1,1,S. aureus,Fungi alone,0
+9534,20210125,Day 3,1,2,S. aureus,Fungi alone,0
+10230,20210125,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+10230,20210125,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+10230,20210125,Day 3,1,1,E. coli,100ng/mL LPS,0
+10230,20210125,Day 3,1,2,E. coli,100ng/mL LPS,0
+10230,20210125,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+10230,20210125,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+10230,20210125,Day 3,1,1,E. coli,100ng/mL LTA,0
+10230,20210125,Day 3,1,2,E. coli,100ng/mL LTA,0
+10230,20210125,Day 3,1,1,E. coli,Autoclaved bacteria,0
+10230,20210125,Day 3,1,2,E. coli,Autoclaved bacteria,0
+10230,20210125,Day 3,1,1,E. coli,Fungi alone,0
+10230,20210125,Day 3,1,2,E. coli,Fungi alone,0
+10230,20210125,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+10230,20210125,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+10230,20210125,Day 3,1,1,S. aureus,100ng/mL LPS,0
+10230,20210125,Day 3,1,2,S. aureus,100ng/mL LPS,0
+10230,20210125,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+10230,20210125,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+10230,20210125,Day 3,1,1,S. aureus,100ng/mL LTA,0
+10230,20210125,Day 3,1,2,S. aureus,100ng/mL LTA,0
+10230,20210125,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+10230,20210125,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+10230,20210125,Day 3,1,1,S. aureus,Fungi alone,0
+10230,20210125,Day 3,1,2,S. aureus,Fungi alone,0
+16322,20210125,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+16322,20210125,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+16322,20210125,Day 3,1,1,E. coli,100ng/mL LPS,0
+16322,20210125,Day 3,1,2,E. coli,100ng/mL LPS,0
+16322,20210125,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+16322,20210125,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+16322,20210125,Day 3,1,1,E. coli,100ng/mL LTA,0
+16322,20210125,Day 3,1,2,E. coli,100ng/mL LTA,0
+16322,20210125,Day 3,1,1,E. coli,Autoclaved bacteria,0
+16322,20210125,Day 3,1,2,E. coli,Autoclaved bacteria,0
+16322,20210125,Day 3,1,1,E. coli,Fungi alone,0
+16322,20210125,Day 3,1,2,E. coli,Fungi alone,0
+16322,20210125,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+16322,20210125,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+16322,20210125,Day 3,1,1,S. aureus,100ng/mL LPS,0
+16322,20210125,Day 3,1,2,S. aureus,100ng/mL LPS,0
+16322,20210125,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+16322,20210125,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+16322,20210125,Day 3,1,1,S. aureus,100ng/mL LTA,0
+16322,20210125,Day 3,1,2,S. aureus,100ng/mL LTA,0
+16322,20210125,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+16322,20210125,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+16322,20210125,Day 3,1,1,S. aureus,Fungi alone,0
+16322,20210125,Day 3,1,2,S. aureus,Fungi alone,0
+21592,20210125,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21592,20210125,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21592,20210125,Day 3,1,1,E. coli,100ng/mL LPS,0
+21592,20210125,Day 3,1,2,E. coli,100ng/mL LPS,0
+21592,20210125,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21592,20210125,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21592,20210125,Day 3,1,1,E. coli,100ng/mL LTA,0
+21592,20210125,Day 3,1,2,E. coli,100ng/mL LTA,0
+21592,20210125,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21592,20210125,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21592,20210125,Day 3,1,1,E. coli,Fungi alone,0
+21592,20210125,Day 3,1,2,E. coli,Fungi alone,0
+21592,20210125,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21592,20210125,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21592,20210125,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21592,20210125,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21592,20210125,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21592,20210125,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21592,20210125,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21592,20210125,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21592,20210125,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21592,20210125,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21592,20210125,Day 3,1,1,S. aureus,Fungi alone,0
+21592,20210125,Day 3,1,2,S. aureus,Fungi alone,0
+CON,20210125,Day 3,1,1,E. coli,CON control,0
+CON,20210125,Day 3,1,2,E. coli,CON control,0
+CON,20210125,Day 3,1,1,E. coli,PDB control,0
+CON,20210125,Day 3,1,2,E. coli,PDB control,0
+CON,20210125,Day 3,1,1,S. aureus,CON control,0
+CON,20210125,Day 3,1,2,S. aureus,CON control,0
+CON,20210125,Day 3,1,1,S. aureus,PDB control,0
+CON,20210125,Day 3,1,2,S. aureus,PDB control,0
+5422,20210127,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+5422,20210127,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+5422,20210127,Day 7,1,1,E. coli,100ng/mL LPS,0
+5422,20210127,Day 7,1,2,E. coli,100ng/mL LPS,0
+5422,20210127,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+5422,20210127,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+5422,20210127,Day 7,1,1,E. coli,100ng/mL LTA,0
+5422,20210127,Day 7,1,2,E. coli,100ng/mL LTA,0
+5422,20210127,Day 7,1,1,E. coli,Autoclaved bacteria,0
+5422,20210127,Day 7,1,2,E. coli,Autoclaved bacteria,0
+5422,20210127,Day 7,1,1,E. coli,Fungi alone,0
+5422,20210127,Day 7,1,2,E. coli,Fungi alone,0
+5422,20210127,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+5422,20210127,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+5422,20210127,Day 7,1,1,S. aureus,100ng/mL LPS,0
+5422,20210127,Day 7,1,2,S. aureus,100ng/mL LPS,0
+5422,20210127,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+5422,20210127,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+5422,20210127,Day 7,1,1,S. aureus,100ng/mL LTA,0
+5422,20210127,Day 7,1,2,S. aureus,100ng/mL LTA,0
+5422,20210127,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+5422,20210127,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+5422,20210127,Day 7,1,1,S. aureus,Fungi alone,0
+5422,20210127,Day 7,1,2,S. aureus,Fungi alone,0
+9534,20210127,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+9534,20210127,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+9534,20210127,Day 7,1,1,E. coli,100ng/mL LPS,0
+9534,20210127,Day 7,1,2,E. coli,100ng/mL LPS,0
+9534,20210127,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+9534,20210127,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+9534,20210127,Day 7,1,1,E. coli,100ng/mL LTA,0
+9534,20210127,Day 7,1,2,E. coli,100ng/mL LTA,0
+9534,20210127,Day 7,1,1,E. coli,Autoclaved bacteria,0
+9534,20210127,Day 7,1,2,E. coli,Autoclaved bacteria,0
+9534,20210127,Day 7,1,1,E. coli,Fungi alone,0
+9534,20210127,Day 7,1,2,E. coli,Fungi alone,0
+9534,20210127,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+9534,20210127,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+9534,20210127,Day 7,1,1,S. aureus,100ng/mL LPS,0
+9534,20210127,Day 7,1,2,S. aureus,100ng/mL LPS,9
+9534,20210127,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+9534,20210127,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+9534,20210127,Day 7,1,1,S. aureus,100ng/mL LTA,0
+9534,20210127,Day 7,1,2,S. aureus,100ng/mL LTA,10
+9534,20210127,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+9534,20210127,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+9534,20210127,Day 7,1,1,S. aureus,Fungi alone,0
+9534,20210127,Day 7,1,2,S. aureus,Fungi alone,0
+10230,20210127,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+10230,20210127,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+10230,20210127,Day 7,1,1,E. coli,100ng/mL LPS,0
+10230,20210127,Day 7,1,2,E. coli,100ng/mL LPS,0
+10230,20210127,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+10230,20210127,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+10230,20210127,Day 7,1,1,E. coli,100ng/mL LTA,0
+10230,20210127,Day 7,1,2,E. coli,100ng/mL LTA,0
+10230,20210127,Day 7,1,1,E. coli,Autoclaved bacteria,0
+10230,20210127,Day 7,1,2,E. coli,Autoclaved bacteria,0
+10230,20210127,Day 7,1,1,E. coli,Fungi alone,0
+10230,20210127,Day 7,1,2,E. coli,Fungi alone,0
+10230,20210127,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+10230,20210127,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+10230,20210127,Day 7,1,1,S. aureus,100ng/mL LPS,0
+10230,20210127,Day 7,1,2,S. aureus,100ng/mL LPS,0
+10230,20210127,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+10230,20210127,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+10230,20210127,Day 7,1,1,S. aureus,100ng/mL LTA,0
+10230,20210127,Day 7,1,2,S. aureus,100ng/mL LTA,0
+10230,20210127,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+10230,20210127,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+10230,20210127,Day 7,1,1,S. aureus,Fungi alone,0
+10230,20210127,Day 7,1,2,S. aureus,Fungi alone,0
+16322,20210127,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+16322,20210127,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+16322,20210127,Day 7,1,1,E. coli,100ng/mL LPS,0
+16322,20210127,Day 7,1,2,E. coli,100ng/mL LPS,0
+16322,20210127,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+16322,20210127,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+16322,20210127,Day 7,1,1,E. coli,100ng/mL LTA,0
+16322,20210127,Day 7,1,2,E. coli,100ng/mL LTA,0
+16322,20210127,Day 7,1,1,E. coli,Autoclaved bacteria,0
+16322,20210127,Day 7,1,2,E. coli,Autoclaved bacteria,0
+16322,20210127,Day 7,1,1,E. coli,Fungi alone,0
+16322,20210127,Day 7,1,2,E. coli,Fungi alone,0
+16322,20210127,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+16322,20210127,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+16322,20210127,Day 7,1,1,S. aureus,100ng/mL LPS,0
+16322,20210127,Day 7,1,2,S. aureus,100ng/mL LPS,0
+16322,20210127,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+16322,20210127,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+16322,20210127,Day 7,1,1,S. aureus,100ng/mL LTA,0
+16322,20210127,Day 7,1,2,S. aureus,100ng/mL LTA,0
+16322,20210127,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+16322,20210127,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+16322,20210127,Day 7,1,1,S. aureus,Fungi alone,0
+16322,20210127,Day 7,1,2,S. aureus,Fungi alone,0
+21592,20210127,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21592,20210127,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21592,20210127,Day 7,1,1,E. coli,100ng/mL LPS,0
+21592,20210127,Day 7,1,2,E. coli,100ng/mL LPS,0
+21592,20210127,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21592,20210127,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21592,20210127,Day 7,1,1,E. coli,100ng/mL LTA,0
+21592,20210127,Day 7,1,2,E. coli,100ng/mL LTA,0
+21592,20210127,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21592,20210127,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21592,20210127,Day 7,1,1,E. coli,Fungi alone,0
+21592,20210127,Day 7,1,2,E. coli,Fungi alone,0
+21592,20210127,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21592,20210127,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21592,20210127,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21592,20210127,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21592,20210127,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21592,20210127,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21592,20210127,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21592,20210127,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21592,20210127,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21592,20210127,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21592,20210127,Day 7,1,1,S. aureus,Fungi alone,0
+21592,20210127,Day 7,1,2,S. aureus,Fungi alone,0
+CON,20210127,Day 7,1,1,E. coli,CON control,0
+CON,20210127,Day 7,1,2,E. coli,CON control,0
+CON,20210127,Day 7,1,1,E. coli,PDB control,0
+CON,20210127,Day 7,1,2,E. coli,PDB control,0
+CON,20210127,Day 7,1,1,S. aureus,CON control,0
+CON,20210127,Day 7,1,2,S. aureus,CON control,0
+CON,20210127,Day 7,1,1,S. aureus,PDB control,0
+CON,20210127,Day 7,1,2,S. aureus,PDB control,0
+5422,20210203,Day14,1,1,E. coli,0.1ng/mL LPS,0
+5422,20210203,Day14,1,2,E. coli,0.1ng/mL LPS,0
+5422,20210203,Day14,1,1,E. coli,100ng/mL LPS,0
+5422,20210203,Day14,1,2,E. coli,100ng/mL LPS,0
+5422,20210203,Day14,1,1,E. coli,0.1ng/mL LTA,0
+5422,20210203,Day14,1,2,E. coli,0.1ng/mL LTA,0
+5422,20210203,Day14,1,1,E. coli,100ng/mL LTA,0
+5422,20210203,Day14,1,2,E. coli,100ng/mL LTA,0
+5422,20210203,Day14,1,1,E. coli,Autoclaved bacteria,0
+5422,20210203,Day14,1,2,E. coli,Autoclaved bacteria,0
+5422,20210203,Day14,1,1,E. coli,Fungi alone,0
+5422,20210203,Day14,1,2,E. coli,Fungi alone,0
+5422,20210203,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+5422,20210203,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+5422,20210203,Day14,1,1,S. aureus,100ng/mL LPS,0
+5422,20210203,Day14,1,2,S. aureus,100ng/mL LPS,0
+5422,20210203,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+5422,20210203,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+5422,20210203,Day14,1,1,S. aureus,100ng/mL LTA,0
+5422,20210203,Day14,1,2,S. aureus,100ng/mL LTA,0
+5422,20210203,Day14,1,1,S. aureus,Autoclaved bacteria,0
+5422,20210203,Day14,1,2,S. aureus,Autoclaved bacteria,0
+5422,20210203,Day14,1,1,S. aureus,Fungi alone,0
+5422,20210203,Day14,1,2,S. aureus,Fungi alone,0
+9534,20210203,Day14,1,1,E. coli,0.1ng/mL LPS,0
+9534,20210203,Day14,1,2,E. coli,0.1ng/mL LPS,0
+9534,20210203,Day14,1,1,E. coli,100ng/mL LPS,0
+9534,20210203,Day14,1,2,E. coli,100ng/mL LPS,0
+9534,20210203,Day14,1,1,E. coli,0.1ng/mL LTA,0
+9534,20210203,Day14,1,2,E. coli,0.1ng/mL LTA,0
+9534,20210203,Day14,1,1,E. coli,100ng/mL LTA,0
+9534,20210203,Day14,1,2,E. coli,100ng/mL LTA,0
+9534,20210203,Day14,1,1,E. coli,Autoclaved bacteria,0
+9534,20210203,Day14,1,2,E. coli,Autoclaved bacteria,0
+9534,20210203,Day14,1,1,E. coli,Fungi alone,0
+9534,20210203,Day14,1,2,E. coli,Fungi alone,0
+9534,20210203,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+9534,20210203,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+9534,20210203,Day14,1,1,S. aureus,100ng/mL LPS,0
+9534,20210203,Day14,1,2,S. aureus,100ng/mL LPS,0
+9534,20210203,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+9534,20210203,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+9534,20210203,Day14,1,1,S. aureus,100ng/mL LTA,0
+9534,20210203,Day14,1,2,S. aureus,100ng/mL LTA,0
+9534,20210203,Day14,1,1,S. aureus,Autoclaved bacteria,0
+9534,20210203,Day14,1,2,S. aureus,Autoclaved bacteria,0
+9534,20210203,Day14,1,1,S. aureus,Fungi alone,0
+9534,20210203,Day14,1,2,S. aureus,Fungi alone,0
+10230,20210203,Day14,1,1,E. coli,0.1ng/mL LPS,0
+10230,20210203,Day14,1,2,E. coli,0.1ng/mL LPS,0
+10230,20210203,Day14,1,1,E. coli,100ng/mL LPS,0
+10230,20210203,Day14,1,2,E. coli,100ng/mL LPS,0
+10230,20210203,Day14,1,1,E. coli,0.1ng/mL LTA,0
+10230,20210203,Day14,1,2,E. coli,0.1ng/mL LTA,0
+10230,20210203,Day14,1,1,E. coli,100ng/mL LTA,0
+10230,20210203,Day14,1,2,E. coli,100ng/mL LTA,0
+10230,20210203,Day14,1,1,E. coli,Autoclaved bacteria,0
+10230,20210203,Day14,1,2,E. coli,Autoclaved bacteria,0
+10230,20210203,Day14,1,1,E. coli,Fungi alone,0
+10230,20210203,Day14,1,2,E. coli,Fungi alone,0
+10230,20210203,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+10230,20210203,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+10230,20210203,Day14,1,1,S. aureus,100ng/mL LPS,0
+10230,20210203,Day14,1,2,S. aureus,100ng/mL LPS,0
+10230,20210203,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+10230,20210203,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+10230,20210203,Day14,1,1,S. aureus,100ng/mL LTA,0
+10230,20210203,Day14,1,2,S. aureus,100ng/mL LTA,0
+10230,20210203,Day14,1,1,S. aureus,Autoclaved bacteria,0
+10230,20210203,Day14,1,2,S. aureus,Autoclaved bacteria,0
+10230,20210203,Day14,1,1,S. aureus,Fungi alone,0
+10230,20210203,Day14,1,2,S. aureus,Fungi alone,0
+16322,20210203,Day14,1,1,E. coli,0.1ng/mL LPS,0
+16322,20210203,Day14,1,2,E. coli,0.1ng/mL LPS,0
+16322,20210203,Day14,1,2,E. coli,100ng/mL LPS,0
+16322,20210203,Day14,1,2,E. coli,0.1ng/mL LTA,0
+16322,20210203,Day14,1,1,E. coli,100ng/mL LTA,0
+16322,20210203,Day14,1,2,E. coli,100ng/mL LTA,0
+16322,20210203,Day14,1,1,E. coli,Autoclaved bacteria,0
+16322,20210203,Day14,1,2,E. coli,Autoclaved bacteria,0
+16322,20210203,Day14,1,1,E. coli,Fungi alone,0
+16322,20210203,Day14,1,2,E. coli,Fungi alone,0
+16322,20210203,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+16322,20210203,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+16322,20210203,Day14,1,2,S. aureus,100ng/mL LPS,0
+16322,20210203,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+16322,20210203,Day14,1,1,S. aureus,100ng/mL LTA,0
+16322,20210203,Day14,1,2,S. aureus,100ng/mL LTA,0
+16322,20210203,Day14,1,1,S. aureus,Autoclaved bacteria,0
+16322,20210203,Day14,1,2,S. aureus,Autoclaved bacteria,0
+16322,20210203,Day14,1,1,S. aureus,Fungi alone,0
+16322,20210203,Day14,1,2,S. aureus,Fungi alone,0
+21592,20210203,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21592,20210203,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21592,20210203,Day14,1,1,E. coli,100ng/mL LPS,0
+21592,20210203,Day14,1,2,E. coli,100ng/mL LPS,0
+21592,20210203,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21592,20210203,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21592,20210203,Day14,1,1,E. coli,100ng/mL LTA,0
+21592,20210203,Day14,1,2,E. coli,100ng/mL LTA,0
+21592,20210203,Day14,1,1,E. coli,Autoclaved bacteria,0
+21592,20210203,Day14,1,2,E. coli,Autoclaved bacteria,0
+21592,20210203,Day14,1,1,E. coli,Fungi alone,0
+21592,20210203,Day14,1,2,E. coli,Fungi alone,0
+21592,20210203,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21592,20210203,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21592,20210203,Day14,1,1,S. aureus,100ng/mL LPS,0
+21592,20210203,Day14,1,2,S. aureus,100ng/mL LPS,0
+21592,20210203,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+21592,20210203,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21592,20210203,Day14,1,1,S. aureus,100ng/mL LTA,0
+21592,20210203,Day14,1,2,S. aureus,100ng/mL LTA,0
+21592,20210203,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21592,20210203,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21592,20210203,Day14,1,1,S. aureus,Fungi alone,0
+21592,20210203,Day14,1,2,S. aureus,Fungi alone,6
+CON,20210203,Day14,1,1,E. coli,CON control,0
+CON,20210203,Day14,1,2,E. coli,CON control,0
+CON,20210203,Day14,1,1,E. coli,PDB control,0
+CON,20210203,Day14,1,2,E. coli,PDB control,0
+CON,20210203,Day14,1,1,S. aureus,CON control,0
+CON,20210203,Day14,1,2,S. aureus,CON control,0
+CON,20210203,Day14,1,1,S. aureus,PDB control,0
+CON,20210203,Day14,1,2,S. aureus,PDB control,0
+5444,20210210,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+5444,20210210,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+5444,20210210,Day 3,1,1,E. coli,100ng/mL LPS,0
+5444,20210210,Day 3,1,2,E. coli,100ng/mL LPS,0
+5444,20210210,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+5444,20210210,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+5444,20210210,Day 3,1,1,E. coli,100ng/mL LTA,0
+5444,20210210,Day 3,1,2,E. coli,100ng/mL LTA,0
+5444,20210210,Day 3,1,1,E. coli,Autoclaved bacteria,0
+5444,20210210,Day 3,1,2,E. coli,Autoclaved bacteria,0
+5444,20210210,Day 3,1,1,E. coli,Fungi alone,0
+5444,20210210,Day 3,1,2,E. coli,Fungi alone,0
+5444,20210210,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+5444,20210210,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+5444,20210210,Day 3,1,1,S. aureus,100ng/mL LPS,0
+5444,20210210,Day 3,1,2,S. aureus,100ng/mL LPS,0
+5444,20210210,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+5444,20210210,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+5444,20210210,Day 3,1,1,S. aureus,100ng/mL LTA,0
+5444,20210210,Day 3,1,2,S. aureus,100ng/mL LTA,0
+5444,20210210,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+5444,20210210,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+5444,20210210,Day 3,1,1,S. aureus,Fungi alone,0
+5444,20210210,Day 3,1,2,S. aureus,Fungi alone,0
+16893,20210210,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+16893,20210210,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+16893,20210210,Day 3,1,1,E. coli,100ng/mL LPS,0
+16893,20210210,Day 3,1,2,E. coli,100ng/mL LPS,0
+16893,20210210,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+16893,20210210,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+16893,20210210,Day 3,1,1,E. coli,100ng/mL LTA,0
+16893,20210210,Day 3,1,2,E. coli,100ng/mL LTA,0
+16893,20210210,Day 3,1,1,E. coli,Autoclaved bacteria,0
+16893,20210210,Day 3,1,2,E. coli,Autoclaved bacteria,0
+16893,20210210,Day 3,1,1,E. coli,Fungi alone,0
+16893,20210210,Day 3,1,2,E. coli,Fungi alone,0
+16893,20210210,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+16893,20210210,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+16893,20210210,Day 3,1,1,S. aureus,100ng/mL LPS,0
+16893,20210210,Day 3,1,2,S. aureus,100ng/mL LPS,0
+16893,20210210,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+16893,20210210,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+16893,20210210,Day 3,1,1,S. aureus,100ng/mL LTA,0
+16893,20210210,Day 3,1,2,S. aureus,100ng/mL LTA,0
+16893,20210210,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+16893,20210210,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+16893,20210210,Day 3,1,1,S. aureus,Fungi alone,0
+16893,20210210,Day 3,1,2,S. aureus,Fungi alone,0
+18216,20210210,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+18216,20210210,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+18216,20210210,Day 3,1,1,E. coli,100ng/mL LPS,0
+18216,20210210,Day 3,1,2,E. coli,100ng/mL LPS,0
+18216,20210210,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+18216,20210210,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+18216,20210210,Day 3,1,1,E. coli,100ng/mL LTA,0
+18216,20210210,Day 3,1,2,E. coli,100ng/mL LTA,0
+18216,20210210,Day 3,1,1,E. coli,Autoclaved bacteria,0
+18216,20210210,Day 3,1,2,E. coli,Autoclaved bacteria,0
+18216,20210210,Day 3,1,1,E. coli,Fungi alone,0
+18216,20210210,Day 3,1,2,E. coli,Fungi alone,0
+18216,20210210,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+18216,20210210,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+18216,20210210,Day 3,1,1,S. aureus,100ng/mL LPS,0
+18216,20210210,Day 3,1,2,S. aureus,100ng/mL LPS,0
+18216,20210210,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+18216,20210210,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+18216,20210210,Day 3,1,1,S. aureus,100ng/mL LTA,0
+18216,20210210,Day 3,1,2,S. aureus,100ng/mL LTA,0
+18216,20210210,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+18216,20210210,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+18216,20210210,Day 3,1,1,S. aureus,Fungi alone,0
+18216,20210210,Day 3,1,2,S. aureus,Fungi alone,0
+19872,20210210,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+19872,20210210,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+19872,20210210,Day 3,1,1,E. coli,100ng/mL LPS,0
+19872,20210210,Day 3,1,2,E. coli,100ng/mL LPS,0
+19872,20210210,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+19872,20210210,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+19872,20210210,Day 3,1,1,E. coli,100ng/mL LTA,0
+19872,20210210,Day 3,1,2,E. coli,100ng/mL LTA,0
+19872,20210210,Day 3,1,1,E. coli,Autoclaved bacteria,0
+19872,20210210,Day 3,1,2,E. coli,Autoclaved bacteria,0
+19872,20210210,Day 3,1,1,E. coli,Fungi alone,0
+19872,20210210,Day 3,1,2,E. coli,Fungi alone,0
+19872,20210210,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+19872,20210210,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+19872,20210210,Day 3,1,1,S. aureus,100ng/mL LPS,0
+19872,20210210,Day 3,1,2,S. aureus,100ng/mL LPS,0
+19872,20210210,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+19872,20210210,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+19872,20210210,Day 3,1,1,S. aureus,100ng/mL LTA,0
+19872,20210210,Day 3,1,2,S. aureus,100ng/mL LTA,0
+19872,20210210,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+19872,20210210,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+19872,20210210,Day 3,1,1,S. aureus,Fungi alone,0
+19872,20210210,Day 3,1,2,S. aureus,Fungi alone,0
+21487,20210210,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21487,20210210,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21487,20210210,Day 3,1,1,E. coli,100ng/mL LPS,0
+21487,20210210,Day 3,1,2,E. coli,100ng/mL LPS,0
+21487,20210210,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21487,20210210,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21487,20210210,Day 3,1,1,E. coli,100ng/mL LTA,0
+21487,20210210,Day 3,1,2,E. coli,100ng/mL LTA,0
+21487,20210210,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21487,20210210,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21487,20210210,Day 3,1,1,E. coli,Fungi alone,0
+21487,20210210,Day 3,1,2,E. coli,Fungi alone,0
+21487,20210210,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21487,20210210,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21487,20210210,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21487,20210210,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21487,20210210,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21487,20210210,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21487,20210210,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21487,20210210,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21487,20210210,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21487,20210210,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21487,20210210,Day 3,1,1,S. aureus,Fungi alone,0
+21487,20210210,Day 3,1,2,S. aureus,Fungi alone,0
+CON,20210210,Day 3,1,1,E. coli,CON control,0
+CON,20210210,Day 3,1,2,E. coli,CON control,0
+CON,20210210,Day 3,1,1,E. coli,PDB control,0
+CON,20210210,Day 3,1,2,E. coli,PDB control,0
+CON,20210210,Day 3,1,1,S. aureus,CON control,0
+CON,20210210,Day 3,1,2,S. aureus,CON control,0
+CON,20210210,Day 3,1,1,S. aureus,PDB control,0
+CON,20210210,Day 3,1,2,S. aureus,PDB control,0
+5444,20210210,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+5444,20210210,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+5444,20210210,Day 7,1,1,E. coli,100ng/mL LPS,0
+5444,20210210,Day 7,1,2,E. coli,100ng/mL LPS,0
+5444,20210210,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+5444,20210210,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+5444,20210210,Day 7,1,1,E. coli,100ng/mL LTA,0
+5444,20210210,Day 7,1,2,E. coli,100ng/mL LTA,0
+5444,20210210,Day 7,1,1,E. coli,Autoclaved bacteria,0
+5444,20210210,Day 7,1,2,E. coli,Autoclaved bacteria,0
+5444,20210210,Day 7,1,1,E. coli,Fungi alone,0
+5444,20210210,Day 7,1,2,E. coli,Fungi alone,0
+5444,20210210,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+5444,20210210,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+5444,20210210,Day 7,1,1,S. aureus,100ng/mL LPS,0
+5444,20210210,Day 7,1,2,S. aureus,100ng/mL LPS,0
+5444,20210210,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+5444,20210210,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+5444,20210210,Day 7,1,1,S. aureus,100ng/mL LTA,0
+5444,20210210,Day 7,1,2,S. aureus,100ng/mL LTA,0
+5444,20210210,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+5444,20210210,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+5444,20210210,Day 7,1,1,S. aureus,Fungi alone,0
+5444,20210210,Day 7,1,2,S. aureus,Fungi alone,0
+16893,20210210,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+16893,20210210,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+16893,20210210,Day 7,1,1,E. coli,100ng/mL LPS,0
+16893,20210210,Day 7,1,2,E. coli,100ng/mL LPS,0
+16893,20210210,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+16893,20210210,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+16893,20210210,Day 7,1,1,E. coli,100ng/mL LTA,0
+16893,20210210,Day 7,1,2,E. coli,100ng/mL LTA,0
+16893,20210210,Day 7,1,1,E. coli,Autoclaved bacteria,0
+16893,20210210,Day 7,1,2,E. coli,Autoclaved bacteria,0
+16893,20210210,Day 7,1,1,E. coli,Fungi alone,0
+16893,20210210,Day 7,1,2,E. coli,Fungi alone,0
+16893,20210210,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+16893,20210210,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+16893,20210210,Day 7,1,1,S. aureus,100ng/mL LPS,0
+16893,20210210,Day 7,1,2,S. aureus,100ng/mL LPS,0
+16893,20210210,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+16893,20210210,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+16893,20210210,Day 7,1,1,S. aureus,100ng/mL LTA,0
+16893,20210210,Day 7,1,2,S. aureus,100ng/mL LTA,0
+16893,20210210,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+16893,20210210,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+16893,20210210,Day 7,1,1,S. aureus,Fungi alone,0
+16893,20210210,Day 7,1,2,S. aureus,Fungi alone,0
+18216,20210210,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+18216,20210210,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+18216,20210210,Day 7,1,1,E. coli,100ng/mL LPS,0
+18216,20210210,Day 7,1,2,E. coli,100ng/mL LPS,0
+18216,20210210,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+18216,20210210,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+18216,20210210,Day 7,1,1,E. coli,100ng/mL LTA,0
+18216,20210210,Day 7,1,2,E. coli,100ng/mL LTA,0
+18216,20210210,Day 7,1,1,E. coli,Autoclaved bacteria,0
+18216,20210210,Day 7,1,2,E. coli,Autoclaved bacteria,0
+18216,20210210,Day 7,1,1,E. coli,Fungi alone,0
+18216,20210210,Day 7,1,2,E. coli,Fungi alone,0
+18216,20210210,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+18216,20210210,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+18216,20210210,Day 7,1,1,S. aureus,100ng/mL LPS,0
+18216,20210210,Day 7,1,2,S. aureus,100ng/mL LPS,0
+18216,20210210,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+18216,20210210,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+18216,20210210,Day 7,1,1,S. aureus,100ng/mL LTA,0
+18216,20210210,Day 7,1,2,S. aureus,100ng/mL LTA,0
+18216,20210210,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+18216,20210210,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+18216,20210210,Day 7,1,1,S. aureus,Fungi alone,0
+18216,20210210,Day 7,1,2,S. aureus,Fungi alone,0
+19872,20210210,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+19872,20210210,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+19872,20210210,Day 7,1,1,E. coli,100ng/mL LPS,0
+19872,20210210,Day 7,1,2,E. coli,100ng/mL LPS,0
+19872,20210210,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+19872,20210210,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+19872,20210210,Day 7,1,1,E. coli,100ng/mL LTA,0
+19872,20210210,Day 7,1,2,E. coli,100ng/mL LTA,0
+19872,20210210,Day 7,1,1,E. coli,Autoclaved bacteria,0
+19872,20210210,Day 7,1,2,E. coli,Autoclaved bacteria,0
+19872,20210210,Day 7,1,1,E. coli,Fungi alone,0
+19872,20210210,Day 7,1,2,E. coli,Fungi alone,0
+19872,20210210,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+19872,20210210,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+19872,20210210,Day 7,1,1,S. aureus,100ng/mL LPS,0
+19872,20210210,Day 7,1,2,S. aureus,100ng/mL LPS,0
+19872,20210210,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+19872,20210210,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+19872,20210210,Day 7,1,1,S. aureus,100ng/mL LTA,0
+19872,20210210,Day 7,1,2,S. aureus,100ng/mL LTA,0
+19872,20210210,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+19872,20210210,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+19872,20210210,Day 7,1,1,S. aureus,Fungi alone,0
+19872,20210210,Day 7,1,2,S. aureus,Fungi alone,0
+21487,20210210,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21487,20210210,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21487,20210210,Day 7,1,1,E. coli,100ng/mL LPS,0
+21487,20210210,Day 7,1,2,E. coli,100ng/mL LPS,0
+21487,20210210,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21487,20210210,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21487,20210210,Day 7,1,1,E. coli,100ng/mL LTA,0
+21487,20210210,Day 7,1,2,E. coli,100ng/mL LTA,0
+21487,20210210,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21487,20210210,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21487,20210210,Day 7,1,1,E. coli,Fungi alone,0
+21487,20210210,Day 7,1,2,E. coli,Fungi alone,0
+21487,20210210,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21487,20210210,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21487,20210210,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21487,20210210,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21487,20210210,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21487,20210210,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21487,20210210,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21487,20210210,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21487,20210210,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21487,20210210,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21487,20210210,Day 7,1,1,S. aureus,Fungi alone,0
+21487,20210210,Day 7,1,2,S. aureus,Fungi alone,0
+CON,20210210,Day 7,1,1,E. coli,CON control,0
+CON,20210210,Day 7,1,2,E. coli,CON control,0
+CON,20210210,Day 7,1,1,E. coli,PDB control,0
+CON,20210210,Day 7,1,2,E. coli,PDB control,0
+CON,20210210,Day 7,1,1,S. aureus,CON control,0
+CON,20210210,Day 7,1,2,S. aureus,CON control,0
+CON,20210210,Day 7,1,1,S. aureus,PDB control,0
+CON,20210210,Day 7,1,2,S. aureus,PDB control,0
+5444,20210222,Day14,1,1,E. coli,0.1ng/mL LPS,0
+5444,20210222,Day14,1,2,E. coli,0.1ng/mL LPS,0
+5444,20210222,Day14,1,1,E. coli,100ng/mL LPS,0
+5444,20210222,Day14,1,2,E. coli,100ng/mL LPS,0
+5444,20210222,Day14,1,1,E. coli,0.1ng/mL LTA,0
+5444,20210222,Day14,1,2,E. coli,0.1ng/mL LTA,0
+5444,20210222,Day14,1,1,E. coli,100ng/mL LTA,0
+5444,20210222,Day14,1,2,E. coli,100ng/mL LTA,0
+5444,20210222,Day14,1,1,E. coli,Autoclaved bacteria,0
+5444,20210222,Day14,1,2,E. coli,Autoclaved bacteria,0
+5444,20210222,Day14,1,1,E. coli,Fungi alone,0
+5444,20210222,Day14,1,2,E. coli,Fungi alone,0
+5444,20210222,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+5444,20210222,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+5444,20210222,Day14,1,1,S. aureus,100ng/mL LPS,0
+5444,20210222,Day14,1,2,S. aureus,100ng/mL LPS,0
+5444,20210222,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+5444,20210222,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+5444,20210222,Day14,1,1,S. aureus,100ng/mL LTA,0
+5444,20210222,Day14,1,2,S. aureus,100ng/mL LTA,0
+5444,20210222,Day14,1,1,S. aureus,Autoclaved bacteria,0
+5444,20210222,Day14,1,2,S. aureus,Autoclaved bacteria,0
+5444,20210222,Day14,1,1,S. aureus,Fungi alone,0
+5444,20210222,Day14,1,2,S. aureus,Fungi alone,0
+16893,20210222,Day14,1,1,E. coli,0.1ng/mL LPS,0
+16893,20210222,Day14,1,2,E. coli,0.1ng/mL LPS,0
+16893,20210222,Day14,1,1,E. coli,100ng/mL LPS,0
+16893,20210222,Day14,1,2,E. coli,100ng/mL LPS,0
+16893,20210222,Day14,1,1,E. coli,0.1ng/mL LTA,0
+16893,20210222,Day14,1,2,E. coli,0.1ng/mL LTA,0
+16893,20210222,Day14,1,1,E. coli,100ng/mL LTA,0
+16893,20210222,Day14,1,2,E. coli,100ng/mL LTA,0
+16893,20210222,Day14,1,1,E. coli,Autoclaved bacteria,0
+16893,20210222,Day14,1,2,E. coli,Autoclaved bacteria,0
+16893,20210222,Day14,1,1,E. coli,Fungi alone,0
+16893,20210222,Day14,1,2,E. coli,Fungi alone,0
+16893,20210222,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+16893,20210222,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+16893,20210222,Day14,1,1,S. aureus,100ng/mL LPS,0
+16893,20210222,Day14,1,2,S. aureus,100ng/mL LPS,0
+16893,20210222,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+16893,20210222,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+16893,20210222,Day14,1,1,S. aureus,100ng/mL LTA,0
+16893,20210222,Day14,1,2,S. aureus,100ng/mL LTA,0
+16893,20210222,Day14,1,1,S. aureus,Autoclaved bacteria,0
+16893,20210222,Day14,1,2,S. aureus,Autoclaved bacteria,0
+16893,20210222,Day14,1,1,S. aureus,Fungi alone,0
+16893,20210222,Day14,1,2,S. aureus,Fungi alone,0
+18216,20210222,Day14,1,1,E. coli,0.1ng/mL LPS,0
+18216,20210222,Day14,1,2,E. coli,0.1ng/mL LPS,0
+18216,20210222,Day14,1,1,E. coli,100ng/mL LPS,0
+18216,20210222,Day14,1,2,E. coli,100ng/mL LPS,0
+18216,20210222,Day14,1,1,E. coli,0.1ng/mL LTA,0
+18216,20210222,Day14,1,2,E. coli,0.1ng/mL LTA,0
+18216,20210222,Day14,1,1,E. coli,100ng/mL LTA,0
+18216,20210222,Day14,1,2,E. coli,100ng/mL LTA,0
+18216,20210222,Day14,1,1,E. coli,Autoclaved bacteria,0
+18216,20210222,Day14,1,2,E. coli,Autoclaved bacteria,0
+18216,20210222,Day14,1,1,E. coli,Fungi alone,0
+18216,20210222,Day14,1,2,E. coli,Fungi alone,0
+18216,20210222,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+18216,20210222,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+18216,20210222,Day14,1,1,S. aureus,100ng/mL LPS,0
+18216,20210222,Day14,1,2,S. aureus,100ng/mL LPS,0
+18216,20210222,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+18216,20210222,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+18216,20210222,Day14,1,1,S. aureus,100ng/mL LTA,0
+18216,20210222,Day14,1,2,S. aureus,100ng/mL LTA,0
+18216,20210222,Day14,1,1,S. aureus,Autoclaved bacteria,0
+18216,20210222,Day14,1,2,S. aureus,Autoclaved bacteria,0
+18216,20210222,Day14,1,1,S. aureus,Fungi alone,0
+18216,20210222,Day14,1,2,S. aureus,Fungi alone,0
+19872,20210222,Day14,1,1,E. coli,0.1ng/mL LPS,0
+19872,20210222,Day14,1,2,E. coli,0.1ng/mL LPS,0
+19872,20210222,Day14,1,1,E. coli,100ng/mL LPS,0
+19872,20210222,Day14,1,2,E. coli,100ng/mL LPS,0
+19872,20210222,Day14,1,1,E. coli,0.1ng/mL LTA,0
+19872,20210222,Day14,1,2,E. coli,0.1ng/mL LTA,0
+19872,20210222,Day14,1,1,E. coli,100ng/mL LTA,0
+19872,20210222,Day14,1,2,E. coli,100ng/mL LTA,0
+19872,20210222,Day14,1,1,E. coli,Autoclaved bacteria,0
+19872,20210222,Day14,1,2,E. coli,Autoclaved bacteria,0
+19872,20210222,Day14,1,1,E. coli,Fungi alone,0
+19872,20210222,Day14,1,2,E. coli,Fungi alone,0
+19872,20210222,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+19872,20210222,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+19872,20210222,Day14,1,1,S. aureus,100ng/mL LPS,0
+19872,20210222,Day14,1,2,S. aureus,100ng/mL LPS,0
+19872,20210222,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+19872,20210222,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+19872,20210222,Day14,1,1,S. aureus,100ng/mL LTA,0
+19872,20210222,Day14,1,2,S. aureus,100ng/mL LTA,0
+19872,20210222,Day14,1,1,S. aureus,Autoclaved bacteria,0
+19872,20210222,Day14,1,2,S. aureus,Autoclaved bacteria,0
+19872,20210222,Day14,1,1,S. aureus,Fungi alone,0
+19872,20210222,Day14,1,2,S. aureus,Fungi alone,0
+21487,20210222,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21487,20210222,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21487,20210222,Day14,1,1,E. coli,100ng/mL LPS,0
+21487,20210222,Day14,1,2,E. coli,100ng/mL LPS,0
+21487,20210222,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21487,20210222,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21487,20210222,Day14,1,1,E. coli,100ng/mL LTA,0
+21487,20210222,Day14,1,2,E. coli,100ng/mL LTA,0
+21487,20210222,Day14,1,1,E. coli,Autoclaved bacteria,0
+21487,20210222,Day14,1,2,E. coli,Autoclaved bacteria,0
+21487,20210222,Day14,1,1,E. coli,Fungi alone,0
+21487,20210222,Day14,1,2,E. coli,Fungi alone,0
+21487,20210222,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21487,20210222,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21487,20210222,Day14,1,1,S. aureus,100ng/mL LPS,0
+21487,20210222,Day14,1,2,S. aureus,100ng/mL LPS,0
+21487,20210222,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+21487,20210222,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21487,20210222,Day14,1,1,S. aureus,100ng/mL LTA,0
+21487,20210222,Day14,1,2,S. aureus,100ng/mL LTA,0
+21487,20210222,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21487,20210222,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21487,20210222,Day14,1,1,S. aureus,Fungi alone,0
+21487,20210222,Day14,1,2,S. aureus,Fungi alone,0
+CON,20210222,Day14,1,1,E. coli,CON control,0
+CON,20210222,Day14,1,2,E. coli,CON control,0
+CON,20210222,Day14,1,1,E. coli,PDB control,0
+CON,20210222,Day14,1,2,E. coli,PDB control,0
+CON,20210222,Day14,1,1,S. aureus,CON control,0
+CON,20210222,Day14,1,2,S. aureus,CON control,0
+CON,20210222,Day14,1,1,S. aureus,PDB control,0
+CON,20210222,Day14,1,2,S. aureus,PDB control,0
+13877,20210310,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day 3,1,1,E. coli,100ng/mL LPS,0
+13877,20210310,Day 3,1,2,E. coli,100ng/mL LPS,0
+13877,20210310,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day 3,1,1,E. coli,100ng/mL LTA,0
+13877,20210310,Day 3,1,2,E. coli,100ng/mL LTA,0
+13877,20210310,Day 3,1,1,E. coli,Autoclaved bacteria,0
+13877,20210310,Day 3,1,2,E. coli,Autoclaved bacteria,0
+13877,20210310,Day 3,1,1,E. coli,Fungi alone,0
+13877,20210310,Day 3,1,2,E. coli,Fungi alone,0
+13877,20210310,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day 3,1,1,S. aureus,100ng/mL LPS,0
+13877,20210310,Day 3,1,2,S. aureus,100ng/mL LPS,0
+13877,20210310,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day 3,1,1,S. aureus,100ng/mL LTA,0
+13877,20210310,Day 3,1,2,S. aureus,100ng/mL LTA,0
+13877,20210310,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day 3,1,1,S. aureus,Fungi alone,0
+13877,20210310,Day 3,1,2,S. aureus,Fungi alone,0
+18083,20210310,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day 3,1,1,E. coli,100ng/mL LPS,0
+18083,20210310,Day 3,1,2,E. coli,100ng/mL LPS,0
+18083,20210310,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day 3,1,1,E. coli,100ng/mL LTA,0
+18083,20210310,Day 3,1,2,E. coli,100ng/mL LTA,0
+18083,20210310,Day 3,1,1,E. coli,Autoclaved bacteria,0
+18083,20210310,Day 3,1,2,E. coli,Autoclaved bacteria,0
+18083,20210310,Day 3,1,1,E. coli,Fungi alone,0
+18083,20210310,Day 3,1,2,E. coli,Fungi alone,0
+18083,20210310,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day 3,1,1,S. aureus,100ng/mL LPS,0
+18083,20210310,Day 3,1,2,S. aureus,100ng/mL LPS,0
+18083,20210310,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day 3,1,1,S. aureus,100ng/mL LTA,0
+18083,20210310,Day 3,1,2,S. aureus,100ng/mL LTA,0
+18083,20210310,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day 3,1,1,S. aureus,Fungi alone,0
+18083,20210310,Day 3,1,2,S. aureus,Fungi alone,0
+18209,20210310,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day 3,1,1,E. coli,100ng/mL LPS,0
+18209,20210310,Day 3,1,2,E. coli,100ng/mL LPS,0
+18209,20210310,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day 3,1,1,E. coli,100ng/mL LTA,0
+18209,20210310,Day 3,1,2,E. coli,100ng/mL LTA,0
+18209,20210310,Day 3,1,1,E. coli,Autoclaved bacteria,0
+18209,20210310,Day 3,1,2,E. coli,Autoclaved bacteria,0
+18209,20210310,Day 3,1,1,E. coli,Fungi alone,0
+18209,20210310,Day 3,1,2,E. coli,Fungi alone,0
+18209,20210310,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day 3,1,1,S. aureus,100ng/mL LPS,0
+18209,20210310,Day 3,1,2,S. aureus,100ng/mL LPS,0
+18209,20210310,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day 3,1,1,S. aureus,100ng/mL LTA,0
+18209,20210310,Day 3,1,2,S. aureus,100ng/mL LTA,0
+18209,20210310,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day 3,1,1,S. aureus,Fungi alone,0
+18209,20210310,Day 3,1,2,S. aureus,Fungi alone,0
+21494,20210310,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day 3,1,1,E. coli,100ng/mL LPS,0
+21494,20210310,Day 3,1,2,E. coli,100ng/mL LPS,0
+21494,20210310,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day 3,1,1,E. coli,100ng/mL LTA,0
+21494,20210310,Day 3,1,2,E. coli,100ng/mL LTA,0
+21494,20210310,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21494,20210310,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21494,20210310,Day 3,1,1,E. coli,Fungi alone,0
+21494,20210310,Day 3,1,2,E. coli,Fungi alone,0
+21494,20210310,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21494,20210310,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21494,20210310,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21494,20210310,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21494,20210310,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day 3,1,1,S. aureus,Fungi alone,0
+21494,20210310,Day 3,1,2,S. aureus,Fungi alone,0
+22689,20210310,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day 3,1,1,E. coli,100ng/mL LPS,0
+22689,20210310,Day 3,1,2,E. coli,100ng/mL LPS,0
+22689,20210310,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day 3,1,1,E. coli,100ng/mL LTA,0
+22689,20210310,Day 3,1,2,E. coli,100ng/mL LTA,0
+22689,20210310,Day 3,1,1,E. coli,Autoclaved bacteria,0
+22689,20210310,Day 3,1,2,E. coli,Autoclaved bacteria,0
+22689,20210310,Day 3,1,1,E. coli,Fungi alone,0
+22689,20210310,Day 3,1,2,E. coli,Fungi alone,0
+22689,20210310,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day 3,1,1,S. aureus,100ng/mL LPS,0
+22689,20210310,Day 3,1,2,S. aureus,100ng/mL LPS,0
+22689,20210310,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day 3,1,1,S. aureus,100ng/mL LTA,0
+22689,20210310,Day 3,1,2,S. aureus,100ng/mL LTA,0
+22689,20210310,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day 3,1,1,S. aureus,Fungi alone,0
+22689,20210310,Day 3,1,2,S. aureus,Fungi alone,0
+CON,20210310,Day 3,1,1,E. coli,CON control,0
+CON,20210310,Day 3,1,2,E. coli,CON control,0
+CON,20210310,Day 3,1,1,E. coli,PDB control,0
+CON,20210310,Day 3,1,2,E. coli,PDB control,0
+CON,20210310,Day 3,1,1,S. aureus,CON control,0
+CON,20210310,Day 3,1,2,S. aureus,CON control,0
+CON,20210310,Day 3,1,1,S. aureus,PDB control,0
+CON,20210310,Day 3,1,2,S. aureus,PDB control,0
+13877,20210310,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day 7,1,1,E. coli,100ng/mL LPS,0
+13877,20210310,Day 7,1,2,E. coli,100ng/mL LPS,0
+13877,20210310,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day 7,1,1,E. coli,100ng/mL LTA,0
+13877,20210310,Day 7,1,2,E. coli,100ng/mL LTA,0
+13877,20210310,Day 7,1,1,E. coli,Autoclaved bacteria,0
+13877,20210310,Day 7,1,2,E. coli,Autoclaved bacteria,0
+13877,20210310,Day 7,1,1,E. coli,Fungi alone,0
+13877,20210310,Day 7,1,2,E. coli,Fungi alone,0
+13877,20210310,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day 7,1,1,S. aureus,100ng/mL LPS,0
+13877,20210310,Day 7,1,2,S. aureus,100ng/mL LPS,0
+13877,20210310,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day 7,1,1,S. aureus,100ng/mL LTA,0
+13877,20210310,Day 7,1,2,S. aureus,100ng/mL LTA,0
+13877,20210310,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day 7,1,1,S. aureus,Fungi alone,0
+13877,20210310,Day 7,1,2,S. aureus,Fungi alone,0
+18083,20210310,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day 7,1,1,E. coli,100ng/mL LPS,0
+18083,20210310,Day 7,1,2,E. coli,100ng/mL LPS,0
+18083,20210310,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day 7,1,1,E. coli,100ng/mL LTA,0
+18083,20210310,Day 7,1,2,E. coli,100ng/mL LTA,0
+18083,20210310,Day 7,1,1,E. coli,Autoclaved bacteria,0
+18083,20210310,Day 7,1,2,E. coli,Autoclaved bacteria,0
+18083,20210310,Day 7,1,1,E. coli,Fungi alone,0
+18083,20210310,Day 7,1,2,E. coli,Fungi alone,0
+18083,20210310,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day 7,1,1,S. aureus,100ng/mL LPS,0
+18083,20210310,Day 7,1,2,S. aureus,100ng/mL LPS,0
+18083,20210310,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day 7,1,1,S. aureus,100ng/mL LTA,0
+18083,20210310,Day 7,1,2,S. aureus,100ng/mL LTA,0
+18083,20210310,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day 7,1,1,S. aureus,Fungi alone,0
+18083,20210310,Day 7,1,2,S. aureus,Fungi alone,0
+18209,20210310,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day 7,1,1,E. coli,100ng/mL LPS,0
+18209,20210310,Day 7,1,2,E. coli,100ng/mL LPS,0
+18209,20210310,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day 7,1,1,E. coli,100ng/mL LTA,0
+18209,20210310,Day 7,1,2,E. coli,100ng/mL LTA,0
+18209,20210310,Day 7,1,1,E. coli,Autoclaved bacteria,0
+18209,20210310,Day 7,1,2,E. coli,Autoclaved bacteria,0
+18209,20210310,Day 7,1,1,E. coli,Fungi alone,0
+18209,20210310,Day 7,1,2,E. coli,Fungi alone,0
+18209,20210310,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day 7,1,1,S. aureus,100ng/mL LPS,0
+18209,20210310,Day 7,1,2,S. aureus,100ng/mL LPS,0
+18209,20210310,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day 7,1,1,S. aureus,100ng/mL LTA,0
+18209,20210310,Day 7,1,2,S. aureus,100ng/mL LTA,0
+18209,20210310,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day 7,1,1,S. aureus,Fungi alone,0
+18209,20210310,Day 7,1,2,S. aureus,Fungi alone,0
+21494,20210310,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day 7,1,1,E. coli,100ng/mL LPS,0
+21494,20210310,Day 7,1,2,E. coli,100ng/mL LPS,0
+21494,20210310,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day 7,1,1,E. coli,100ng/mL LTA,0
+21494,20210310,Day 7,1,2,E. coli,100ng/mL LTA,0
+21494,20210310,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21494,20210310,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21494,20210310,Day 7,1,1,E. coli,Fungi alone,0
+21494,20210310,Day 7,1,2,E. coli,Fungi alone,0
+21494,20210310,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21494,20210310,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21494,20210310,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21494,20210310,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21494,20210310,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day 7,1,1,S. aureus,Fungi alone,0
+21494,20210310,Day 7,1,2,S. aureus,Fungi alone,0
+22689,20210310,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day 7,1,1,E. coli,100ng/mL LPS,0
+22689,20210310,Day 7,1,2,E. coli,100ng/mL LPS,0
+22689,20210310,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day 7,1,1,E. coli,100ng/mL LTA,0
+22689,20210310,Day 7,1,2,E. coli,100ng/mL LTA,0
+22689,20210310,Day 7,1,1,E. coli,Autoclaved bacteria,0
+22689,20210310,Day 7,1,2,E. coli,Autoclaved bacteria,0
+22689,20210310,Day 7,1,1,E. coli,Fungi alone,0
+22689,20210310,Day 7,1,2,E. coli,Fungi alone,0
+22689,20210310,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day 7,1,1,S. aureus,100ng/mL LPS,0
+22689,20210310,Day 7,1,2,S. aureus,100ng/mL LPS,0
+22689,20210310,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day 7,1,1,S. aureus,100ng/mL LTA,0
+22689,20210310,Day 7,1,2,S. aureus,100ng/mL LTA,0
+22689,20210310,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day 7,1,1,S. aureus,Fungi alone,0
+22689,20210310,Day 7,1,2,S. aureus,Fungi alone,0
+CON,20210310,Day 7,1,1,E. coli,CON control,0
+CON,20210310,Day 7,1,2,E. coli,CON control,0
+CON,20210310,Day 7,1,1,E. coli,PDB control,0
+CON,20210310,Day 7,1,2,E. coli,PDB control,0
+CON,20210310,Day 7,1,1,S. aureus,CON control,0
+CON,20210310,Day 7,1,2,S. aureus,CON control,0
+CON,20210310,Day 7,1,1,S. aureus,PDB control,0
+CON,20210310,Day 7,1,2,S. aureus,PDB control,0
+13877,20210310,Day14,1,1,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day14,1,2,E. coli,0.1ng/mL LPS,0
+13877,20210310,Day14,1,1,E. coli,100ng/mL LPS,0
+13877,20210310,Day14,1,2,E. coli,100ng/mL LPS,0
+13877,20210310,Day14,1,1,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day14,1,2,E. coli,0.1ng/mL LTA,0
+13877,20210310,Day14,1,1,E. coli,100ng/mL LTA,0
+13877,20210310,Day14,1,2,E. coli,100ng/mL LTA,0
+13877,20210310,Day14,1,1,E. coli,Autoclaved bacteria,0
+13877,20210310,Day14,1,2,E. coli,Autoclaved bacteria,0
+13877,20210310,Day14,1,1,E. coli,Fungi alone,0
+13877,20210310,Day14,1,2,E. coli,Fungi alone,0
+13877,20210310,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+13877,20210310,Day14,1,1,S. aureus,100ng/mL LPS,0
+13877,20210310,Day14,1,2,S. aureus,100ng/mL LPS,0
+13877,20210310,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+13877,20210310,Day14,1,1,S. aureus,100ng/mL LTA,0
+13877,20210310,Day14,1,2,S. aureus,100ng/mL LTA,0
+13877,20210310,Day14,1,1,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day14,1,2,S. aureus,Autoclaved bacteria,0
+13877,20210310,Day14,1,1,S. aureus,Fungi alone,0
+13877,20210310,Day14,1,2,S. aureus,Fungi alone,0
+18083,20210310,Day14,1,1,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day14,1,2,E. coli,0.1ng/mL LPS,0
+18083,20210310,Day14,1,1,E. coli,100ng/mL LPS,0
+18083,20210310,Day14,1,2,E. coli,100ng/mL LPS,0
+18083,20210310,Day14,1,1,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day14,1,2,E. coli,0.1ng/mL LTA,0
+18083,20210310,Day14,1,1,E. coli,100ng/mL LTA,0
+18083,20210310,Day14,1,2,E. coli,100ng/mL LTA,0
+18083,20210310,Day14,1,1,E. coli,Autoclaved bacteria,0
+18083,20210310,Day14,1,2,E. coli,Autoclaved bacteria,0
+18083,20210310,Day14,1,1,E. coli,Fungi alone,0
+18083,20210310,Day14,1,2,E. coli,Fungi alone,0
+18083,20210310,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+18083,20210310,Day14,1,1,S. aureus,100ng/mL LPS,0
+18083,20210310,Day14,1,2,S. aureus,100ng/mL LPS,0
+18083,20210310,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+18083,20210310,Day14,1,1,S. aureus,100ng/mL LTA,0
+18083,20210310,Day14,1,2,S. aureus,100ng/mL LTA,0
+18083,20210310,Day14,1,1,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day14,1,2,S. aureus,Autoclaved bacteria,0
+18083,20210310,Day14,1,1,S. aureus,Fungi alone,0
+18083,20210310,Day14,1,2,S. aureus,Fungi alone,0
+18209,20210310,Day14,1,1,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day14,1,2,E. coli,0.1ng/mL LPS,0
+18209,20210310,Day14,1,1,E. coli,100ng/mL LPS,0
+18209,20210310,Day14,1,2,E. coli,100ng/mL LPS,0
+18209,20210310,Day14,1,1,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day14,1,2,E. coli,0.1ng/mL LTA,0
+18209,20210310,Day14,1,1,E. coli,100ng/mL LTA,0
+18209,20210310,Day14,1,2,E. coli,100ng/mL LTA,0
+18209,20210310,Day14,1,1,E. coli,Autoclaved bacteria,0
+18209,20210310,Day14,1,2,E. coli,Autoclaved bacteria,0
+18209,20210310,Day14,1,1,E. coli,Fungi alone,0
+18209,20210310,Day14,1,2,E. coli,Fungi alone,0
+18209,20210310,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+18209,20210310,Day14,1,1,S. aureus,100ng/mL LPS,0
+18209,20210310,Day14,1,2,S. aureus,100ng/mL LPS,0
+18209,20210310,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+18209,20210310,Day14,1,1,S. aureus,100ng/mL LTA,0
+18209,20210310,Day14,1,2,S. aureus,100ng/mL LTA,0
+18209,20210310,Day14,1,1,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day14,1,2,S. aureus,Autoclaved bacteria,0
+18209,20210310,Day14,1,1,S. aureus,Fungi alone,0
+18209,20210310,Day14,1,2,S. aureus,Fungi alone,0
+21494,20210310,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21494,20210310,Day14,1,1,E. coli,100ng/mL LPS,0
+21494,20210310,Day14,1,2,E. coli,100ng/mL LPS,0
+21494,20210310,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21494,20210310,Day14,1,1,E. coli,100ng/mL LTA,0
+21494,20210310,Day14,1,2,E. coli,100ng/mL LTA,0
+21494,20210310,Day14,1,1,E. coli,Autoclaved bacteria,0
+21494,20210310,Day14,1,2,E. coli,Autoclaved bacteria,0
+21494,20210310,Day14,1,1,E. coli,Fungi alone,0
+21494,20210310,Day14,1,2,E. coli,Fungi alone,0
+21494,20210310,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21494,20210310,Day14,1,1,S. aureus,100ng/mL LPS,0
+21494,20210310,Day14,1,2,S. aureus,100ng/mL LPS,0
+21494,20210310,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21494,20210310,Day14,1,1,S. aureus,100ng/mL LTA,0
+21494,20210310,Day14,1,2,S. aureus,100ng/mL LTA,0
+21494,20210310,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21494,20210310,Day14,1,1,S. aureus,Fungi alone,0
+21494,20210310,Day14,1,2,S. aureus,Fungi alone,0
+22689,20210310,Day14,1,1,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day14,1,2,E. coli,0.1ng/mL LPS,0
+22689,20210310,Day14,1,1,E. coli,100ng/mL LPS,0
+22689,20210310,Day14,1,2,E. coli,100ng/mL LPS,0
+22689,20210310,Day14,1,1,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day14,1,2,E. coli,0.1ng/mL LTA,0
+22689,20210310,Day14,1,1,E. coli,100ng/mL LTA,0
+22689,20210310,Day14,1,2,E. coli,100ng/mL LTA,0
+22689,20210310,Day14,1,1,E. coli,Autoclaved bacteria,0
+22689,20210310,Day14,1,2,E. coli,Autoclaved bacteria,0
+22689,20210310,Day14,1,1,E. coli,Fungi alone,0
+22689,20210310,Day14,1,2,E. coli,Fungi alone,0
+22689,20210310,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+22689,20210310,Day14,1,1,S. aureus,100ng/mL LPS,0
+22689,20210310,Day14,1,2,S. aureus,100ng/mL LPS,0
+22689,20210310,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+22689,20210310,Day14,1,1,S. aureus,100ng/mL LTA,0
+22689,20210310,Day14,1,2,S. aureus,100ng/mL LTA,0
+22689,20210310,Day14,1,1,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day14,1,2,S. aureus,Autoclaved bacteria,0
+22689,20210310,Day14,1,1,S. aureus,Fungi alone,0
+22689,20210310,Day14,1,2,S. aureus,Fungi alone,0
+CON,20210310,Day14,1,1,E. coli,CON control,0
+CON,20210310,Day14,1,2,E. coli,CON control,0
+CON,20210310,Day14,1,1,E. coli,PDB control,0
+CON,20210310,Day14,1,2,E. coli,PDB control,0
+CON,20210310,Day14,1,1,S. aureus,CON control,0
+CON,20210310,Day14,1,2,S. aureus,CON control,0
+CON,20210310,Day14,1,1,S. aureus,PDB control,0
+CON,20210310,Day14,1,2,S. aureus,PDB control,0
+2708,20210311,Day 3,1,1,E. coli,0.1ng/mL LPS,4
+2708,20210311,Day 3,1,2,E. coli,0.1ng/mL LPS,7
+2708,20210311,Day 3,1,1,E. coli,100ng/mL LPS,4
+2708,20210311,Day 3,1,2,E. coli,100ng/mL LPS,7
+2708,20210311,Day 3,1,1,E. coli,0.1ng/mL LTA,3.5
+2708,20210311,Day 3,1,2,E. coli,0.1ng/mL LTA,6.5
+2708,20210311,Day 3,1,1,E. coli,100ng/mL LTA,7.5
+2708,20210311,Day 3,1,2,E. coli,100ng/mL LTA,7
+2708,20210311,Day 3,1,1,E. coli,Autoclaved bacteria,6.5
+2708,20210311,Day 3,1,2,E. coli,Autoclaved bacteria,6
+2708,20210311,Day 3,1,1,E. coli,Fungi alone,7.5
+2708,20210311,Day 3,1,2,E. coli,Fungi alone,8
+2708,20210311,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+2708,20210311,Day 3,1,2,S. aureus,0.1ng/mL LPS,4
+2708,20210311,Day 3,1,1,S. aureus,100ng/mL LPS,0
+2708,20210311,Day 3,1,2,S. aureus,100ng/mL LPS,4
+2708,20210311,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+2708,20210311,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+2708,20210311,Day 3,1,1,S. aureus,100ng/mL LTA,0
+2708,20210311,Day 3,1,2,S. aureus,100ng/mL LTA,0
+2708,20210311,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+2708,20210311,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+2708,20210311,Day 3,1,1,S. aureus,Fungi alone,0
+2708,20210311,Day 3,1,2,S. aureus,Fungi alone,0
+5686,20210311,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+5686,20210311,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+5686,20210311,Day 3,1,1,E. coli,100ng/mL LPS,0
+5686,20210311,Day 3,1,2,E. coli,100ng/mL LPS,0
+5686,20210311,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+5686,20210311,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+5686,20210311,Day 3,1,1,E. coli,100ng/mL LTA,0
+5686,20210311,Day 3,1,2,E. coli,100ng/mL LTA,0
+5686,20210311,Day 3,1,1,E. coli,Autoclaved bacteria,0
+5686,20210311,Day 3,1,2,E. coli,Autoclaved bacteria,0
+5686,20210311,Day 3,1,1,E. coli,Fungi alone,0
+5686,20210311,Day 3,1,2,E. coli,Fungi alone,0
+5686,20210311,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+5686,20210311,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+5686,20210311,Day 3,1,1,S. aureus,100ng/mL LPS,0
+5686,20210311,Day 3,1,2,S. aureus,100ng/mL LPS,0
+5686,20210311,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+5686,20210311,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+5686,20210311,Day 3,1,1,S. aureus,100ng/mL LTA,0
+5686,20210311,Day 3,1,2,S. aureus,100ng/mL LTA,0
+5686,20210311,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+5686,20210311,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+5686,20210311,Day 3,1,1,S. aureus,Fungi alone,0
+5686,20210311,Day 3,1,2,S. aureus,Fungi alone,0
+17529,20210311,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+17529,20210311,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+17529,20210311,Day 3,1,1,E. coli,100ng/mL LPS,0
+17529,20210311,Day 3,1,2,E. coli,100ng/mL LPS,0
+17529,20210311,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+17529,20210311,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+17529,20210311,Day 3,1,1,E. coli,100ng/mL LTA,0
+17529,20210311,Day 3,1,2,E. coli,100ng/mL LTA,0
+17529,20210311,Day 3,1,1,E. coli,Autoclaved bacteria,0
+17529,20210311,Day 3,1,2,E. coli,Autoclaved bacteria,0
+17529,20210311,Day 3,1,1,E. coli,Fungi alone,0
+17529,20210311,Day 3,1,2,E. coli,Fungi alone,0
+17529,20210311,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+17529,20210311,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+17529,20210311,Day 3,1,1,S. aureus,100ng/mL LPS,0
+17529,20210311,Day 3,1,2,S. aureus,100ng/mL LPS,0
+17529,20210311,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+17529,20210311,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+17529,20210311,Day 3,1,1,S. aureus,100ng/mL LTA,0
+17529,20210311,Day 3,1,2,S. aureus,100ng/mL LTA,0
+17529,20210311,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+17529,20210311,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+17529,20210311,Day 3,1,1,S. aureus,Fungi alone,0
+17529,20210311,Day 3,1,2,S. aureus,Fungi alone,0
+21497,20210311,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21497,20210311,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21497,20210311,Day 3,1,1,E. coli,100ng/mL LPS,0
+21497,20210311,Day 3,1,2,E. coli,100ng/mL LPS,0
+21497,20210311,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21497,20210311,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21497,20210311,Day 3,1,1,E. coli,100ng/mL LTA,0
+21497,20210311,Day 3,1,2,E. coli,100ng/mL LTA,0
+21497,20210311,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21497,20210311,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21497,20210311,Day 3,1,1,E. coli,Fungi alone,0
+21497,20210311,Day 3,1,2,E. coli,Fungi alone,0
+21497,20210311,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21497,20210311,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21497,20210311,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21497,20210311,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21497,20210311,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21497,20210311,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21497,20210311,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21497,20210311,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21497,20210311,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21497,20210311,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21497,20210311,Day 3,1,1,S. aureus,Fungi alone,0
+21497,20210311,Day 3,1,2,S. aureus,Fungi alone,0
+21498,20210311,Day 3,1,1,E. coli,0.1ng/mL LPS,0
+21498,20210311,Day 3,1,2,E. coli,0.1ng/mL LPS,0
+21498,20210311,Day 3,1,1,E. coli,100ng/mL LPS,0
+21498,20210311,Day 3,1,2,E. coli,100ng/mL LPS,0
+21498,20210311,Day 3,1,1,E. coli,0.1ng/mL LTA,0
+21498,20210311,Day 3,1,2,E. coli,0.1ng/mL LTA,0
+21498,20210311,Day 3,1,1,E. coli,100ng/mL LTA,0
+21498,20210311,Day 3,1,2,E. coli,100ng/mL LTA,0
+21498,20210311,Day 3,1,1,E. coli,Autoclaved bacteria,0
+21498,20210311,Day 3,1,2,E. coli,Autoclaved bacteria,0
+21498,20210311,Day 3,1,1,E. coli,Fungi alone,0
+21498,20210311,Day 3,1,2,E. coli,Fungi alone,0
+21498,20210311,Day 3,1,1,S. aureus,0.1ng/mL LPS,0
+21498,20210311,Day 3,1,2,S. aureus,0.1ng/mL LPS,0
+21498,20210311,Day 3,1,1,S. aureus,100ng/mL LPS,0
+21498,20210311,Day 3,1,2,S. aureus,100ng/mL LPS,0
+21498,20210311,Day 3,1,1,S. aureus,0.1ng/mL LTA,0
+21498,20210311,Day 3,1,2,S. aureus,0.1ng/mL LTA,0
+21498,20210311,Day 3,1,1,S. aureus,100ng/mL LTA,0
+21498,20210311,Day 3,1,2,S. aureus,100ng/mL LTA,0
+21498,20210311,Day 3,1,1,S. aureus,Autoclaved bacteria,0
+21498,20210311,Day 3,1,2,S. aureus,Autoclaved bacteria,0
+21498,20210311,Day 3,1,1,S. aureus,Fungi alone,0
+21498,20210311,Day 3,1,2,S. aureus,Fungi alone,0
+CON,20210311,Day 3,1,1,E. coli,CON control,0
+CON,20210311,Day 3,1,2,E. coli,CON control,0
+CON,20210311,Day 3,1,1,E. coli,PDB control,0
+CON,20210311,Day 3,1,2,E. coli,PDB control,0
+CON,20210311,Day 3,1,1,S. aureus,CON control,0
+CON,20210311,Day 3,1,2,S. aureus,CON control,0
+CON,20210311,Day 3,1,1,S. aureus,PDB control,0
+CON,20210311,Day 3,1,2,S. aureus,PDB control,0
+2708,20210315,Day 7,1,1,E. coli,0.1ng/mL LPS,6.5
+2708,20210315,Day 7,1,2,E. coli,0.1ng/mL LPS,7
+2708,20210315,Day 7,1,1,E. coli,100ng/mL LPS,5
+2708,20210315,Day 7,1,2,E. coli,100ng/mL LPS,8
+2708,20210315,Day 7,1,1,E. coli,0.1ng/mL LTA,6
+2708,20210315,Day 7,1,2,E. coli,0.1ng/mL LTA,8.5
+2708,20210315,Day 7,1,1,E. coli,100ng/mL LTA,0
+2708,20210315,Day 7,1,2,E. coli,100ng/mL LTA,9
+2708,20210315,Day 7,1,1,E. coli,Autoclaved bacteria,4.5
+2708,20210315,Day 7,1,2,E. coli,Autoclaved bacteria,6
+2708,20210315,Day 7,1,1,E. coli,Fungi alone,7.5
+2708,20210315,Day 7,1,2,E. coli,Fungi alone,8
+2708,20210315,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+2708,20210315,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+2708,20210315,Day 7,1,1,S. aureus,100ng/mL LPS,0
+2708,20210315,Day 7,1,2,S. aureus,100ng/mL LPS,3
+2708,20210315,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+2708,20210315,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+2708,20210315,Day 7,1,1,S. aureus,100ng/mL LTA,0
+2708,20210315,Day 7,1,2,S. aureus,100ng/mL LTA,0
+2708,20210315,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+2708,20210315,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+2708,20210315,Day 7,1,1,S. aureus,Fungi alone,0
+2708,20210315,Day 7,1,2,S. aureus,Fungi alone,0
+5686,20210315,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+5686,20210315,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+5686,20210315,Day 7,1,1,E. coli,100ng/mL LPS,0
+5686,20210315,Day 7,1,2,E. coli,100ng/mL LPS,0
+5686,20210315,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+5686,20210315,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+5686,20210315,Day 7,1,1,E. coli,100ng/mL LTA,0
+5686,20210315,Day 7,1,2,E. coli,100ng/mL LTA,0
+5686,20210315,Day 7,1,1,E. coli,Autoclaved bacteria,0
+5686,20210315,Day 7,1,2,E. coli,Autoclaved bacteria,0
+5686,20210315,Day 7,1,1,E. coli,Fungi alone,0
+5686,20210315,Day 7,1,2,E. coli,Fungi alone,0
+5686,20210315,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+5686,20210315,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+5686,20210315,Day 7,1,1,S. aureus,100ng/mL LPS,0
+5686,20210315,Day 7,1,2,S. aureus,100ng/mL LPS,0
+5686,20210315,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+5686,20210315,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+5686,20210315,Day 7,1,1,S. aureus,100ng/mL LTA,0
+5686,20210315,Day 7,1,2,S. aureus,100ng/mL LTA,0
+5686,20210315,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+5686,20210315,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+5686,20210315,Day 7,1,1,S. aureus,Fungi alone,0
+5686,20210315,Day 7,1,2,S. aureus,Fungi alone,0
+17529,20210315,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+17529,20210315,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+17529,20210315,Day 7,1,1,E. coli,100ng/mL LPS,0
+17529,20210315,Day 7,1,2,E. coli,100ng/mL LPS,0
+17529,20210315,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+17529,20210315,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+17529,20210315,Day 7,1,1,E. coli,100ng/mL LTA,0
+17529,20210315,Day 7,1,2,E. coli,100ng/mL LTA,0
+17529,20210315,Day 7,1,1,E. coli,Autoclaved bacteria,0
+17529,20210315,Day 7,1,2,E. coli,Autoclaved bacteria,0
+17529,20210315,Day 7,1,1,E. coli,Fungi alone,0
+17529,20210315,Day 7,1,2,E. coli,Fungi alone,0
+17529,20210315,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+17529,20210315,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+17529,20210315,Day 7,1,1,S. aureus,100ng/mL LPS,0
+17529,20210315,Day 7,1,2,S. aureus,100ng/mL LPS,0
+17529,20210315,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+17529,20210315,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+17529,20210315,Day 7,1,1,S. aureus,100ng/mL LTA,0
+17529,20210315,Day 7,1,2,S. aureus,100ng/mL LTA,0
+17529,20210315,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+17529,20210315,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+17529,20210315,Day 7,1,1,S. aureus,Fungi alone,0
+17529,20210315,Day 7,1,2,S. aureus,Fungi alone,0
+21497,20210315,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21497,20210315,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21497,20210315,Day 7,1,1,E. coli,100ng/mL LPS,0
+21497,20210315,Day 7,1,2,E. coli,100ng/mL LPS,0
+21497,20210315,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21497,20210315,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21497,20210315,Day 7,1,1,E. coli,100ng/mL LTA,0
+21497,20210315,Day 7,1,2,E. coli,100ng/mL LTA,0
+21497,20210315,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21497,20210315,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21497,20210315,Day 7,1,1,E. coli,Fungi alone,0
+21497,20210315,Day 7,1,2,E. coli,Fungi alone,0
+21497,20210315,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21497,20210315,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21497,20210315,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21497,20210315,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21497,20210315,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21497,20210315,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21497,20210315,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21497,20210315,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21497,20210315,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21497,20210315,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21497,20210315,Day 7,1,1,S. aureus,Fungi alone,0
+21497,20210315,Day 7,1,2,S. aureus,Fungi alone,0
+21498,20210315,Day 7,1,1,E. coli,0.1ng/mL LPS,0
+21498,20210315,Day 7,1,2,E. coli,0.1ng/mL LPS,0
+21498,20210315,Day 7,1,1,E. coli,100ng/mL LPS,0
+21498,20210315,Day 7,1,2,E. coli,100ng/mL LPS,0
+21498,20210315,Day 7,1,1,E. coli,0.1ng/mL LTA,0
+21498,20210315,Day 7,1,2,E. coli,0.1ng/mL LTA,0
+21498,20210315,Day 7,1,1,E. coli,100ng/mL LTA,0
+21498,20210315,Day 7,1,2,E. coli,100ng/mL LTA,0
+21498,20210315,Day 7,1,1,E. coli,Autoclaved bacteria,0
+21498,20210315,Day 7,1,2,E. coli,Autoclaved bacteria,0
+21498,20210315,Day 7,1,1,E. coli,Fungi alone,0
+21498,20210315,Day 7,1,2,E. coli,Fungi alone,0
+21498,20210315,Day 7,1,1,S. aureus,0.1ng/mL LPS,0
+21498,20210315,Day 7,1,2,S. aureus,0.1ng/mL LPS,0
+21498,20210315,Day 7,1,1,S. aureus,100ng/mL LPS,0
+21498,20210315,Day 7,1,2,S. aureus,100ng/mL LPS,0
+21498,20210315,Day 7,1,1,S. aureus,0.1ng/mL LTA,0
+21498,20210315,Day 7,1,2,S. aureus,0.1ng/mL LTA,0
+21498,20210315,Day 7,1,1,S. aureus,100ng/mL LTA,0
+21498,20210315,Day 7,1,2,S. aureus,100ng/mL LTA,0
+21498,20210315,Day 7,1,1,S. aureus,Autoclaved bacteria,0
+21498,20210315,Day 7,1,2,S. aureus,Autoclaved bacteria,0
+21498,20210315,Day 7,1,1,S. aureus,Fungi alone,0
+21498,20210315,Day 7,1,2,S. aureus,Fungi alone,0
+CON,20210315,Day 7,1,1,E. coli,CON control,0
+CON,20210315,Day 7,1,2,E. coli,CON control,0
+CON,20210315,Day 7,1,1,E. coli,PDB control,0
+CON,20210315,Day 7,1,2,E. coli,PDB control,0
+CON,20210315,Day 7,1,1,S. aureus,CON control,0
+CON,20210315,Day 7,1,2,S. aureus,CON control,0
+CON,20210315,Day 7,1,1,S. aureus,PDB control,0
+CON,20210315,Day 7,1,2,S. aureus,PDB control,0
+2708,20210322,Day14,1,1,E. coli,0.1ng/mL LPS,0
+2708,20210322,Day14,1,2,E. coli,0.1ng/mL LPS,5.5
+2708,20210322,Day14,1,1,E. coli,100ng/mL LPS,0
+2708,20210322,Day14,1,2,E. coli,100ng/mL LPS,0
+2708,20210322,Day14,1,1,E. coli,0.1ng/mL LTA,4
+2708,20210322,Day14,1,2,E. coli,0.1ng/mL LTA,6
+2708,20210322,Day14,1,1,E. coli,100ng/mL LTA,5
+2708,20210322,Day14,1,2,E. coli,100ng/mL LTA,6
+2708,20210322,Day14,1,1,E. coli,Autoclaved bacteria,5
+2708,20210322,Day14,1,2,E. coli,Autoclaved bacteria,0
+2708,20210322,Day14,1,1,E. coli,Fungi alone,0
+2708,20210322,Day14,1,2,E. coli,Fungi alone,5
+2708,20210322,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+2708,20210322,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+2708,20210322,Day14,1,1,S. aureus,100ng/mL LPS,0
+2708,20210322,Day14,1,2,S. aureus,100ng/mL LPS,0
+2708,20210322,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+2708,20210322,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+2708,20210322,Day14,1,1,S. aureus,100ng/mL LTA,0
+2708,20210322,Day14,1,2,S. aureus,100ng/mL LTA,0
+2708,20210322,Day14,1,1,S. aureus,Autoclaved bacteria,0
+2708,20210322,Day14,1,2,S. aureus,Autoclaved bacteria,0
+2708,20210322,Day14,1,1,S. aureus,Fungi alone,0
+2708,20210322,Day14,1,2,S. aureus,Fungi alone,0
+5686,20210322,Day14,1,1,E. coli,0.1ng/mL LPS,0
+5686,20210322,Day14,1,2,E. coli,0.1ng/mL LPS,0
+5686,20210322,Day14,1,1,E. coli,100ng/mL LPS,0
+5686,20210322,Day14,1,2,E. coli,100ng/mL LPS,0
+5686,20210322,Day14,1,1,E. coli,0.1ng/mL LTA,0
+5686,20210322,Day14,1,2,E. coli,0.1ng/mL LTA,0
+5686,20210322,Day14,1,1,E. coli,100ng/mL LTA,0
+5686,20210322,Day14,1,2,E. coli,100ng/mL LTA,0
+5686,20210322,Day14,1,1,E. coli,Autoclaved bacteria,0
+5686,20210322,Day14,1,2,E. coli,Autoclaved bacteria,0
+5686,20210322,Day14,1,1,E. coli,Fungi alone,0
+5686,20210322,Day14,1,2,E. coli,Fungi alone,0
+5686,20210322,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+5686,20210322,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+5686,20210322,Day14,1,1,S. aureus,100ng/mL LPS,0
+5686,20210322,Day14,1,2,S. aureus,100ng/mL LPS,0
+5686,20210322,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+5686,20210322,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+5686,20210322,Day14,1,1,S. aureus,100ng/mL LTA,0
+5686,20210322,Day14,1,2,S. aureus,100ng/mL LTA,0
+5686,20210322,Day14,1,1,S. aureus,Autoclaved bacteria,0
+5686,20210322,Day14,1,2,S. aureus,Autoclaved bacteria,0
+5686,20210322,Day14,1,1,S. aureus,Fungi alone,0
+5686,20210322,Day14,1,2,S. aureus,Fungi alone,0
+17529,20210322,Day14,1,1,E. coli,0.1ng/mL LPS,0
+17529,20210322,Day14,1,2,E. coli,0.1ng/mL LPS,0
+17529,20210322,Day14,1,1,E. coli,100ng/mL LPS,0
+17529,20210322,Day14,1,2,E. coli,100ng/mL LPS,0
+17529,20210322,Day14,1,1,E. coli,0.1ng/mL LTA,0
+17529,20210322,Day14,1,2,E. coli,0.1ng/mL LTA,0
+17529,20210322,Day14,1,1,E. coli,100ng/mL LTA,0
+17529,20210322,Day14,1,2,E. coli,100ng/mL LTA,0
+17529,20210322,Day14,1,1,E. coli,Autoclaved bacteria,0
+17529,20210322,Day14,1,2,E. coli,Autoclaved bacteria,0
+17529,20210322,Day14,1,1,E. coli,Fungi alone,0
+17529,20210322,Day14,1,2,E. coli,Fungi alone,0
+17529,20210322,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+17529,20210322,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+17529,20210322,Day14,1,1,S. aureus,100ng/mL LPS,0
+17529,20210322,Day14,1,2,S. aureus,100ng/mL LPS,0
+17529,20210322,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+17529,20210322,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+17529,20210322,Day14,1,1,S. aureus,100ng/mL LTA,0
+17529,20210322,Day14,1,2,S. aureus,100ng/mL LTA,0
+17529,20210322,Day14,1,1,S. aureus,Autoclaved bacteria,0
+17529,20210322,Day14,1,2,S. aureus,Autoclaved bacteria,0
+17529,20210322,Day14,1,1,S. aureus,Fungi alone,0
+17529,20210322,Day14,1,2,S. aureus,Fungi alone,0
+21497,20210322,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21497,20210322,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21497,20210322,Day14,1,1,E. coli,100ng/mL LPS,0
+21497,20210322,Day14,1,2,E. coli,100ng/mL LPS,0
+21497,20210322,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21497,20210322,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21497,20210322,Day14,1,1,E. coli,100ng/mL LTA,0
+21497,20210322,Day14,1,2,E. coli,100ng/mL LTA,0
+21497,20210322,Day14,1,1,E. coli,Autoclaved bacteria,0
+21497,20210322,Day14,1,2,E. coli,Autoclaved bacteria,0
+21497,20210322,Day14,1,1,E. coli,Fungi alone,0
+21497,20210322,Day14,1,2,E. coli,Fungi alone,0
+21497,20210322,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21497,20210322,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21497,20210322,Day14,1,1,S. aureus,100ng/mL LPS,0
+21497,20210322,Day14,1,2,S. aureus,100ng/mL LPS,0
+21497,20210322,Day14,1,1,S. aureus,0.1ng/mL LTA,0
+21497,20210322,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21497,20210322,Day14,1,1,S. aureus,100ng/mL LTA,0
+21497,20210322,Day14,1,2,S. aureus,100ng/mL LTA,0
+21497,20210322,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21497,20210322,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21497,20210322,Day14,1,1,S. aureus,Fungi alone,0
+21497,20210322,Day14,1,2,S. aureus,Fungi alone,0
+21498,20210322,Day14,1,1,E. coli,0.1ng/mL LPS,0
+21498,20210322,Day14,1,2,E. coli,0.1ng/mL LPS,0
+21498,20210322,Day14,1,1,E. coli,100ng/mL LPS,0
+21498,20210322,Day14,1,2,E. coli,100ng/mL LPS,0
+21498,20210322,Day14,1,1,E. coli,0.1ng/mL LTA,0
+21498,20210322,Day14,1,2,E. coli,0.1ng/mL LTA,0
+21498,20210322,Day14,1,1,E. coli,100ng/mL LTA,0
+21498,20210322,Day14,1,2,E. coli,100ng/mL LTA,0
+21498,20210322,Day14,1,1,E. coli,Autoclaved bacteria,0
+21498,20210322,Day14,1,2,E. coli,Autoclaved bacteria,0
+21498,20210322,Day14,1,1,E. coli,Fungi alone,0
+21498,20210322,Day14,1,2,E. coli,Fungi alone,0
+21498,20210322,Day14,1,1,S. aureus,0.1ng/mL LPS,0
+21498,20210322,Day14,1,2,S. aureus,0.1ng/mL LPS,0
+21498,20210322,Day14,1,1,S. aureus,100ng/mL LPS,0
+21498,20210322,Day14,1,2,S. aureus,100ng/mL LPS,0
+21498,20210322,Day14,1,1,S. aureus,0.1ng/mL LTA,6
+21498,20210322,Day14,1,2,S. aureus,0.1ng/mL LTA,0
+21498,20210322,Day14,1,1,S. aureus,100ng/mL LTA,5
+21498,20210322,Day14,1,2,S. aureus,100ng/mL LTA,0
+21498,20210322,Day14,1,1,S. aureus,Autoclaved bacteria,0
+21498,20210322,Day14,1,2,S. aureus,Autoclaved bacteria,0
+21498,20210322,Day14,1,1,S. aureus,Fungi alone,0
+21498,20210322,Day14,1,2,S. aureus,Fungi alone,0
+CON,20210322,Day14,1,1,E. coli,CON control,0
+CON,20210322,Day14,1,2,E. coli,CON control,0
+CON,20210322,Day14,1,1,E. coli,PDB control,0
+CON,20210322,Day14,1,2,E. coli,PDB control,0
+CON,20210322,Day14,1,1,S. aureus,CON control,0
+CON,20210322,Day14,1,2,S. aureus,CON control,0
+CON,20210322,Day14,1,1,S. aureus,PDB control,0
+CON,20210322,Day14,1,2,S. aureus,PDB control,0

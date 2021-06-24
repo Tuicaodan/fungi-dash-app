@@ -1,0 +1,1579 @@
+ICMP,Test_Date,Incubation_time,TechRep,BioRep,Additives,Bacteria,AUC
+1155,20200727,Day 1,1,1,0.1ng/mL LPS,A. baumannii,35.33333333
+1155,20200727,Day 1,2,1,0.1ng/mL LPS,A. baumannii,25
+1155,20200727,Day 1,3,1,0.1ng/mL LPS,A. baumannii,35.33333333
+1155,20200727,Day 1,1,1,100ng/mL LPS,A. baumannii,31.66666667
+1155,20200727,Day 1,2,1,100ng/mL LPS,A. baumannii,24
+1155,20200727,Day 1,3,1,100ng/mL LPS,A. baumannii,32.66666667
+1155,20200909,Day 1,1,1,0.1ng/mL LTA,A. baumannii,1387.666667
+1155,20200909,Day 1,2,1,0.1ng/mL LTA,A. baumannii,2941.333333
+1155,20200909,Day 1,3,1,0.1ng/mL LTA,A. baumannii,1761
+1155,20200909,Day 1,1,1,100ng/mL LTA,A. baumannii,158
+1155,20200909,Day 1,2,1,100ng/mL LTA,A. baumannii,680.3333333
+1155,20200909,Day 1,3,1,100ng/mL LTA,A. baumannii,3291.666667
+1155,20200727,Day 1,1,1,Fungi alone,A. baumannii,34.33333333
+1155,20200727,Day 1,2,1,Fungi alone,A. baumannii,32.66666667
+1155,20200727,Day 1,3,1,Fungi alone,A. baumannii,42
+1155,20200727,Day 1,1,1,Autoclaved bacteria,A. baumannii,31
+1155,20200727,Day 1,2,1,Autoclaved bacteria,A. baumannii,31
+1155,20200727,Day 1,3,1,Autoclaved bacteria,A. baumannii,22.33333333
+1155,20200727,Day 1,1,1,0.1ng/mL LPS,E. coli,21.33333333
+1155,20200727,Day 1,2,1,0.1ng/mL LPS,E. coli,18
+1155,20200727,Day 1,3,1,0.1ng/mL LPS,E. coli,15.33333333
+1155,20200727,Day 1,1,1,100ng/mL LPS,E. coli,25.66666667
+1155,20200727,Day 1,2,1,100ng/mL LPS,E. coli,25.66666667
+1155,20200727,Day 1,3,1,100ng/mL LPS,E. coli,21.33333333
+1155,20200909,Day 1,1,1,0.1ng/mL LTA,E. coli,1165.333333
+1155,20200909,Day 1,2,1,0.1ng/mL LTA,E. coli,1876.333333
+1155,20200909,Day 1,3,1,0.1ng/mL LTA,E. coli,1502
+1155,20200909,Day 1,1,1,100ng/mL LTA,E. coli,63.33333333
+1155,20200909,Day 1,2,1,100ng/mL LTA,E. coli,885
+1155,20200909,Day 1,3,1,100ng/mL LTA,E. coli,2010.666667
+1155,20200727,Day 1,1,1,Fungi alone,E. coli,17
+1155,20200727,Day 1,2,1,Fungi alone,E. coli,15.33333333
+1155,20200727,Day 1,3,1,Fungi alone,E. coli,17
+1155,20200727,Day 1,1,1,Autoclaved bacteria,E. coli,22.33333333
+1155,20200727,Day 1,2,1,Autoclaved bacteria,E. coli,22.33333333
+1155,20200727,Day 1,3,1,Autoclaved bacteria,E. coli,22.33333333
+1155,20200727,Day 1,1,1,0.1ng/mL LPS,P. aeruginosa,6079.666667
+1155,20200727,Day 1,2,1,0.1ng/mL LPS,P. aeruginosa,2828
+1155,20200727,Day 1,3,1,0.1ng/mL LPS,P. aeruginosa,4348
+1155,20200727,Day 1,1,1,100ng/mL LPS,P. aeruginosa,8610
+1155,20200727,Day 1,2,1,100ng/mL LPS,P. aeruginosa,4925.666667
+1155,20200727,Day 1,3,1,100ng/mL LPS,P. aeruginosa,4528
+1155,20200909,Day 1,1,1,0.1ng/mL LTA,P. aeruginosa,11353.66667
+1155,20200909,Day 1,2,1,0.1ng/mL LTA,P. aeruginosa,6376.666667
+1155,20200909,Day 1,3,1,0.1ng/mL LTA,P. aeruginosa,18983.83333
+1155,20200909,Day 1,1,1,100ng/mL LTA,P. aeruginosa,629.6666667
+1155,20200909,Day 1,2,1,100ng/mL LTA,P. aeruginosa,1865.333333
+1155,20200909,Day 1,3,1,100ng/mL LTA,P. aeruginosa,21324.33333
+1155,20200727,Day 1,1,1,Fungi alone,P. aeruginosa,3001
+1155,20200727,Day 1,2,1,Fungi alone,P. aeruginosa,3892.333333
+1155,20200727,Day 1,3,1,Fungi alone,P. aeruginosa,3535.666667
+1155,20200727,Day 1,1,1,Autoclaved bacteria,P. aeruginosa,12785
+1155,20200727,Day 1,2,1,Autoclaved bacteria,P. aeruginosa,10581
+1155,20200727,Day 1,3,1,Autoclaved bacteria,P. aeruginosa,8046.333333
+1155,20200727,Day 1,1,1,0.1ng/mL LPS,S. aureus,13.66666667
+1155,20200727,Day 1,2,1,0.1ng/mL LPS,S. aureus,13.66666667
+1155,20200727,Day 1,3,1,0.1ng/mL LPS,S. aureus,19.66666667
+1155,20200727,Day 1,1,1,100ng/mL LPS,S. aureus,19.66666667
+1155,20200727,Day 1,2,1,100ng/mL LPS,S. aureus,23
+1155,20200727,Day 1,3,1,100ng/mL LPS,S. aureus,12.66666667
+1155,20200909,Day 1,1,1,0.1ng/mL LTA,S. aureus,161.6666667
+1155,20200909,Day 1,2,1,0.1ng/mL LTA,S. aureus,610.6666667
+1155,20200909,Day 1,3,1,0.1ng/mL LTA,S. aureus,448.3333333
+1155,20200909,Day 1,1,1,100ng/mL LTA,S. aureus,104.6666667
+1155,20200909,Day 1,2,1,100ng/mL LTA,S. aureus,386
+1155,20200909,Day 1,3,1,100ng/mL LTA,S. aureus,566.3333333
+1155,20200727,Day 1,1,1,Fungi alone,S. aureus,12
+1155,20200727,Day 1,2,1,Fungi alone,S. aureus,19.66666667
+1155,20200727,Day 1,3,1,Fungi alone,S. aureus,12
+1155,20200727,Day 1,1,1,Autoclaved bacteria,S. aureus,13.66666667
+1155,20200727,Day 1,2,1,Autoclaved bacteria,S. aureus,18.66666667
+1155,20200727,Day 1,3,1,Autoclaved bacteria,S. aureus,10.33333333
+1155,20200804,Day14,1,1,0.1ng/mL LPS,A. baumannii,8.333333333
+1155,20200804,Day14,2,1,0.1ng/mL LPS,A. baumannii,21.33333333
+1155,20200804,Day14,3,1,0.1ng/mL LPS,A. baumannii,17
+1155,20200804,Day14,1,1,100ng/mL LPS,A. baumannii,94.66666667
+1155,20200804,Day14,2,1,100ng/mL LPS,A. baumannii,144
+1155,20200804,Day14,3,1,100ng/mL LPS,A. baumannii,218.3333333
+1155,20200902,Day14,1,1,0.1ng/mL LTA,A. baumannii,16
+1155,20200902,Day14,2,1,0.1ng/mL LTA,A. baumannii,12.66666667
+1155,20200902,Day14,3,1,0.1ng/mL LTA,A. baumannii,9.333333333
+1155,20200902,Day14,1,1,100ng/mL LTA,A. baumannii,16
+1155,20200902,Day14,2,1,100ng/mL LTA,A. baumannii,7929.333333
+1155,20200902,Day14,3,1,100ng/mL LTA,A. baumannii,21.33333333
+1155,20200804,Day14,1,1,Fungi alone,A. baumannii,12.66666667
+1155,20200804,Day14,2,1,Fungi alone,A. baumannii,9.333333333
+1155,20200804,Day14,3,1,Fungi alone,A. baumannii,21.33333333
+1155,20200804,Day14,1,1,Autoclaved bacteria,A. baumannii,17
+1155,20200804,Day14,2,1,Autoclaved bacteria,A. baumannii,35
+1155,20200804,Day14,3,1,Autoclaved bacteria,A. baumannii,58
+1155,20200804,Day14,1,1,0.1ng/mL LPS,E. coli,6.666666667
+1155,20200804,Day14,2,1,0.1ng/mL LPS,E. coli,30
+1155,20200804,Day14,3,1,0.1ng/mL LPS,E. coli,15.33333333
+1155,20200804,Day14,1,1,100ng/mL LPS,E. coli,20.66666667
+1155,20200804,Day14,2,1,100ng/mL LPS,E. coli,19
+1155,20200804,Day14,3,1,100ng/mL LPS,E. coli,28.33333333
+1155,20200902,Day14,1,1,0.1ng/mL LTA,E. coli,22.33333333
+1155,20200902,Day14,2,1,0.1ng/mL LTA,E. coli,12
+1155,20200902,Day14,3,1,0.1ng/mL LTA,E. coli,24
+1155,20200902,Day14,1,1,100ng/mL LTA,E. coli,5
+1155,20200902,Day14,2,1,100ng/mL LTA,E. coli,6995
+1155,20200902,Day14,3,1,100ng/mL LTA,E. coli,30.66666667
+1155,20200804,Day14,1,1,Fungi alone,E. coli,19.66666667
+1155,20200804,Day14,2,1,Fungi alone,E. coli,12
+1155,20200804,Day14,3,1,Fungi alone,E. coli,12.66666667
+1155,20200804,Day14,1,1,Autoclaved bacteria,E. coli,22
+1155,20200804,Day14,2,1,Autoclaved bacteria,E. coli,12.66666667
+1155,20200804,Day14,3,1,Autoclaved bacteria,E. coli,34.33333333
+1155,20200804,Day14,1,1,0.1ng/mL LPS,P. aeruginosa,2189
+1155,20200804,Day14,2,1,0.1ng/mL LPS,P. aeruginosa,2334
+1155,20200804,Day14,3,1,0.1ng/mL LPS,P. aeruginosa,2214
+1155,20200804,Day14,1,1,100ng/mL LPS,P. aeruginosa,1587
+1155,20200804,Day14,2,1,100ng/mL LPS,P. aeruginosa,2046.666667
+1155,20200804,Day14,3,1,100ng/mL LPS,P. aeruginosa,1730.333333
+1155,20200902,Day14,1,1,0.1ng/mL LTA,P. aeruginosa,9109.666667
+1155,20200902,Day14,2,1,0.1ng/mL LTA,P. aeruginosa,8731.666667
+1155,20200902,Day14,3,1,0.1ng/mL LTA,P. aeruginosa,6591.333333
+1155,20200902,Day14,1,1,100ng/mL LTA,P. aeruginosa,7738.333333
+1155,20200902,Day14,2,1,100ng/mL LTA,P. aeruginosa,11271
+1155,20200902,Day14,3,1,100ng/mL LTA,P. aeruginosa,7875.666667
+1155,20200804,Day14,1,1,Fungi alone,P. aeruginosa,2846
+1155,20200804,Day14,2,1,Fungi alone,P. aeruginosa,2815
+1155,20200804,Day14,3,1,Fungi alone,P. aeruginosa,2409.333333
+1155,20200804,Day14,1,1,Autoclaved bacteria,P. aeruginosa,3334.666667
+1155,20200804,Day14,2,1,Autoclaved bacteria,P. aeruginosa,3082
+1155,20200804,Day14,3,1,Autoclaved bacteria,P. aeruginosa,2214
+1155,20200804,Day14,1,1,0.1ng/mL LPS,S. aureus,14.66666667
+1155,20200804,Day14,2,1,0.1ng/mL LPS,S. aureus,14.66666667
+1155,20200804,Day14,3,1,0.1ng/mL LPS,S. aureus,13.66666667
+1155,20200804,Day14,1,1,100ng/mL LPS,S. aureus,6
+1155,20200804,Day14,2,1,100ng/mL LPS,S. aureus,24
+1155,20200804,Day14,3,1,100ng/mL LPS,S. aureus,14.66666667
+1155,20200902,Day14,1,1,0.1ng/mL LTA,S. aureus,18.66666667
+1155,20200902,Day14,2,1,0.1ng/mL LTA,S. aureus,23
+1155,20200902,Day14,3,1,0.1ng/mL LTA,S. aureus,17.66666667
+1155,20200902,Day14,1,1,100ng/mL LTA,S. aureus,17
+1155,20200902,Day14,2,1,100ng/mL LTA,S. aureus,30.66666667
+1155,20200902,Day14,3,1,100ng/mL LTA,S. aureus,36.33333333
+1155,20200804,Day14,1,1,Fungi alone,S. aureus,10.33333333
+1155,20200804,Day14,2,1,Fungi alone,S. aureus,9.333333333
+1155,20200804,Day14,3,1,Fungi alone,S. aureus,8.666666667
+1155,20200804,Day14,1,1,Autoclaved bacteria,S. aureus,7.666666667
+1155,20200804,Day14,2,1,Autoclaved bacteria,S. aureus,13
+1155,20200804,Day14,3,1,Autoclaved bacteria,S. aureus,11
+1155,20200727,Day 3,1,1,0.1ng/mL LPS,A. baumannii,9.333333333
+1155,20200727,Day 3,2,1,0.1ng/mL LPS,A. baumannii,10.33333333
+1155,20200727,Day 3,3,1,0.1ng/mL LPS,A. baumannii,7.666666667
+1155,20200727,Day 3,1,1,100ng/mL LPS,A. baumannii,10.33333333
+1155,20200727,Day 3,2,1,100ng/mL LPS,A. baumannii,3.333333333
+1155,20200727,Day 3,3,1,100ng/mL LPS,A. baumannii,10.33333333
+1155,20200915,Day 3,1,1,0.1ng/mL LTA,A. baumannii,537.3333333
+1155,20200915,Day 3,2,1,0.1ng/mL LTA,A. baumannii,710.3333333
+1155,20200915,Day 3,3,1,0.1ng/mL LTA,A. baumannii,13.33333333
+1155,20200915,Day 3,1,1,100ng/mL LTA,A. baumannii,26.33333333
+1155,20200915,Day 3,2,1,100ng/mL LTA,A. baumannii,26.33333333
+1155,20200915,Day 3,3,1,100ng/mL LTA,A. baumannii,101.6666667
+1155,20200727,Day 3,1,1,Fungi alone,A. baumannii,8.666666667
+1155,20200727,Day 3,2,1,Fungi alone,A. baumannii,9.333333333
+1155,20200727,Day 3,3,1,Fungi alone,A. baumannii,16.33333333
+1155,20200727,Day 3,1,1,Autoclaved bacteria,A. baumannii,8.666666667
+1155,20200727,Day 3,2,1,Autoclaved bacteria,A. baumannii,16.33333333
+1155,20200727,Day 3,3,1,Autoclaved bacteria,A. baumannii,7.666666667
+1155,20200727,Day 3,1,1,0.1ng/mL LPS,E. coli,14.66666667
+1155,20200727,Day 3,2,1,0.1ng/mL LPS,E. coli,7.666666667
+1155,20200727,Day 3,3,1,0.1ng/mL LPS,E. coli,12
+1155,20200727,Day 3,1,1,100ng/mL LPS,E. coli,3.333333333
+1155,20200727,Day 3,2,1,100ng/mL LPS,E. coli,7.666666667
+1155,20200727,Day 3,3,1,100ng/mL LPS,E. coli,1.666666667
+1155,20200915,Day 3,1,1,0.1ng/mL LTA,E. coli,416
+1155,20200915,Day 3,2,1,0.1ng/mL LTA,E. coli,591.6666667
+1155,20200915,Day 3,3,1,0.1ng/mL LTA,E. coli,11
+1155,20200915,Day 3,1,1,100ng/mL LTA,E. coli,9.333333333
+1155,20200915,Day 3,2,1,100ng/mL LTA,E. coli,21.33333333
+1155,20200915,Day 3,3,1,100ng/mL LTA,E. coli,126
+1155,20200727,Day 3,1,1,Fungi alone,E. coli,17
+1155,20200727,Day 3,2,1,Fungi alone,E. coli,13.66666667
+1155,20200727,Day 3,3,1,Fungi alone,E. coli,10.33333333
+1155,20200727,Day 3,1,1,Autoclaved bacteria,E. coli,3.333333333
+1155,20200727,Day 3,2,1,Autoclaved bacteria,E. coli,9.333333333
+1155,20200727,Day 3,3,1,Autoclaved bacteria,E. coli,11
+1155,20200727,Day 3,1,1,0.1ng/mL LPS,P. aeruginosa,3644
+1155,20200727,Day 3,2,1,0.1ng/mL LPS,P. aeruginosa,98
+1155,20200727,Day 3,3,1,0.1ng/mL LPS,P. aeruginosa,111.6666667
+1155,20200727,Day 3,1,1,100ng/mL LPS,P. aeruginosa,356.3333333
+1155,20200727,Day 3,2,1,100ng/mL LPS,P. aeruginosa,609.6666667
+1155,20200727,Day 3,3,1,100ng/mL LPS,P. aeruginosa,195.6666667
+1155,20200915,Day 3,1,1,0.1ng/mL LTA,P. aeruginosa,294.3333333
+1155,20200915,Day 3,2,1,0.1ng/mL LTA,P. aeruginosa,2002.666667
+1155,20200915,Day 3,3,1,0.1ng/mL LTA,P. aeruginosa,13.66666667
+1155,20200915,Day 3,1,1,100ng/mL LTA,P. aeruginosa,12
+1155,20200915,Day 3,2,1,100ng/mL LTA,P. aeruginosa,10.33333333
+1155,20200915,Day 3,3,1,100ng/mL LTA,P. aeruginosa,25.66666667
+1155,20200727,Day 3,1,1,Fungi alone,P. aeruginosa,227
+1155,20200727,Day 3,2,1,Fungi alone,P. aeruginosa,74
+1155,20200727,Day 3,3,1,Fungi alone,P. aeruginosa,168
+1155,20200727,Day 3,1,1,Autoclaved bacteria,P. aeruginosa,310.6666667
+1155,20200727,Day 3,2,1,Autoclaved bacteria,P. aeruginosa,2320
+1155,20200727,Day 3,3,1,Autoclaved bacteria,P. aeruginosa,620.6666667
+1155,20200727,Day 3,1,1,0.1ng/mL LPS,S. aureus,16.33333333
+1155,20200727,Day 3,2,1,0.1ng/mL LPS,S. aureus,18
+1155,20200727,Day 3,3,1,0.1ng/mL LPS,S. aureus,7.666666667
+1155,20200727,Day 3,1,1,100ng/mL LPS,S. aureus,6
+1155,20200727,Day 3,2,1,100ng/mL LPS,S. aureus,13.66666667
+1155,20200727,Day 3,3,1,100ng/mL LPS,S. aureus,4.333333333
+1155,20200922,Day 3,1,1,0.1ng/mL LTA,S. aureus,360
+1155,20200922,Day 3,2,1,0.1ng/mL LTA,S. aureus,494.6666667
+1155,20200922,Day 3,3,1,0.1ng/mL LTA,S. aureus,9.333333333
+1155,20200922,Day 3,1,1,100ng/mL LTA,S. aureus,19
+1155,20200922,Day 3,2,1,100ng/mL LTA,S. aureus,25
+1155,20200922,Day 3,3,1,100ng/mL LTA,S. aureus,42.33333333
+1155,20200727,Day 3,1,1,Fungi alone,S. aureus,19.66666667
+1155,20200727,Day 3,2,1,Fungi alone,S. aureus,20.66666667
+1155,20200727,Day 3,3,1,Fungi alone,S. aureus,9.333333333
+1155,20200727,Day 3,1,1,Autoclaved bacteria,S. aureus,0
+1155,20200727,Day 3,2,1,Autoclaved bacteria,S. aureus,9.333333333
+1155,20200727,Day 3,3,1,Autoclaved bacteria,S. aureus,9.333333333
+1155,20200727,Day 7,1,1,0.1ng/mL LPS,A. baumannii,9.333333333
+1155,20200727,Day 7,2,1,0.1ng/mL LPS,A. baumannii,10.33333333
+1155,20200727,Day 7,3,1,0.1ng/mL LPS,A. baumannii,8.666666667
+1155,20200727,Day 7,1,1,100ng/mL LPS,A. baumannii,11
+1155,20200727,Day 7,2,1,100ng/mL LPS,A. baumannii,4.333333333
+1155,20200727,Day 7,3,1,100ng/mL LPS,A. baumannii,34
+1155,20200915,Day 7,1,1,0.1ng/mL LTA,A. baumannii,18
+1155,20200915,Day 7,2,1,0.1ng/mL LTA,A. baumannii,6.666666667
+1155,20200915,Day 7,3,1,0.1ng/mL LTA,A. baumannii,1856.333333
+1155,20200915,Day 7,1,1,100ng/mL LTA,A. baumannii,13.66666667
+1155,20200915,Day 7,2,1,100ng/mL LTA,A. baumannii,1.666666667
+1155,20200915,Day 7,3,1,100ng/mL LTA,A. baumannii,1.666666667
+1155,20200727,Day 7,1,1,Fungi alone,A. baumannii,15.33333333
+1155,20200727,Day 7,2,1,Fungi alone,A. baumannii,6
+1155,20200727,Day 7,3,1,Fungi alone,A. baumannii,14.66666667
+1155,20200727,Day 7,1,1,Autoclaved bacteria,A. baumannii,14.66666667
+1155,20200727,Day 7,2,1,Autoclaved bacteria,A. baumannii,12
+1155,20200727,Day 7,3,1,Autoclaved bacteria,A. baumannii,28.66666667
+1155,20200727,Day 7,1,1,0.1ng/mL LPS,E. coli,14.66666667
+1155,20200727,Day 7,2,1,0.1ng/mL LPS,E. coli,0
+1155,20200727,Day 7,3,1,0.1ng/mL LPS,E. coli,12
+1155,20200727,Day 7,1,1,100ng/mL LPS,E. coli,19
+1155,20200727,Day 7,2,1,100ng/mL LPS,E. coli,13.66666667
+1155,20200727,Day 7,3,1,100ng/mL LPS,E. coli,14.33333333
+1155,20200915,Day 7,1,1,0.1ng/mL LTA,E. coli,12.66666667
+1155,20200915,Day 7,2,1,0.1ng/mL LTA,E. coli,3.333333333
+1155,20200915,Day 7,3,1,0.1ng/mL LTA,E. coli,3238
+1155,20200915,Day 7,1,1,100ng/mL LTA,E. coli,7.666666667
+1155,20200915,Day 7,2,1,100ng/mL LTA,E. coli,13.66666667
+1155,20200915,Day 7,3,1,100ng/mL LTA,E. coli,12
+1155,20200727,Day 7,1,1,Fungi alone,E. coli,24
+1155,20200727,Day 7,2,1,Fungi alone,E. coli,3.333333333
+1155,20200727,Day 7,3,1,Fungi alone,E. coli,12
+1155,20200727,Day 7,1,1,Autoclaved bacteria,E. coli,12
+1155,20200727,Day 7,2,1,Autoclaved bacteria,E. coli,18
+1155,20200727,Day 7,3,1,Autoclaved bacteria,E. coli,17.66666667
+1155,20200727,Day 7,1,1,0.1ng/mL LPS,P. aeruginosa,51.66666667
+1155,20200727,Day 7,2,1,0.1ng/mL LPS,P. aeruginosa,2123.333333
+1155,20200727,Day 7,3,1,0.1ng/mL LPS,P. aeruginosa,882.6666667
+1155,20200727,Day 7,1,1,100ng/mL LPS,P. aeruginosa,120.6666667
+1155,20200727,Day 7,2,1,100ng/mL LPS,P. aeruginosa,67
+1155,20200727,Day 7,3,1,100ng/mL LPS,P. aeruginosa,43.66666667
+1155,20200915,Day 7,1,1,0.1ng/mL LTA,P. aeruginosa,442.6666667
+1155,20200915,Day 7,2,1,0.1ng/mL LTA,P. aeruginosa,529.6666667
+1155,20200915,Day 7,3,1,0.1ng/mL LTA,P. aeruginosa,1895.333333
+1155,20200915,Day 7,1,1,100ng/mL LTA,P. aeruginosa,396.6666667
+1155,20200915,Day 7,2,1,100ng/mL LTA,P. aeruginosa,12
+1155,20200915,Day 7,3,1,100ng/mL LTA,P. aeruginosa,7.666666667
+1155,20200727,Day 7,1,1,Fungi alone,P. aeruginosa,3.333333333
+1155,20200727,Day 7,2,1,Fungi alone,P. aeruginosa,24.66666667
+1155,20200727,Day 7,3,1,Fungi alone,P. aeruginosa,121.3333333
+1155,20200727,Day 7,1,1,Autoclaved bacteria,P. aeruginosa,3810
+1155,20200727,Day 7,2,1,Autoclaved bacteria,P. aeruginosa,34
+1155,20200727,Day 7,3,1,Autoclaved bacteria,P. aeruginosa,137.6666667
+1155,20200727,Day 7,1,1,0.1ng/mL LPS,S. aureus,18
+1155,20200727,Day 7,2,1,0.1ng/mL LPS,S. aureus,1.666666667
+1155,20200727,Day 7,3,1,0.1ng/mL LPS,S. aureus,6
+1155,20200727,Day 7,1,1,100ng/mL LPS,S. aureus,3.333333333
+1155,20200727,Day 7,2,1,100ng/mL LPS,S. aureus,7.666666667
+1155,20200727,Day 7,3,1,100ng/mL LPS,S. aureus,15.33333333
+1155,20200922,Day 7,1,1,0.1ng/mL LTA,S. aureus,25.33333333
+1155,20200922,Day 7,2,1,0.1ng/mL LTA,S. aureus,7.666666667
+1155,20200922,Day 7,3,1,0.1ng/mL LTA,S. aureus,22.66666667
+1155,20200922,Day 7,1,1,100ng/mL LTA,S. aureus,39.66666667
+1155,20200922,Day 7,2,1,100ng/mL LTA,S. aureus,95.33333333
+1155,20200922,Day 7,3,1,100ng/mL LTA,S. aureus,29.33333333
+1155,20200727,Day 7,1,1,Fungi alone,S. aureus,17.33333333
+1155,20200727,Day 7,2,1,Fungi alone,S. aureus,3.333333333
+1155,20200727,Day 7,3,1,Fungi alone,S. aureus,16.33333333
+1155,20200727,Day 7,1,1,Autoclaved bacteria,S. aureus,9.333333333
+1155,20200727,Day 7,2,1,Autoclaved bacteria,S. aureus,13.66666667
+1155,20200727,Day 7,3,1,Autoclaved bacteria,S. aureus,12
+1189,20200727,Day 1,1,1,0.1ng/mL LPS,A. baumannii,3575.666667
+1189,20200727,Day 1,2,1,0.1ng/mL LPS,A. baumannii,818
+1189,20200727,Day 1,3,1,0.1ng/mL LPS,A. baumannii,12000.66667
+1189,20200727,Day 1,1,1,100ng/mL LPS,A. baumannii,9809
+1189,20200727,Day 1,2,1,100ng/mL LPS,A. baumannii,13796.16667
+1189,20200727,Day 1,3,1,100ng/mL LPS,A. baumannii,18973
+1189,20200909,Day 1,1,1,0.1ng/mL LTA,A. baumannii,4591.333333
+1189,20200909,Day 1,2,1,0.1ng/mL LTA,A. baumannii,12413.66667
+1189,20200909,Day 1,3,1,0.1ng/mL LTA,A. baumannii,912
+1189,20200909,Day 1,1,1,100ng/mL LTA,A. baumannii,1524.666667
+1189,20200909,Day 1,2,1,100ng/mL LTA,A. baumannii,2568.333333
+1189,20200909,Day 1,3,1,100ng/mL LTA,A. baumannii,13423.33333
+1189,20200727,Day 1,1,1,Fungi alone,A. baumannii,35962.66667
+1189,20200727,Day 1,2,1,Fungi alone,A. baumannii,29023
+1189,20200727,Day 1,3,1,Fungi alone,A. baumannii,5564.333333
+1189,20200727,Day 1,1,1,Autoclaved bacteria,A. baumannii,33560.66667
+1189,20200727,Day 1,2,1,Autoclaved bacteria,A. baumannii,16700.5
+1189,20200727,Day 1,3,1,Autoclaved bacteria,A. baumannii,20004.66667
+1189,20200727,Day 1,1,1,0.1ng/mL LPS,E. coli,1585
+1189,20200727,Day 1,2,1,0.1ng/mL LPS,E. coli,609
+1189,20200727,Day 1,3,1,0.1ng/mL LPS,E. coli,3153.666667
+1189,20200727,Day 1,1,1,100ng/mL LPS,E. coli,2699
+1189,20200727,Day 1,2,1,100ng/mL LPS,E. coli,3938.666667
+1189,20200727,Day 1,3,1,100ng/mL LPS,E. coli,9454.666667
+1189,20200909,Day 1,1,1,0.1ng/mL LTA,E. coli,2362.666667
+1189,20200909,Day 1,2,1,0.1ng/mL LTA,E. coli,5817.666667
+1189,20200909,Day 1,3,1,0.1ng/mL LTA,E. coli,399.3333333
+1189,20200909,Day 1,1,1,100ng/mL LTA,E. coli,539.3333333
+1189,20200909,Day 1,2,1,100ng/mL LTA,E. coli,429
+1189,20200909,Day 1,3,1,100ng/mL LTA,E. coli,7527
+1189,20200727,Day 1,1,1,Fungi alone,E. coli,13375.83333
+1189,20200727,Day 1,2,1,Fungi alone,E. coli,12360.66667
+1189,20200727,Day 1,3,1,Fungi alone,E. coli,2062
+1189,20200727,Day 1,1,1,Autoclaved bacteria,E. coli,13541.16667
+1189,20200727,Day 1,2,1,Autoclaved bacteria,E. coli,8939
+1189,20200727,Day 1,3,1,Autoclaved bacteria,E. coli,9772.666667
+1189,20200727,Day 1,1,1,0.1ng/mL LPS,P. aeruginosa,10116.33333
+1189,20200727,Day 1,2,1,0.1ng/mL LPS,P. aeruginosa,9289.666667
+1189,20200727,Day 1,3,1,0.1ng/mL LPS,P. aeruginosa,10009
+1189,20200727,Day 1,1,1,100ng/mL LPS,P. aeruginosa,10757.66667
+1189,20200727,Day 1,2,1,100ng/mL LPS,P. aeruginosa,12146.33333
+1189,20200727,Day 1,3,1,100ng/mL LPS,P. aeruginosa,13106.66667
+1189,20200909,Day 1,1,1,0.1ng/mL LTA,P. aeruginosa,17195.83333
+1189,20200909,Day 1,2,1,0.1ng/mL LTA,P. aeruginosa,22763.33333
+1189,20200909,Day 1,3,1,0.1ng/mL LTA,P. aeruginosa,13205
+1189,20200909,Day 1,1,1,100ng/mL LTA,P. aeruginosa,12828
+1189,20200909,Day 1,2,1,100ng/mL LTA,P. aeruginosa,14665
+1189,20200909,Day 1,3,1,100ng/mL LTA,P. aeruginosa,26085.5
+1189,20200727,Day 1,1,1,Fungi alone,P. aeruginosa,10598.66667
+1189,20200727,Day 1,2,1,Fungi alone,P. aeruginosa,11091.33333
+1189,20200727,Day 1,3,1,Fungi alone,P. aeruginosa,9837
+1189,20200727,Day 1,1,1,Autoclaved bacteria,P. aeruginosa,11927.33333
+1189,20200727,Day 1,2,1,Autoclaved bacteria,P. aeruginosa,13711.66667
+1189,20200727,Day 1,3,1,Autoclaved bacteria,P. aeruginosa,15952.66667
+1189,20200727,Day 1,1,1,0.1ng/mL LPS,S. aureus,58
+1189,20200727,Day 1,2,1,0.1ng/mL LPS,S. aureus,59
+1189,20200727,Day 1,3,1,0.1ng/mL LPS,S. aureus,117.3333333
+1189,20200727,Day 1,1,1,100ng/mL LPS,S. aureus,58
+1189,20200727,Day 1,2,1,100ng/mL LPS,S. aureus,128.3333333
+1189,20200727,Day 1,3,1,100ng/mL LPS,S. aureus,309.6666667
+1189,20200909,Day 1,1,1,0.1ng/mL LTA,S. aureus,101.6666667
+1189,20200909,Day 1,2,1,0.1ng/mL LTA,S. aureus,2482.666667
+1189,20200909,Day 1,3,1,0.1ng/mL LTA,S. aureus,24.66666667
+1189,20200909,Day 1,1,1,100ng/mL LTA,S. aureus,37.33333333
+1189,20200909,Day 1,2,1,100ng/mL LTA,S. aureus,59.66666667
+1189,20200909,Day 1,3,1,100ng/mL LTA,S. aureus,3274.666667
+1189,20200727,Day 1,1,1,Fungi alone,S. aureus,420
+1189,20200727,Day 1,2,1,Fungi alone,S. aureus,506
+1189,20200727,Day 1,3,1,Fungi alone,S. aureus,58.33333333
+1189,20200727,Day 1,1,1,Autoclaved bacteria,S. aureus,391.3333333
+1189,20200727,Day 1,2,1,Autoclaved bacteria,S. aureus,404
+1189,20200727,Day 1,3,1,Autoclaved bacteria,S. aureus,590.6666667
+1189,20200804,Day14,1,1,0.1ng/mL LPS,A. baumannii,20.66666667
+1189,20200804,Day14,2,1,0.1ng/mL LPS,A. baumannii,3.333333333
+1189,20200804,Day14,3,1,0.1ng/mL LPS,A. baumannii,12
+1189,20200804,Day14,1,1,100ng/mL LPS,A. baumannii,11
+1189,20200804,Day14,2,1,100ng/mL LPS,A. baumannii,10.33333333
+1189,20200804,Day14,3,1,100ng/mL LPS,A. baumannii,36.66666667
+1189,20200902,Day14,1,1,0.1ng/mL LTA,A. baumannii,12.66666667
+1189,20200902,Day14,2,1,0.1ng/mL LTA,A. baumannii,223.6666667
+1189,20200902,Day14,3,1,0.1ng/mL LTA,A. baumannii,159.6666667
+1189,20200902,Day14,1,1,100ng/mL LTA,A. baumannii,11022.66667
+1189,20200902,Day14,2,1,100ng/mL LTA,A. baumannii,18590.33333
+1189,20200902,Day14,3,1,100ng/mL LTA,A. baumannii,16269.83333
+1189,20200804,Day14,1,1,Fungi alone,A. baumannii,35.66666667
+1189,20200804,Day14,2,1,Fungi alone,A. baumannii,114
+1189,20200804,Day14,3,1,Fungi alone,A. baumannii,28
+1189,20200804,Day14,1,1,Autoclaved bacteria,A. baumannii,12
+1189,20200804,Day14,2,1,Autoclaved bacteria,A. baumannii,29
+1189,20200804,Day14,3,1,Autoclaved bacteria,A. baumannii,30.33333333
+1189,20200804,Day14,1,1,0.1ng/mL LPS,E. coli,12
+1189,20200804,Day14,2,1,0.1ng/mL LPS,E. coli,7.666666667
+1189,20200804,Day14,3,1,0.1ng/mL LPS,E. coli,16.33333333
+1189,20200804,Day14,1,1,100ng/mL LPS,E. coli,13
+1189,20200804,Day14,2,1,100ng/mL LPS,E. coli,13.66666667
+1189,20200804,Day14,3,1,100ng/mL LPS,E. coli,24.66666667
+1189,20200902,Day14,1,1,0.1ng/mL LTA,E. coli,12
+1189,20200902,Day14,2,1,0.1ng/mL LTA,E. coli,165.6666667
+1189,20200902,Day14,3,1,0.1ng/mL LTA,E. coli,183
+1189,20200902,Day14,1,1,100ng/mL LTA,E. coli,3839.666667
+1189,20200902,Day14,2,1,100ng/mL LTA,E. coli,7538
+1189,20200902,Day14,3,1,100ng/mL LTA,E. coli,6184.333333
+1189,20200804,Day14,1,1,Fungi alone,E. coli,9.333333333
+1189,20200804,Day14,2,1,Fungi alone,E. coli,6.666666667
+1189,20200804,Day14,3,1,Fungi alone,E. coli,13.66666667
+1189,20200804,Day14,1,1,Autoclaved bacteria,E. coli,12
+1189,20200804,Day14,2,1,Autoclaved bacteria,E. coli,6
+1189,20200804,Day14,3,1,Autoclaved bacteria,E. coli,14.33333333
+1189,20200804,Day14,1,1,0.1ng/mL LPS,P. aeruginosa,28
+1189,20200804,Day14,2,1,0.1ng/mL LPS,P. aeruginosa,18
+1189,20200804,Day14,3,1,0.1ng/mL LPS,P. aeruginosa,15.33333333
+1189,20200804,Day14,1,1,100ng/mL LPS,P. aeruginosa,7.666666667
+1189,20200804,Day14,2,1,100ng/mL LPS,P. aeruginosa,15.33333333
+1189,20200804,Day14,3,1,100ng/mL LPS,P. aeruginosa,54
+1189,20200902,Day14,1,1,0.1ng/mL LTA,P. aeruginosa,8.333333333
+1189,20200902,Day14,2,1,0.1ng/mL LTA,P. aeruginosa,906.3333333
+1189,20200902,Day14,3,1,0.1ng/mL LTA,P. aeruginosa,156.6666667
+1189,20200902,Day14,1,1,100ng/mL LTA,P. aeruginosa,11688.66667
+1189,20200902,Day14,2,1,100ng/mL LTA,P. aeruginosa,12358
+1189,20200902,Day14,3,1,100ng/mL LTA,P. aeruginosa,12334
+1189,20200804,Day14,1,1,Fungi alone,P. aeruginosa,65.66666667
+1189,20200804,Day14,2,1,Fungi alone,P. aeruginosa,50.66666667
+1189,20200804,Day14,3,1,Fungi alone,P. aeruginosa,28.66666667
+1189,20200804,Day14,1,1,Autoclaved bacteria,P. aeruginosa,47.66666667
+1189,20200804,Day14,2,1,Autoclaved bacteria,P. aeruginosa,70
+1189,20200804,Day14,3,1,Autoclaved bacteria,P. aeruginosa,66.66666667
+1189,20200804,Day14,1,1,0.1ng/mL LPS,S. aureus,6
+1189,20200804,Day14,2,1,0.1ng/mL LPS,S. aureus,12
+1189,20200804,Day14,3,1,0.1ng/mL LPS,S. aureus,12
+1189,20200804,Day14,1,1,100ng/mL LPS,S. aureus,7.666666667
+1189,20200804,Day14,2,1,100ng/mL LPS,S. aureus,14.66666667
+1189,20200804,Day14,3,1,100ng/mL LPS,S. aureus,12
+1189,20200902,Day14,1,1,0.1ng/mL LTA,S. aureus,12
+1189,20200902,Day14,2,1,0.1ng/mL LTA,S. aureus,96
+1189,20200902,Day14,3,1,0.1ng/mL LTA,S. aureus,25.66666667
+1189,20200902,Day14,1,1,100ng/mL LTA,S. aureus,331
+1189,20200902,Day14,2,1,100ng/mL LTA,S. aureus,967.3333333
+1189,20200902,Day14,3,1,100ng/mL LTA,S. aureus,707
+1189,20200804,Day14,1,1,Fungi alone,S. aureus,21.33333333
+1189,20200804,Day14,2,1,Fungi alone,S. aureus,0
+1189,20200804,Day14,3,1,Fungi alone,S. aureus,13
+1189,20200804,Day14,1,1,Autoclaved bacteria,S. aureus,12
+1189,20200804,Day14,2,1,Autoclaved bacteria,S. aureus,7.666666667
+1189,20200804,Day14,3,1,Autoclaved bacteria,S. aureus,6
+1189,20200727,Day 3,1,1,0.1ng/mL LPS,A. baumannii,18.66666667
+1189,20200727,Day 3,2,1,0.1ng/mL LPS,A. baumannii,18
+1189,20200727,Day 3,3,1,0.1ng/mL LPS,A. baumannii,16
+1189,20200727,Day 3,1,1,100ng/mL LPS,A. baumannii,7.666666667
+1189,20200727,Day 3,2,1,100ng/mL LPS,A. baumannii,1.666666667
+1189,20200727,Day 3,3,1,100ng/mL LPS,A. baumannii,11.66666667
+1189,20200915,Day 3,1,1,0.1ng/mL LTA,A. baumannii,17
+1189,20200915,Day 3,2,1,0.1ng/mL LTA,A. baumannii,19.66666667
+1189,20200915,Day 3,3,1,0.1ng/mL LTA,A. baumannii,17
+1189,20200915,Day 3,1,1,100ng/mL LTA,A. baumannii,125
+1189,20200915,Day 3,2,1,100ng/mL LTA,A. baumannii,22
+1189,20200915,Day 3,3,1,100ng/mL LTA,A. baumannii,26.33333333
+1189,20200727,Day 3,1,1,Fungi alone,A. baumannii,9.333333333
+1189,20200727,Day 3,2,1,Fungi alone,A. baumannii,23.66666667
+1189,20200727,Day 3,3,1,Fungi alone,A. baumannii,3.333333333
+1189,20200727,Day 3,1,1,Autoclaved bacteria,A. baumannii,186.6666667
+1189,20200727,Day 3,2,1,Autoclaved bacteria,A. baumannii,12.66666667
+1189,20200727,Day 3,3,1,Autoclaved bacteria,A. baumannii,48
+1189,20200727,Day 3,1,1,0.1ng/mL LPS,E. coli,7.666666667
+1189,20200727,Day 3,2,1,0.1ng/mL LPS,E. coli,10.33333333
+1189,20200727,Day 3,3,1,0.1ng/mL LPS,E. coli,7.666666667
+1189,20200727,Day 3,1,1,100ng/mL LPS,E. coli,9.333333333
+1189,20200727,Day 3,2,1,100ng/mL LPS,E. coli,11
+1189,20200727,Day 3,3,1,100ng/mL LPS,E. coli,5
+1189,20200915,Day 3,1,1,0.1ng/mL LTA,E. coli,0
+1189,20200915,Day 3,2,1,0.1ng/mL LTA,E. coli,5
+1189,20200915,Day 3,3,1,0.1ng/mL LTA,E. coli,7.666666667
+1189,20200915,Day 3,1,1,100ng/mL LTA,E. coli,36.66666667
+1189,20200915,Day 3,2,1,100ng/mL LTA,E. coli,12.66666667
+1189,20200915,Day 3,3,1,100ng/mL LTA,E. coli,37.66666667
+1189,20200727,Day 3,1,1,Fungi alone,E. coli,11
+1189,20200727,Day 3,2,1,Fungi alone,E. coli,13.66666667
+1189,20200727,Day 3,3,1,Fungi alone,E. coli,6
+1189,20200727,Day 3,1,1,Autoclaved bacteria,E. coli,67.66666667
+1189,20200727,Day 3,2,1,Autoclaved bacteria,E. coli,5
+1189,20200727,Day 3,3,1,Autoclaved bacteria,E. coli,28
+1189,20200727,Day 3,1,1,0.1ng/mL LPS,P. aeruginosa,14.33333333
+1189,20200727,Day 3,2,1,0.1ng/mL LPS,P. aeruginosa,7.666666667
+1189,20200727,Day 3,3,1,0.1ng/mL LPS,P. aeruginosa,21.33333333
+1189,20200727,Day 3,1,1,100ng/mL LPS,P. aeruginosa,18
+1189,20200727,Day 3,2,1,100ng/mL LPS,P. aeruginosa,6.666666667
+1189,20200727,Day 3,3,1,100ng/mL LPS,P. aeruginosa,24.66666667
+1189,20200915,Day 3,1,1,0.1ng/mL LTA,P. aeruginosa,15.33333333
+1189,20200915,Day 3,2,1,0.1ng/mL LTA,P. aeruginosa,4.333333333
+1189,20200915,Day 3,3,1,0.1ng/mL LTA,P. aeruginosa,31.66666667
+1189,20200915,Day 3,1,1,100ng/mL LTA,P. aeruginosa,159.6666667
+1189,20200915,Day 3,2,1,100ng/mL LTA,P. aeruginosa,18
+1189,20200915,Day 3,3,1,100ng/mL LTA,P. aeruginosa,9.333333333
+1189,20200727,Day 3,1,1,Fungi alone,P. aeruginosa,27.33333333
+1189,20200727,Day 3,2,1,Fungi alone,P. aeruginosa,35
+1189,20200727,Day 3,3,1,Fungi alone,P. aeruginosa,18
+1189,20200727,Day 3,1,1,Autoclaved bacteria,P. aeruginosa,1554.333333
+1189,20200727,Day 3,2,1,Autoclaved bacteria,P. aeruginosa,15.33333333
+1189,20200727,Day 3,3,1,Autoclaved bacteria,P. aeruginosa,24
+1189,20200727,Day 3,1,1,0.1ng/mL LPS,S. aureus,14.66666667
+1189,20200727,Day 3,2,1,0.1ng/mL LPS,S. aureus,7.666666667
+1189,20200727,Day 3,3,1,0.1ng/mL LPS,S. aureus,13.66666667
+1189,20200727,Day 3,1,1,100ng/mL LPS,S. aureus,6
+1189,20200727,Day 3,2,1,100ng/mL LPS,S. aureus,10.33333333
+1189,20200727,Day 3,3,1,100ng/mL LPS,S. aureus,16.33333333
+1189,20200922,Day 3,1,1,0.1ng/mL LTA,S. aureus,12
+1189,20200922,Day 3,2,1,0.1ng/mL LTA,S. aureus,13.66666667
+1189,20200922,Day 3,3,1,0.1ng/mL LTA,S. aureus,1.666666667
+1189,20200922,Day 3,1,1,100ng/mL LTA,S. aureus,10.33333333
+1189,20200922,Day 3,2,1,100ng/mL LTA,S. aureus,18
+1189,20200922,Day 3,3,1,100ng/mL LTA,S. aureus,4.333333333
+1189,20200727,Day 3,1,1,Fungi alone,S. aureus,7.666666667
+1189,20200727,Day 3,2,1,Fungi alone,S. aureus,6
+1189,20200727,Day 3,3,1,Fungi alone,S. aureus,10.33333333
+1189,20200727,Day 3,1,1,Autoclaved bacteria,S. aureus,12
+1189,20200727,Day 3,2,1,Autoclaved bacteria,S. aureus,10.33333333
+1189,20200727,Day 3,3,1,Autoclaved bacteria,S. aureus,16.33333333
+1189,20200727,Day 7,1,1,0.1ng/mL LPS,A. baumannii,15.33333333
+1189,20200727,Day 7,2,1,0.1ng/mL LPS,A. baumannii,6
+1189,20200727,Day 7,3,1,0.1ng/mL LPS,A. baumannii,18
+1189,20200727,Day 7,1,1,100ng/mL LPS,A. baumannii,8.666666667
+1189,20200727,Day 7,2,1,100ng/mL LPS,A. baumannii,7.666666667
+1189,20200727,Day 7,3,1,100ng/mL LPS,A. baumannii,46.66666667
+1189,20200915,Day 7,1,1,0.1ng/mL LTA,A. baumannii,17
+1189,20200915,Day 7,2,1,0.1ng/mL LTA,A. baumannii,7.666666667
+1189,20200915,Day 7,3,1,0.1ng/mL LTA,A. baumannii,13.66666667
+1189,20200915,Day 7,1,1,100ng/mL LTA,A. baumannii,8.666666667
+1189,20200915,Day 7,2,1,100ng/mL LTA,A. baumannii,8.666666667
+1189,20200915,Day 7,3,1,100ng/mL LTA,A. baumannii,14.66666667
+1189,20200727,Day 7,1,1,Fungi alone,A. baumannii,7.666666667
+1189,20200727,Day 7,2,1,Fungi alone,A. baumannii,13
+1189,20200727,Day 7,3,1,Fungi alone,A. baumannii,19
+1189,20200727,Day 7,1,1,Autoclaved bacteria,A. baumannii,19
+1189,20200727,Day 7,2,1,Autoclaved bacteria,A. baumannii,20.66666667
+1189,20200727,Day 7,3,1,Autoclaved bacteria,A. baumannii,70
+1189,20200727,Day 7,1,1,0.1ng/mL LPS,E. coli,11
+1189,20200727,Day 7,2,1,0.1ng/mL LPS,E. coli,13.66666667
+1189,20200727,Day 7,3,1,0.1ng/mL LPS,E. coli,18
+1189,20200727,Day 7,1,1,100ng/mL LPS,E. coli,7.666666667
+1189,20200727,Day 7,2,1,100ng/mL LPS,E. coli,21.33333333
+1189,20200727,Day 7,3,1,100ng/mL LPS,E. coli,31
+1189,20200915,Day 7,1,1,0.1ng/mL LTA,E. coli,7.666666667
+1189,20200915,Day 7,2,1,0.1ng/mL LTA,E. coli,4.333333333
+1189,20200915,Day 7,3,1,0.1ng/mL LTA,E. coli,15.33333333
+1189,20200915,Day 7,1,1,100ng/mL LTA,E. coli,10.33333333
+1189,20200915,Day 7,2,1,100ng/mL LTA,E. coli,7.666666667
+1189,20200915,Day 7,3,1,100ng/mL LTA,E. coli,9.333333333
+1189,20200727,Day 7,1,1,Fungi alone,E. coli,3.333333333
+1189,20200727,Day 7,2,1,Fungi alone,E. coli,3.333333333
+1189,20200727,Day 7,3,1,Fungi alone,E. coli,10.33333333
+1189,20200727,Day 7,1,1,Autoclaved bacteria,E. coli,12
+1189,20200727,Day 7,2,1,Autoclaved bacteria,E. coli,14.66666667
+1189,20200727,Day 7,3,1,Autoclaved bacteria,E. coli,33
+1189,20200727,Day 7,1,1,0.1ng/mL LPS,P. aeruginosa,19
+1189,20200727,Day 7,2,1,0.1ng/mL LPS,P. aeruginosa,20.66666667
+1189,20200727,Day 7,3,1,0.1ng/mL LPS,P. aeruginosa,26.66666667
+1189,20200727,Day 7,1,1,100ng/mL LPS,P. aeruginosa,18
+1189,20200727,Day 7,2,1,100ng/mL LPS,P. aeruginosa,1.666666667
+1189,20200727,Day 7,3,1,100ng/mL LPS,P. aeruginosa,25.66666667
+1189,20200915,Day 7,1,1,0.1ng/mL LTA,P. aeruginosa,10.33333333
+1189,20200915,Day 7,2,1,0.1ng/mL LTA,P. aeruginosa,25.66666667
+1189,20200915,Day 7,3,1,0.1ng/mL LTA,P. aeruginosa,21.33333333
+1189,20200915,Day 7,1,1,100ng/mL LTA,P. aeruginosa,34.33333333
+1189,20200915,Day 7,2,1,100ng/mL LTA,P. aeruginosa,10.33333333
+1189,20200915,Day 7,3,1,100ng/mL LTA,P. aeruginosa,14.66666667
+1189,20200727,Day 7,1,1,Fungi alone,P. aeruginosa,6
+1189,20200727,Day 7,2,1,Fungi alone,P. aeruginosa,9.333333333
+1189,20200727,Day 7,3,1,Fungi alone,P. aeruginosa,10.33333333
+1189,20200727,Day 7,1,1,Autoclaved bacteria,P. aeruginosa,6
+1189,20200727,Day 7,2,1,Autoclaved bacteria,P. aeruginosa,10.33333333
+1189,20200727,Day 7,3,1,Autoclaved bacteria,P. aeruginosa,35.66666667
+1189,20200727,Day 7,1,1,0.1ng/mL LPS,S. aureus,11
+1189,20200727,Day 7,2,1,0.1ng/mL LPS,S. aureus,16.33333333
+1189,20200727,Day 7,3,1,0.1ng/mL LPS,S. aureus,12
+1189,20200727,Day 7,1,1,100ng/mL LPS,S. aureus,9.333333333
+1189,20200727,Day 7,2,1,100ng/mL LPS,S. aureus,19.66666667
+1189,20200727,Day 7,3,1,100ng/mL LPS,S. aureus,3.333333333
+1189,20200922,Day 7,1,1,0.1ng/mL LTA,S. aureus,3.333333333
+1189,20200922,Day 7,2,1,0.1ng/mL LTA,S. aureus,11
+1189,20200922,Day 7,3,1,0.1ng/mL LTA,S. aureus,6
+1189,20200922,Day 7,1,1,100ng/mL LTA,S. aureus,8.666666667
+1189,20200922,Day 7,2,1,100ng/mL LTA,S. aureus,6
+1189,20200922,Day 7,3,1,100ng/mL LTA,S. aureus,12
+1189,20200727,Day 7,1,1,Fungi alone,S. aureus,12
+1189,20200727,Day 7,2,1,Fungi alone,S. aureus,4.333333333
+1189,20200727,Day 7,3,1,Fungi alone,S. aureus,4.333333333
+1189,20200727,Day 7,1,1,Autoclaved bacteria,S. aureus,12
+1189,20200727,Day 7,2,1,Autoclaved bacteria,S. aureus,6
+1189,20200727,Day 7,3,1,Autoclaved bacteria,S. aureus,15.33333333
+19973,20200909,Day 1,1,1,0.1ng/mL LPS,A. baumannii,8039.666667
+19973,20200909,Day 1,2,1,0.1ng/mL LPS,A. baumannii,9022.666667
+19973,20200909,Day 1,3,1,0.1ng/mL LPS,A. baumannii,9932.333333
+19973,20200909,Day 1,1,1,100ng/mL LPS,A. baumannii,7702.666667
+19973,20200909,Day 1,2,1,100ng/mL LPS,A. baumannii,8945.333333
+19973,20200909,Day 1,3,1,100ng/mL LPS,A. baumannii,7501.333333
+19973,20200909,Day 1,1,1,0.1ng/mL LTA,A. baumannii,8545.333333
+19973,20200909,Day 1,2,1,0.1ng/mL LTA,A. baumannii,8836.333333
+19973,20200909,Day 1,3,1,0.1ng/mL LTA,A. baumannii,9752
+19973,20200909,Day 1,1,1,100ng/mL LTA,A. baumannii,9927
+19973,20200909,Day 1,2,1,100ng/mL LTA,A. baumannii,10688.33333
+19973,20200909,Day 1,3,1,100ng/mL LTA,A. baumannii,8789.666667
+19973,20200909,Day 1,1,1,Fungi alone,A. baumannii,9439.333333
+19973,20200909,Day 1,2,1,Fungi alone,A. baumannii,8606.666667
+19973,20200909,Day 1,3,1,Fungi alone,A. baumannii,7060
+19973,20200909,Day 1,1,1,Autoclaved bacteria,A. baumannii,7825.666667
+19973,20200909,Day 1,2,1,Autoclaved bacteria,A. baumannii,7644.666667
+19973,20200909,Day 1,3,1,Autoclaved bacteria,A. baumannii,6792.333333
+19973,20200909,Day 1,1,1,0.1ng/mL LPS,E. coli,9406.333333
+19973,20200909,Day 1,2,1,0.1ng/mL LPS,E. coli,11138.66667
+19973,20200909,Day 1,3,1,0.1ng/mL LPS,E. coli,10460.33333
+19973,20200909,Day 1,1,1,100ng/mL LPS,E. coli,8298.666667
+19973,20200909,Day 1,2,1,100ng/mL LPS,E. coli,10814.66667
+19973,20200909,Day 1,3,1,100ng/mL LPS,E. coli,9071.666667
+19973,20200909,Day 1,1,1,0.1ng/mL LTA,E. coli,7962
+19973,20200909,Day 1,2,1,0.1ng/mL LTA,E. coli,8736.333333
+19973,20200909,Day 1,3,1,0.1ng/mL LTA,E. coli,9154
+19973,20200909,Day 1,1,1,100ng/mL LTA,E. coli,8817.666667
+19973,20200909,Day 1,2,1,100ng/mL LTA,E. coli,7907
+19973,20200909,Day 1,3,1,100ng/mL LTA,E. coli,8914.333333
+19973,20200909,Day 1,1,1,Fungi alone,E. coli,8897.666667
+19973,20200909,Day 1,2,1,Fungi alone,E. coli,10079.66667
+19973,20200909,Day 1,3,1,Fungi alone,E. coli,8873.666667
+19973,20200909,Day 1,1,1,Autoclaved bacteria,E. coli,9382.666667
+19973,20200909,Day 1,2,1,Autoclaved bacteria,E. coli,10317.66667
+19973,20200909,Day 1,3,1,Autoclaved bacteria,E. coli,9183
+19973,20200909,Day 1,1,1,0.1ng/mL LPS,P. aeruginosa,23853.33333
+19973,20200909,Day 1,2,1,0.1ng/mL LPS,P. aeruginosa,26723.5
+19973,20200909,Day 1,3,1,0.1ng/mL LPS,P. aeruginosa,22612.33333
+19973,20200909,Day 1,1,1,100ng/mL LPS,P. aeruginosa,26864.5
+19973,20200909,Day 1,2,1,100ng/mL LPS,P. aeruginosa,17606.83333
+19973,20200909,Day 1,3,1,100ng/mL LPS,P. aeruginosa,26026.5
+19973,20200909,Day 1,1,1,0.1ng/mL LTA,P. aeruginosa,20348.83333
+19973,20200909,Day 1,2,1,0.1ng/mL LTA,P. aeruginosa,18192.83333
+19973,20200909,Day 1,3,1,0.1ng/mL LTA,P. aeruginosa,16159.5
+19973,20200909,Day 1,1,1,100ng/mL LTA,P. aeruginosa,16940.5
+19973,20200909,Day 1,2,1,100ng/mL LTA,P. aeruginosa,18260.83333
+19973,20200909,Day 1,3,1,100ng/mL LTA,P. aeruginosa,22451.33333
+19973,20200909,Day 1,1,1,Fungi alone,P. aeruginosa,16692.5
+19973,20200909,Day 1,2,1,Fungi alone,P. aeruginosa,21761.66667
+19973,20200909,Day 1,3,1,Fungi alone,P. aeruginosa,20961
+19973,20200909,Day 1,1,1,Autoclaved bacteria,P. aeruginosa,20955.16667
+19973,20200909,Day 1,2,1,Autoclaved bacteria,P. aeruginosa,19375.83333
+19973,20200909,Day 1,3,1,Autoclaved bacteria,P. aeruginosa,18367.5
+19973,20200909,Day 1,1,1,0.1ng/mL LPS,S. aureus,2321.666667
+19973,20200909,Day 1,2,1,0.1ng/mL LPS,S. aureus,2720
+19973,20200909,Day 1,3,1,0.1ng/mL LPS,S. aureus,2318
+19973,20200909,Day 1,1,1,100ng/mL LPS,S. aureus,2055.666667
+19973,20200909,Day 1,2,1,100ng/mL LPS,S. aureus,1707
+19973,20200909,Day 1,3,1,100ng/mL LPS,S. aureus,2330.666667
+19973,20200909,Day 1,1,1,0.1ng/mL LTA,S. aureus,2396.666667
+19973,20200909,Day 1,2,1,0.1ng/mL LTA,S. aureus,2215
+19973,20200909,Day 1,3,1,0.1ng/mL LTA,S. aureus,2318.333333
+19973,20200909,Day 1,1,1,100ng/mL LTA,S. aureus,2580
+19973,20200909,Day 1,2,1,100ng/mL LTA,S. aureus,1777.666667
+19973,20200909,Day 1,3,1,100ng/mL LTA,S. aureus,2703.666667
+19973,20200909,Day 1,1,1,Fungi alone,S. aureus,485.6666667
+19973,20200909,Day 1,2,1,Fungi alone,S. aureus,2326
+19973,20200909,Day 1,3,1,Fungi alone,S. aureus,2393.333333
+19973,20200909,Day 1,1,1,Autoclaved bacteria,S. aureus,2439
+19973,20200909,Day 1,2,1,Autoclaved bacteria,S. aureus,2283.666667
+19973,20200909,Day 1,3,1,Autoclaved bacteria,S. aureus,2294
+19973,20200922,Day14,1,1,0.1ng/mL LPS,A. baumannii,11524
+19973,20200922,Day14,2,1,0.1ng/mL LPS,A. baumannii,42.33333333
+19973,20200922,Day14,3,1,0.1ng/mL LPS,A. baumannii,12464
+19973,20200922,Day14,1,1,100ng/mL LPS,A. baumannii,10988
+19973,20200922,Day14,2,1,100ng/mL LPS,A. baumannii,12483
+19973,20200922,Day14,3,1,100ng/mL LPS,A. baumannii,9068.666667
+19973,20200902,Day14,1,1,0.1ng/mL LTA,A. baumannii,7464.333333
+19973,20200902,Day14,2,1,0.1ng/mL LTA,A. baumannii,7975
+19973,20200902,Day14,3,1,0.1ng/mL LTA,A. baumannii,12572.83333
+19973,20200902,Day14,1,1,100ng/mL LTA,A. baumannii,8488
+19973,20200902,Day14,2,1,100ng/mL LTA,A. baumannii,9273.333333
+19973,20200902,Day14,3,1,100ng/mL LTA,A. baumannii,15513.83333
+19973,20200922,Day14,1,1,Fungi alone,A. baumannii,8225.333333
+19973,20200922,Day14,2,1,Fungi alone,A. baumannii,9182.666667
+19973,20200922,Day14,3,1,Fungi alone,A. baumannii,8704.333333
+19973,20200902,Day14,1,1,Autoclaved bacteria,A. baumannii,9595
+19973,20200902,Day14,2,1,Autoclaved bacteria,A. baumannii,8355.333333
+19973,20200902,Day14,3,1,Autoclaved bacteria,A. baumannii,8835.333333
+19973,20200922,Day14,1,1,0.1ng/mL LPS,E. coli,7868.333333
+19973,20200922,Day14,2,1,0.1ng/mL LPS,E. coli,35.33333333
+19973,20200922,Day14,3,1,0.1ng/mL LPS,E. coli,8790.666667
+19973,20200922,Day14,1,1,100ng/mL LPS,E. coli,7372.666667
+19973,20200922,Day14,2,1,100ng/mL LPS,E. coli,8895.666667
+19973,20200922,Day14,3,1,100ng/mL LPS,E. coli,565.6666667
+19973,20200902,Day14,1,1,0.1ng/mL LTA,E. coli,7111.666667
+19973,20200902,Day14,2,1,0.1ng/mL LTA,E. coli,7507.666667
+19973,20200902,Day14,3,1,0.1ng/mL LTA,E. coli,9903.666667
+19973,20200902,Day14,1,1,100ng/mL LTA,E. coli,8521
+19973,20200902,Day14,2,1,100ng/mL LTA,E. coli,8145.333333
+19973,20200902,Day14,3,1,100ng/mL LTA,E. coli,9990.333333
+19973,20200922,Day14,1,1,Fungi alone,E. coli,6402
+19973,20200922,Day14,2,1,Fungi alone,E. coli,7474.333333
+19973,20200922,Day14,3,1,Fungi alone,E. coli,7375.666667
+19973,20200902,Day14,1,1,Autoclaved bacteria,E. coli,8157.666667
+19973,20200902,Day14,2,1,Autoclaved bacteria,E. coli,7691.333333
+19973,20200902,Day14,3,1,Autoclaved bacteria,E. coli,7459
+19973,20200922,Day14,1,1,0.1ng/mL LPS,P. aeruginosa,31674.66667
+19973,20200922,Day14,2,1,0.1ng/mL LPS,P. aeruginosa,33745.5
+19973,20200922,Day14,3,1,0.1ng/mL LPS,P. aeruginosa,34291.16667
+19973,20200922,Day14,1,1,100ng/mL LPS,P. aeruginosa,29049.66667
+19973,20200922,Day14,2,1,100ng/mL LPS,P. aeruginosa,30194.33333
+19973,20200922,Day14,3,1,100ng/mL LPS,P. aeruginosa,33739.83333
+19973,20200902,Day14,1,1,0.1ng/mL LTA,P. aeruginosa,7030.333333
+19973,20200902,Day14,2,1,0.1ng/mL LTA,P. aeruginosa,7889.666667
+19973,20200902,Day14,3,1,0.1ng/mL LTA,P. aeruginosa,7543
+19973,20200902,Day14,1,1,100ng/mL LTA,P. aeruginosa,7332.333333
+19973,20200902,Day14,2,1,100ng/mL LTA,P. aeruginosa,7233
+19973,20200902,Day14,3,1,100ng/mL LTA,P. aeruginosa,7284.666667
+19973,20200922,Day14,1,1,Fungi alone,P. aeruginosa,7194.666667
+19973,20200922,Day14,2,1,Fungi alone,P. aeruginosa,7536.666667
+19973,20200922,Day14,3,1,Fungi alone,P. aeruginosa,7112.333333
+19973,20200902,Day14,1,1,Autoclaved bacteria,P. aeruginosa,7705.333333
+19973,20200902,Day14,2,1,Autoclaved bacteria,P. aeruginosa,7573.333333
+19973,20200902,Day14,3,1,Autoclaved bacteria,P. aeruginosa,8067.333333
+19973,20200922,Day14,1,1,0.1ng/mL LPS,S. aureus,78.66666667
+19973,20200922,Day14,2,1,0.1ng/mL LPS,S. aureus,38.66666667
+19973,20200922,Day14,3,1,0.1ng/mL LPS,S. aureus,72.66666667
+19973,20200922,Day14,1,1,100ng/mL LPS,S. aureus,50.33333333
+19973,20200922,Day14,2,1,100ng/mL LPS,S. aureus,85
+19973,20200922,Day14,3,1,100ng/mL LPS,S. aureus,50.33333333
+19973,20200902,Day14,1,1,0.1ng/mL LTA,S. aureus,1326
+19973,20200902,Day14,2,1,0.1ng/mL LTA,S. aureus,998.3333333
+19973,20200902,Day14,3,1,0.1ng/mL LTA,S. aureus,1230.666667
+19973,20200902,Day14,1,1,100ng/mL LTA,S. aureus,1371.333333
+19973,20200902,Day14,2,1,100ng/mL LTA,S. aureus,1170.333333
+19973,20200902,Day14,3,1,100ng/mL LTA,S. aureus,960.3333333
+19973,20200922,Day14,1,1,Fungi alone,S. aureus,1010
+19973,20200922,Day14,2,1,Fungi alone,S. aureus,968.3333333
+19973,20200922,Day14,3,1,Fungi alone,S. aureus,1221
+19973,20200902,Day14,1,1,Autoclaved bacteria,S. aureus,1350
+19973,20200902,Day14,2,1,Autoclaved bacteria,S. aureus,970
+19973,20200902,Day14,3,1,Autoclaved bacteria,S. aureus,1001.666667
+19973,20200915,Day 3,1,1,0.1ng/mL LPS,A. baumannii,5929.666667
+19973,20200915,Day 3,2,1,0.1ng/mL LPS,A. baumannii,7729.666667
+19973,20200915,Day 3,3,1,0.1ng/mL LPS,A. baumannii,9013.666667
+19973,20200915,Day 3,1,1,100ng/mL LPS,A. baumannii,9295.333333
+19973,20200915,Day 3,2,1,100ng/mL LPS,A. baumannii,10593
+19973,20200915,Day 3,3,1,100ng/mL LPS,A. baumannii,10264.66667
+19973,20200915,Day 3,1,1,0.1ng/mL LTA,A. baumannii,11585.33333
+19973,20200915,Day 3,2,1,0.1ng/mL LTA,A. baumannii,10602.33333
+19973,20200915,Day 3,3,1,0.1ng/mL LTA,A. baumannii,11388.33333
+19973,20200915,Day 3,1,1,100ng/mL LTA,A. baumannii,12956.16667
+19973,20200915,Day 3,2,1,100ng/mL LTA,A. baumannii,12828.16667
+19973,20200915,Day 3,3,1,100ng/mL LTA,A. baumannii,11611
+19973,20200915,Day 3,1,1,Fungi alone,A. baumannii,9512
+19973,20200915,Day 3,2,1,Fungi alone,A. baumannii,9801.666667
+19973,20200915,Day 3,3,1,Fungi alone,A. baumannii,11677
+19973,20200915,Day 3,1,1,Autoclaved bacteria,A. baumannii,8687.666667
+19973,20200915,Day 3,2,1,Autoclaved bacteria,A. baumannii,8167.666667
+19973,20200915,Day 3,3,1,Autoclaved bacteria,A. baumannii,7659
+19973,20200915,Day 3,1,1,0.1ng/mL LPS,E. coli,4804
+19973,20200915,Day 3,2,1,0.1ng/mL LPS,E. coli,6059.333333
+19973,20200915,Day 3,3,1,0.1ng/mL LPS,E. coli,6669.333333
+19973,20200915,Day 3,1,1,100ng/mL LPS,E. coli,6570
+19973,20200915,Day 3,2,1,100ng/mL LPS,E. coli,7546
+19973,20200915,Day 3,3,1,100ng/mL LPS,E. coli,6459.666667
+19973,20200915,Day 3,1,1,0.1ng/mL LTA,E. coli,6456
+19973,20200915,Day 3,2,1,0.1ng/mL LTA,E. coli,6626.333333
+19973,20200915,Day 3,3,1,0.1ng/mL LTA,E. coli,7036
+19973,20200915,Day 3,1,1,100ng/mL LTA,E. coli,7906.333333
+19973,20200915,Day 3,2,1,100ng/mL LTA,E. coli,6742
+19973,20200915,Day 3,3,1,100ng/mL LTA,E. coli,6895.666667
+19973,20200915,Day 3,1,1,Fungi alone,E. coli,6837
+19973,20200915,Day 3,2,1,Fungi alone,E. coli,7072.666667
+19973,20200915,Day 3,3,1,Fungi alone,E. coli,7704.666667
+19973,20200915,Day 3,1,1,Autoclaved bacteria,E. coli,6907
+19973,20200915,Day 3,2,1,Autoclaved bacteria,E. coli,6376
+19973,20200915,Day 3,3,1,Autoclaved bacteria,E. coli,5675.333333
+19973,20200915,Day 3,1,1,0.1ng/mL LPS,P. aeruginosa,10399.33333
+19973,20200915,Day 3,2,1,0.1ng/mL LPS,P. aeruginosa,10891
+19973,20200915,Day 3,3,1,0.1ng/mL LPS,P. aeruginosa,6921.333333
+19973,20200915,Day 3,1,1,100ng/mL LPS,P. aeruginosa,6981.333333
+19973,20200915,Day 3,2,1,100ng/mL LPS,P. aeruginosa,6714.333333
+19973,20200915,Day 3,3,1,100ng/mL LPS,P. aeruginosa,6178
+19973,20200915,Day 3,1,1,0.1ng/mL LTA,P. aeruginosa,7628
+19973,20200915,Day 3,2,1,0.1ng/mL LTA,P. aeruginosa,9448
+19973,20200915,Day 3,3,1,0.1ng/mL LTA,P. aeruginosa,9330
+19973,20200915,Day 3,1,1,100ng/mL LTA,P. aeruginosa,9207.666667
+19973,20200915,Day 3,2,1,100ng/mL LTA,P. aeruginosa,9138
+19973,20200915,Day 3,3,1,100ng/mL LTA,P. aeruginosa,7071.333333
+19973,20200915,Day 3,1,1,Fungi alone,P. aeruginosa,10934.33333
+19973,20200915,Day 3,2,1,Fungi alone,P. aeruginosa,11622.66667
+19973,20200915,Day 3,3,1,Fungi alone,P. aeruginosa,10429
+19973,20200915,Day 3,1,1,Autoclaved bacteria,P. aeruginosa,10044.66667
+19973,20200915,Day 3,2,1,Autoclaved bacteria,P. aeruginosa,10994.66667
+19973,20200915,Day 3,3,1,Autoclaved bacteria,P. aeruginosa,8557
+19973,20200915,Day 3,1,1,0.1ng/mL LPS,S. aureus,9.333333333
+19973,20200915,Day 3,2,1,0.1ng/mL LPS,S. aureus,17
+19973,20200915,Day 3,3,1,0.1ng/mL LPS,S. aureus,25.66666667
+19973,20200915,Day 3,1,1,100ng/mL LPS,S. aureus,25.66666667
+19973,20200915,Day 3,2,1,100ng/mL LPS,S. aureus,18
+19973,20200915,Day 3,3,1,100ng/mL LPS,S. aureus,13.66666667
+19973,20200902,Day 3,1,1,0.1ng/mL LTA,S. aureus,13.66666667
+19973,20200902,Day 3,2,1,0.1ng/mL LTA,S. aureus,18
+19973,20200902,Day 3,3,1,0.1ng/mL LTA,S. aureus,12
+19973,20200902,Day 3,1,1,100ng/mL LTA,S. aureus,19.66666667
+19973,20200902,Day 3,2,1,100ng/mL LTA,S. aureus,13.66666667
+19973,20200902,Day 3,3,1,100ng/mL LTA,S. aureus,13.66666667
+19973,20200922,Day 3,1,1,Fungi alone,S. aureus,19.66666667
+19973,20200922,Day 3,2,1,Fungi alone,S. aureus,17
+19973,20200922,Day 3,3,1,Fungi alone,S. aureus,12.66666667
+19973,20200902,Day 3,1,1,Autoclaved bacteria,S. aureus,18.66666667
+19973,20200902,Day 3,2,1,Autoclaved bacteria,S. aureus,12.66666667
+19973,20200902,Day 3,3,1,Autoclaved bacteria,S. aureus,29.66666667
+19973,20200915,Day 7,1,1,0.1ng/mL LPS,A. baumannii,9110.333333
+19973,20200915,Day 7,2,1,0.1ng/mL LPS,A. baumannii,9903.666667
+19973,20200915,Day 7,3,1,0.1ng/mL LPS,A. baumannii,7161.666667
+19973,20200915,Day 7,1,1,100ng/mL LPS,A. baumannii,9499.666667
+19973,20200915,Day 7,2,1,100ng/mL LPS,A. baumannii,9685
+19973,20200915,Day 7,3,1,100ng/mL LPS,A. baumannii,9339.333333
+19973,20200915,Day 7,1,1,0.1ng/mL LTA,A. baumannii,9917.333333
+19973,20200915,Day 7,2,1,0.1ng/mL LTA,A. baumannii,10358
+19973,20200915,Day 7,3,1,0.1ng/mL LTA,A. baumannii,10394.33333
+19973,20200915,Day 7,1,1,100ng/mL LTA,A. baumannii,10549.66667
+19973,20200915,Day 7,2,1,100ng/mL LTA,A. baumannii,10594
+19973,20200915,Day 7,3,1,100ng/mL LTA,A. baumannii,2638.666667
+19973,20200915,Day 7,1,1,Fungi alone,A. baumannii,10182.66667
+19973,20200915,Day 7,2,1,Fungi alone,A. baumannii,10068
+19973,20200915,Day 7,3,1,Fungi alone,A. baumannii,10035.66667
+19973,20200915,Day 7,1,1,Autoclaved bacteria,A. baumannii,9731.333333
+19973,20200915,Day 7,2,1,Autoclaved bacteria,A. baumannii,9807.666667
+19973,20200915,Day 7,3,1,Autoclaved bacteria,A. baumannii,9431.666667
+19973,20200915,Day 7,1,1,0.1ng/mL LPS,E. coli,6399.666667
+19973,20200915,Day 7,2,1,0.1ng/mL LPS,E. coli,6303.333333
+19973,20200915,Day 7,3,1,0.1ng/mL LPS,E. coli,6174.666667
+19973,20200915,Day 7,1,1,100ng/mL LPS,E. coli,6197.333333
+19973,20200915,Day 7,2,1,100ng/mL LPS,E. coli,6383.333333
+19973,20200915,Day 7,3,1,100ng/mL LPS,E. coli,6698
+19973,20200915,Day 7,1,1,0.1ng/mL LTA,E. coli,5385.333333
+19973,20200915,Day 7,2,1,0.1ng/mL LTA,E. coli,6355.333333
+19973,20200915,Day 7,3,1,0.1ng/mL LTA,E. coli,6338.666667
+19973,20200915,Day 7,1,1,100ng/mL LTA,E. coli,6381
+19973,20200915,Day 7,2,1,100ng/mL LTA,E. coli,6701.666667
+19973,20200915,Day 7,3,1,100ng/mL LTA,E. coli,298.6666667
+19973,20200915,Day 7,1,1,Fungi alone,E. coli,6850.333333
+19973,20200915,Day 7,2,1,Fungi alone,E. coli,6961.666667
+19973,20200915,Day 7,3,1,Fungi alone,E. coli,6802
+19973,20200915,Day 7,1,1,Autoclaved bacteria,E. coli,6881.333333
+19973,20200915,Day 7,2,1,Autoclaved bacteria,E. coli,6501.333333
+19973,20200915,Day 7,3,1,Autoclaved bacteria,E. coli,5840.666667
+19973,20200915,Day 7,1,1,0.1ng/mL LPS,P. aeruginosa,10534
+19973,20200915,Day 7,2,1,0.1ng/mL LPS,P. aeruginosa,10302
+19973,20200915,Day 7,3,1,0.1ng/mL LPS,P. aeruginosa,10143
+19973,20200915,Day 7,1,1,100ng/mL LPS,P. aeruginosa,9529.666667
+19973,20200915,Day 7,2,1,100ng/mL LPS,P. aeruginosa,9012
+19973,20200915,Day 7,3,1,100ng/mL LPS,P. aeruginosa,10629
+19973,20200915,Day 7,1,1,0.1ng/mL LTA,P. aeruginosa,9988
+19973,20200915,Day 7,2,1,0.1ng/mL LTA,P. aeruginosa,9722.333333
+19973,20200915,Day 7,3,1,0.1ng/mL LTA,P. aeruginosa,9644.333333
+19973,20200915,Day 7,1,1,100ng/mL LTA,P. aeruginosa,8325.666667
+19973,20200915,Day 7,2,1,100ng/mL LTA,P. aeruginosa,9805.666667
+19973,20200915,Day 7,3,1,100ng/mL LTA,P. aeruginosa,10638
+19973,20200915,Day 7,1,1,Fungi alone,P. aeruginosa,12474.33333
+19973,20200915,Day 7,2,1,Fungi alone,P. aeruginosa,9847.666667
+19973,20200915,Day 7,3,1,Fungi alone,P. aeruginosa,9137.666667
+19973,20200915,Day 7,1,1,Autoclaved bacteria,P. aeruginosa,9328
+19973,20200915,Day 7,2,1,Autoclaved bacteria,P. aeruginosa,9854.333333
+19973,20200915,Day 7,3,1,Autoclaved bacteria,P. aeruginosa,10197.66667
+19973,20200915,Day 7,1,1,0.1ng/mL LPS,S. aureus,23
+19973,20200915,Day 7,2,1,0.1ng/mL LPS,S. aureus,12
+19973,20200915,Day 7,3,1,0.1ng/mL LPS,S. aureus,35
+19973,20200915,Day 7,1,1,100ng/mL LPS,S. aureus,28
+19973,20200915,Day 7,2,1,100ng/mL LPS,S. aureus,22
+19973,20200915,Day 7,3,1,100ng/mL LPS,S. aureus,31.66666667
+19973,20200902,Day 7,1,1,0.1ng/mL LTA,S. aureus,31.66666667
+19973,20200902,Day 7,2,1,0.1ng/mL LTA,S. aureus,11
+19973,20200902,Day 7,3,1,0.1ng/mL LTA,S. aureus,19
+19973,20200902,Day 7,1,1,100ng/mL LTA,S. aureus,29
+19973,20200902,Day 7,2,1,100ng/mL LTA,S. aureus,15.33333333
+19973,20200902,Day 7,3,1,100ng/mL LTA,S. aureus,16
+19973,20200922,Day 7,1,1,Fungi alone,S. aureus,36.66666667
+19973,20200922,Day 7,2,1,Fungi alone,S. aureus,18
+19973,20200922,Day 7,3,1,Fungi alone,S. aureus,17
+19973,20200902,Day 7,1,1,Autoclaved bacteria,S. aureus,32.33333333
+19973,20200902,Day 7,2,1,Autoclaved bacteria,S. aureus,31.66666667
+19973,20200902,Day 7,3,1,Autoclaved bacteria,S. aureus,26
+2708,20200727,Day 1,1,1,0.1ng/mL LPS,A. baumannii,10.33333333
+2708,20200727,Day 1,2,1,0.1ng/mL LPS,A. baumannii,16.33333333
+2708,20200727,Day 1,3,1,0.1ng/mL LPS,A. baumannii,12
+2708,20200727,Day 1,1,1,100ng/mL LPS,A. baumannii,7.666666667
+2708,20200727,Day 1,2,1,100ng/mL LPS,A. baumannii,1.666666667
+2708,20200727,Day 1,3,1,100ng/mL LPS,A. baumannii,6
+2708,20200909,Day 1,1,1,0.1ng/mL LTA,A. baumannii,23.66666667
+2708,20200909,Day 1,2,1,0.1ng/mL LTA,A. baumannii,38
+2708,20200909,Day 1,3,1,0.1ng/mL LTA,A. baumannii,20.33333333
+2708,20200909,Day 1,1,1,100ng/mL LTA,A. baumannii,28.66666667
+2708,20200909,Day 1,2,1,100ng/mL LTA,A. baumannii,22
+2708,20200909,Day 1,3,1,100ng/mL LTA,A. baumannii,19.33333333
+2708,20200727,Day 1,1,1,Fungi alone,A. baumannii,9.333333333
+2708,20200727,Day 1,2,1,Fungi alone,A. baumannii,13
+2708,20200727,Day 1,3,1,Fungi alone,A. baumannii,12
+2708,20200727,Day 1,1,1,Autoclaved bacteria,A. baumannii,18
+2708,20200727,Day 1,2,1,Autoclaved bacteria,A. baumannii,18
+2708,20200727,Day 1,3,1,Autoclaved bacteria,A. baumannii,16.33333333
+2708,20200727,Day 1,1,1,0.1ng/mL LPS,E. coli,14.66666667
+2708,20200727,Day 1,2,1,0.1ng/mL LPS,E. coli,6
+2708,20200727,Day 1,3,1,0.1ng/mL LPS,E. coli,7.666666667
+2708,20200727,Day 1,1,1,100ng/mL LPS,E. coli,18
+2708,20200727,Day 1,2,1,100ng/mL LPS,E. coli,10.33333333
+2708,20200727,Day 1,3,1,100ng/mL LPS,E. coli,10.33333333
+2708,20200909,Day 1,1,1,0.1ng/mL LTA,E. coli,28
+2708,20200909,Day 1,2,1,0.1ng/mL LTA,E. coli,17.66666667
+2708,20200909,Day 1,3,1,0.1ng/mL LTA,E. coli,17
+2708,20200909,Day 1,1,1,100ng/mL LTA,E. coli,17.66666667
+2708,20200909,Day 1,2,1,100ng/mL LTA,E. coli,11
+2708,20200909,Day 1,3,1,100ng/mL LTA,E. coli,24.66666667
+2708,20200727,Day 1,1,1,Fungi alone,E. coli,10.33333333
+2708,20200727,Day 1,2,1,Fungi alone,E. coli,12
+2708,20200727,Day 1,3,1,Fungi alone,E. coli,12
+2708,20200727,Day 1,1,1,Autoclaved bacteria,E. coli,16.33333333
+2708,20200727,Day 1,2,1,Autoclaved bacteria,E. coli,0
+2708,20200727,Day 1,3,1,Autoclaved bacteria,E. coli,14.66666667
+2708,20200727,Day 1,1,1,0.1ng/mL LPS,P. aeruginosa,2005.333333
+2708,20200727,Day 1,2,1,0.1ng/mL LPS,P. aeruginosa,11
+2708,20200727,Day 1,3,1,0.1ng/mL LPS,P. aeruginosa,162.6666667
+2708,20200727,Day 1,1,1,100ng/mL LPS,P. aeruginosa,23.66666667
+2708,20200727,Day 1,2,1,100ng/mL LPS,P. aeruginosa,52.66666667
+2708,20200727,Day 1,3,1,100ng/mL LPS,P. aeruginosa,23.66666667
+2708,20200909,Day 1,1,1,0.1ng/mL LTA,P. aeruginosa,16783.5
+2708,20200909,Day 1,2,1,0.1ng/mL LTA,P. aeruginosa,339
+2708,20200909,Day 1,3,1,0.1ng/mL LTA,P. aeruginosa,43.33333333
+2708,20200909,Day 1,1,1,100ng/mL LTA,P. aeruginosa,18.66666667
+2708,20200909,Day 1,2,1,100ng/mL LTA,P. aeruginosa,12.66666667
+2708,20200909,Day 1,3,1,100ng/mL LTA,P. aeruginosa,18.66666667
+2708,20200727,Day 1,1,1,Fungi alone,P. aeruginosa,14.33333333
+2708,20200727,Day 1,2,1,Fungi alone,P. aeruginosa,38.33333333
+2708,20200727,Day 1,3,1,Fungi alone,P. aeruginosa,25.33333333
+2708,20200727,Day 1,1,1,Autoclaved bacteria,P. aeruginosa,23
+2708,20200727,Day 1,2,1,Autoclaved bacteria,P. aeruginosa,7.666666667
+2708,20200727,Day 1,3,1,Autoclaved bacteria,P. aeruginosa,499.6666667
+2708,20200727,Day 1,1,1,0.1ng/mL LPS,S. aureus,6
+2708,20200727,Day 1,2,1,0.1ng/mL LPS,S. aureus,3.333333333
+2708,20200727,Day 1,3,1,0.1ng/mL LPS,S. aureus,18
+2708,20200727,Day 1,1,1,100ng/mL LPS,S. aureus,6.666666667
+2708,20200727,Day 1,2,1,100ng/mL LPS,S. aureus,12
+2708,20200727,Day 1,3,1,100ng/mL LPS,S. aureus,6
+2708,20200909,Day 1,1,1,0.1ng/mL LTA,S. aureus,38.66666667
+2708,20200909,Day 1,2,1,0.1ng/mL LTA,S. aureus,20.33333333
+2708,20200909,Day 1,3,1,0.1ng/mL LTA,S. aureus,11
+2708,20200909,Day 1,1,1,100ng/mL LTA,S. aureus,23
+2708,20200909,Day 1,2,1,100ng/mL LTA,S. aureus,15.33333333
+2708,20200909,Day 1,3,1,100ng/mL LTA,S. aureus,22
+2708,20200727,Day 1,1,1,Fungi alone,S. aureus,13.66666667
+2708,20200727,Day 1,2,1,Fungi alone,S. aureus,12
+2708,20200727,Day 1,3,1,Fungi alone,S. aureus,15.33333333
+2708,20200727,Day 1,1,1,Autoclaved bacteria,S. aureus,25.66666667
+2708,20200727,Day 1,2,1,Autoclaved bacteria,S. aureus,20.66666667
+2708,20200727,Day 1,3,1,Autoclaved bacteria,S. aureus,13.66666667
+2708,20200804,Day14,1,1,0.1ng/mL LPS,A. baumannii,14.66666667
+2708,20200804,Day14,2,1,0.1ng/mL LPS,A. baumannii,13.66666667
+2708,20200804,Day14,3,1,0.1ng/mL LPS,A. baumannii,7.666666667
+2708,20200804,Day14,1,1,100ng/mL LPS,A. baumannii,16.33333333
+2708,20200804,Day14,2,1,100ng/mL LPS,A. baumannii,10.33333333
+2708,20200804,Day14,3,1,100ng/mL LPS,A. baumannii,32.33333333
+2708,20200902,Day14,1,1,0.1ng/mL LTA,A. baumannii,6
+2708,20200902,Day14,2,1,0.1ng/mL LTA,A. baumannii,10.33333333
+2708,20200902,Day14,3,1,0.1ng/mL LTA,A. baumannii,12
+2708,20200902,Day14,1,1,100ng/mL LTA,A. baumannii,6
+2708,20200902,Day14,2,1,100ng/mL LTA,A. baumannii,3.333333333
+2708,20200902,Day14,3,1,100ng/mL LTA,A. baumannii,15
+2708,20200804,Day14,1,1,Fungi alone,A. baumannii,9.333333333
+2708,20200804,Day14,2,1,Fungi alone,A. baumannii,7.666666667
+2708,20200804,Day14,3,1,Fungi alone,A. baumannii,11
+2708,20200804,Day14,1,1,Autoclaved bacteria,A. baumannii,6
+2708,20200804,Day14,2,1,Autoclaved bacteria,A. baumannii,8.666666667
+2708,20200804,Day14,3,1,Autoclaved bacteria,A. baumannii,15
+2708,20200804,Day14,1,1,0.1ng/mL LPS,E. coli,6
+2708,20200804,Day14,2,1,0.1ng/mL LPS,E. coli,7.666666667
+2708,20200804,Day14,3,1,0.1ng/mL LPS,E. coli,16.33333333
+2708,20200804,Day14,1,1,100ng/mL LPS,E. coli,21.33333333
+2708,20200804,Day14,2,1,100ng/mL LPS,E. coli,13.66666667
+2708,20200804,Day14,3,1,100ng/mL LPS,E. coli,38.33333333
+2708,20200902,Day14,1,1,0.1ng/mL LTA,E. coli,9.333333333
+2708,20200902,Day14,2,1,0.1ng/mL LTA,E. coli,6
+2708,20200902,Day14,3,1,0.1ng/mL LTA,E. coli,10.33333333
+2708,20200902,Day14,1,1,100ng/mL LTA,E. coli,11
+2708,20200902,Day14,2,1,100ng/mL LTA,E. coli,7.666666667
+2708,20200902,Day14,3,1,100ng/mL LTA,E. coli,15.33333333
+2708,20200804,Day14,1,1,Fungi alone,E. coli,23.33333333
+2708,20200804,Day14,2,1,Fungi alone,E. coli,8.666666667
+2708,20200804,Day14,3,1,Fungi alone,E. coli,25.66666667
+2708,20200804,Day14,1,1,Autoclaved bacteria,E. coli,12
+2708,20200804,Day14,2,1,Autoclaved bacteria,E. coli,9.333333333
+2708,20200804,Day14,3,1,Autoclaved bacteria,E. coli,18.66666667
+2708,20200804,Day14,1,1,0.1ng/mL LPS,P. aeruginosa,13.66666667
+2708,20200804,Day14,2,1,0.1ng/mL LPS,P. aeruginosa,18
+2708,20200804,Day14,3,1,0.1ng/mL LPS,P. aeruginosa,7.666666667
+2708,20200804,Day14,1,1,100ng/mL LPS,P. aeruginosa,12
+2708,20200804,Day14,2,1,100ng/mL LPS,P. aeruginosa,14.66666667
+2708,20200804,Day14,3,1,100ng/mL LPS,P. aeruginosa,23.66666667
+2708,20200902,Day14,1,1,0.1ng/mL LTA,P. aeruginosa,162.3333333
+2708,20200902,Day14,2,1,0.1ng/mL LTA,P. aeruginosa,554.6666667
+2708,20200902,Day14,3,1,0.1ng/mL LTA,P. aeruginosa,9.333333333
+2708,20200902,Day14,1,1,100ng/mL LTA,P. aeruginosa,67.33333333
+2708,20200902,Day14,2,1,100ng/mL LTA,P. aeruginosa,627.6666667
+2708,20200902,Day14,3,1,100ng/mL LTA,P. aeruginosa,255.6666667
+2708,20200804,Day14,1,1,Fungi alone,P. aeruginosa,12
+2708,20200804,Day14,2,1,Fungi alone,P. aeruginosa,18
+2708,20200804,Day14,3,1,Fungi alone,P. aeruginosa,13.66666667
+2708,20200804,Day14,1,1,Autoclaved bacteria,P. aeruginosa,15.33333333
+2708,20200804,Day14,2,1,Autoclaved bacteria,P. aeruginosa,10.33333333
+2708,20200804,Day14,3,1,Autoclaved bacteria,P. aeruginosa,61.66666667
+2708,20200804,Day14,1,1,0.1ng/mL LPS,S. aureus,4.333333333
+2708,20200804,Day14,2,1,0.1ng/mL LPS,S. aureus,0
+2708,20200804,Day14,3,1,0.1ng/mL LPS,S. aureus,10.33333333
+2708,20200804,Day14,1,1,100ng/mL LPS,S. aureus,16.33333333
+2708,20200804,Day14,2,1,100ng/mL LPS,S. aureus,10.33333333
+2708,20200804,Day14,3,1,100ng/mL LPS,S. aureus,22.33333333
+2708,20200902,Day14,1,1,0.1ng/mL LTA,S. aureus,15.33333333
+2708,20200902,Day14,2,1,0.1ng/mL LTA,S. aureus,7.666666667
+2708,20200902,Day14,3,1,0.1ng/mL LTA,S. aureus,6.666666667
+2708,20200902,Day14,1,1,100ng/mL LTA,S. aureus,10.33333333
+2708,20200902,Day14,2,1,100ng/mL LTA,S. aureus,6.666666667
+2708,20200902,Day14,3,1,100ng/mL LTA,S. aureus,17
+2708,20200804,Day14,1,1,Fungi alone,S. aureus,0
+2708,20200804,Day14,2,1,Fungi alone,S. aureus,13.66666667
+2708,20200804,Day14,3,1,Fungi alone,S. aureus,22.33333333
+2708,20200804,Day14,1,1,Autoclaved bacteria,S. aureus,1.666666667
+2708,20200804,Day14,2,1,Autoclaved bacteria,S. aureus,19.66666667
+2708,20200804,Day14,3,1,Autoclaved bacteria,S. aureus,8.666666667
+2708,20200727,Day 3,1,1,0.1ng/mL LPS,A. baumannii,25
+2708,20200727,Day 3,2,1,0.1ng/mL LPS,A. baumannii,15.33333333
+2708,20200727,Day 3,3,1,0.1ng/mL LPS,A. baumannii,9.333333333
+2708,20200727,Day 3,1,1,100ng/mL LPS,A. baumannii,10.33333333
+2708,20200727,Day 3,2,1,100ng/mL LPS,A. baumannii,16.33333333
+2708,20200727,Day 3,3,1,100ng/mL LPS,A. baumannii,8.666666667
+2708,20200915,Day 3,1,1,0.1ng/mL LTA,A. baumannii,7.666666667
+2708,20200915,Day 3,2,1,0.1ng/mL LTA,A. baumannii,11
+2708,20200915,Day 3,3,1,0.1ng/mL LTA,A. baumannii,10.33333333
+2708,20200915,Day 3,1,1,100ng/mL LTA,A. baumannii,8.666666667
+2708,20200915,Day 3,2,1,100ng/mL LTA,A. baumannii,7.666666667
+2708,20200915,Day 3,3,1,100ng/mL LTA,A. baumannii,6
+2708,20200727,Day 3,1,1,Fungi alone,A. baumannii,223.6666667
+2708,20200727,Day 3,2,1,Fungi alone,A. baumannii,12
+2708,20200727,Day 3,3,1,Fungi alone,A. baumannii,23.33333333
+2708,20200727,Day 3,1,1,Autoclaved bacteria,A. baumannii,7.666666667
+2708,20200727,Day 3,2,1,Autoclaved bacteria,A. baumannii,8.666666667
+2708,20200727,Day 3,3,1,Autoclaved bacteria,A. baumannii,7.666666667
+2708,20200727,Day 3,1,1,0.1ng/mL LPS,E. coli,7.666666667
+2708,20200727,Day 3,2,1,0.1ng/mL LPS,E. coli,12
+2708,20200727,Day 3,3,1,0.1ng/mL LPS,E. coli,1.666666667
+2708,20200727,Day 3,1,1,100ng/mL LPS,E. coli,9.333333333
+2708,20200727,Day 3,2,1,100ng/mL LPS,E. coli,15.33333333
+2708,20200727,Day 3,3,1,100ng/mL LPS,E. coli,4.333333333
+2708,20200915,Day 3,1,1,0.1ng/mL LTA,E. coli,4.333333333
+2708,20200915,Day 3,2,1,0.1ng/mL LTA,E. coli,15.33333333
+2708,20200915,Day 3,3,1,0.1ng/mL LTA,E. coli,7.666666667
+2708,20200915,Day 3,1,1,100ng/mL LTA,E. coli,12
+2708,20200915,Day 3,2,1,100ng/mL LTA,E. coli,6
+2708,20200915,Day 3,3,1,100ng/mL LTA,E. coli,13
+2708,20200727,Day 3,1,1,Fungi alone,E. coli,10.33333333
+2708,20200727,Day 3,2,1,Fungi alone,E. coli,3.333333333
+2708,20200727,Day 3,3,1,Fungi alone,E. coli,8.666666667
+2708,20200727,Day 3,1,1,Autoclaved bacteria,E. coli,13.66666667
+2708,20200727,Day 3,2,1,Autoclaved bacteria,E. coli,18
+2708,20200727,Day 3,3,1,Autoclaved bacteria,E. coli,0
+2708,20200727,Day 3,1,1,0.1ng/mL LPS,P. aeruginosa,9.333333333
+2708,20200727,Day 3,2,1,0.1ng/mL LPS,P. aeruginosa,3.333333333
+2708,20200727,Day 3,3,1,0.1ng/mL LPS,P. aeruginosa,43.66666667
+2708,20200727,Day 3,1,1,100ng/mL LPS,P. aeruginosa,73.33333333
+2708,20200727,Day 3,2,1,100ng/mL LPS,P. aeruginosa,32.33333333
+2708,20200727,Day 3,3,1,100ng/mL LPS,P. aeruginosa,19.66666667
+2708,20200915,Day 3,1,1,0.1ng/mL LTA,P. aeruginosa,7.666666667
+2708,20200915,Day 3,2,1,0.1ng/mL LTA,P. aeruginosa,12
+2708,20200915,Day 3,3,1,0.1ng/mL LTA,P. aeruginosa,0
+2708,20200915,Day 3,1,1,100ng/mL LTA,P. aeruginosa,12
+2708,20200915,Day 3,2,1,100ng/mL LTA,P. aeruginosa,6
+2708,20200915,Day 3,3,1,100ng/mL LTA,P. aeruginosa,1.666666667
+2708,20200727,Day 3,1,1,Fungi alone,P. aeruginosa,31.66666667
+2708,20200727,Day 3,2,1,Fungi alone,P. aeruginosa,22.33333333
+2708,20200727,Day 3,3,1,Fungi alone,P. aeruginosa,35
+2708,20200727,Day 3,1,1,Autoclaved bacteria,P. aeruginosa,11
+2708,20200727,Day 3,2,1,Autoclaved bacteria,P. aeruginosa,12
+2708,20200727,Day 3,3,1,Autoclaved bacteria,P. aeruginosa,7.666666667
+2708,20200727,Day 3,1,1,0.1ng/mL LPS,S. aureus,15.33333333
+2708,20200727,Day 3,2,1,0.1ng/mL LPS,S. aureus,6
+2708,20200727,Day 3,3,1,0.1ng/mL LPS,S. aureus,14.66666667
+2708,20200727,Day 3,1,1,100ng/mL LPS,S. aureus,6
+2708,20200727,Day 3,2,1,100ng/mL LPS,S. aureus,9.333333333
+2708,20200727,Day 3,3,1,100ng/mL LPS,S. aureus,10.33333333
+2708,20200922,Day 3,1,1,0.1ng/mL LTA,S. aureus,6
+2708,20200922,Day 3,2,1,0.1ng/mL LTA,S. aureus,1.666666667
+2708,20200922,Day 3,3,1,0.1ng/mL LTA,S. aureus,6
+2708,20200922,Day 3,1,1,100ng/mL LTA,S. aureus,13.66666667
+2708,20200922,Day 3,2,1,100ng/mL LTA,S. aureus,1.666666667
+2708,20200922,Day 3,3,1,100ng/mL LTA,S. aureus,9.333333333
+2708,20200727,Day 3,1,1,Fungi alone,S. aureus,16.33333333
+2708,20200727,Day 3,2,1,Fungi alone,S. aureus,13.66666667
+2708,20200727,Day 3,3,1,Fungi alone,S. aureus,13.66666667
+2708,20200727,Day 3,1,1,Autoclaved bacteria,S. aureus,9.333333333
+2708,20200727,Day 3,2,1,Autoclaved bacteria,S. aureus,13.66666667
+2708,20200727,Day 3,3,1,Autoclaved bacteria,S. aureus,8.666666667
+2708,20200727,Day 7,1,1,0.1ng/mL LPS,A. baumannii,16.33333333
+2708,20200727,Day 7,2,1,0.1ng/mL LPS,A. baumannii,4.333333333
+2708,20200727,Day 7,3,1,0.1ng/mL LPS,A. baumannii,11
+2708,20200727,Day 7,1,1,100ng/mL LPS,A. baumannii,10.33333333
+2708,20200727,Day 7,2,1,100ng/mL LPS,A. baumannii,13.66666667
+2708,20200727,Day 7,3,1,100ng/mL LPS,A. baumannii,6
+2708,20200915,Day 7,1,1,0.1ng/mL LTA,A. baumannii,12.66666667
+2708,20200915,Day 7,2,1,0.1ng/mL LTA,A. baumannii,14.66666667
+2708,20200915,Day 7,3,1,0.1ng/mL LTA,A. baumannii,10.33333333
+2708,20200915,Day 7,1,1,100ng/mL LTA,A. baumannii,12
+2708,20200915,Day 7,2,1,100ng/mL LTA,A. baumannii,10
+2708,20200915,Day 7,3,1,100ng/mL LTA,A. baumannii,7.666666667
+2708,20200727,Day 7,1,1,Fungi alone,A. baumannii,18
+2708,20200727,Day 7,2,1,Fungi alone,A. baumannii,18
+2708,20200727,Day 7,3,1,Fungi alone,A. baumannii,16.33333333
+2708,20200727,Day 7,1,1,Autoclaved bacteria,A. baumannii,13.66666667
+2708,20200727,Day 7,2,1,Autoclaved bacteria,A. baumannii,15.33333333
+2708,20200727,Day 7,3,1,Autoclaved bacteria,A. baumannii,32.66666667
+2708,20200727,Day 7,1,1,0.1ng/mL LPS,E. coli,15.33333333
+2708,20200727,Day 7,2,1,0.1ng/mL LPS,E. coli,12
+2708,20200727,Day 7,3,1,0.1ng/mL LPS,E. coli,16.33333333
+2708,20200727,Day 7,1,1,100ng/mL LPS,E. coli,1.666666667
+2708,20200727,Day 7,2,1,100ng/mL LPS,E. coli,8.666666667
+2708,20200727,Day 7,3,1,100ng/mL LPS,E. coli,23.66666667
+2708,20200915,Day 7,1,1,0.1ng/mL LTA,E. coli,7.666666667
+2708,20200915,Day 7,2,1,0.1ng/mL LTA,E. coli,12
+2708,20200915,Day 7,3,1,0.1ng/mL LTA,E. coli,7.666666667
+2708,20200915,Day 7,1,1,100ng/mL LTA,E. coli,12
+2708,20200915,Day 7,2,1,100ng/mL LTA,E. coli,6
+2708,20200915,Day 7,3,1,100ng/mL LTA,E. coli,3.333333333
+2708,20200727,Day 7,1,1,Fungi alone,E. coli,10.33333333
+2708,20200727,Day 7,2,1,Fungi alone,E. coli,18
+2708,20200727,Day 7,3,1,Fungi alone,E. coli,7.666666667
+2708,20200727,Day 7,1,1,Autoclaved bacteria,E. coli,4.333333333
+2708,20200727,Day 7,2,1,Autoclaved bacteria,E. coli,4.333333333
+2708,20200727,Day 7,3,1,Autoclaved bacteria,E. coli,33
+2708,20200727,Day 7,1,1,0.1ng/mL LPS,P. aeruginosa,12
+2708,20200727,Day 7,2,1,0.1ng/mL LPS,P. aeruginosa,18
+2708,20200727,Day 7,3,1,0.1ng/mL LPS,P. aeruginosa,10.33333333
+2708,20200727,Day 7,1,1,100ng/mL LPS,P. aeruginosa,20.66666667
+2708,20200727,Day 7,2,1,100ng/mL LPS,P. aeruginosa,7.666666667
+2708,20200727,Day 7,3,1,100ng/mL LPS,P. aeruginosa,20.33333333
+2708,20200915,Day 7,1,1,0.1ng/mL LTA,P. aeruginosa,6
+2708,20200915,Day 7,2,1,0.1ng/mL LTA,P. aeruginosa,7.666666667
+2708,20200915,Day 7,3,1,0.1ng/mL LTA,P. aeruginosa,3.333333333
+2708,20200915,Day 7,1,1,100ng/mL LTA,P. aeruginosa,6
+2708,20200915,Day 7,2,1,100ng/mL LTA,P. aeruginosa,12
+2708,20200915,Day 7,3,1,100ng/mL LTA,P. aeruginosa,7.666666667
+2708,20200727,Day 7,1,1,Fungi alone,P. aeruginosa,12
+2708,20200727,Day 7,2,1,Fungi alone,P. aeruginosa,16.33333333
+2708,20200727,Day 7,3,1,Fungi alone,P. aeruginosa,7.666666667
+2708,20200727,Day 7,1,1,Autoclaved bacteria,P. aeruginosa,7.666666667
+2708,20200727,Day 7,2,1,Autoclaved bacteria,P. aeruginosa,6
+2708,20200727,Day 7,3,1,Autoclaved bacteria,P. aeruginosa,22
+2708,20200727,Day 7,1,1,0.1ng/mL LPS,S. aureus,1.666666667
+2708,20200727,Day 7,2,1,0.1ng/mL LPS,S. aureus,1.666666667
+2708,20200727,Day 7,3,1,0.1ng/mL LPS,S. aureus,13.66666667
+2708,20200727,Day 7,1,1,100ng/mL LPS,S. aureus,10.33333333
+2708,20200727,Day 7,2,1,100ng/mL LPS,S. aureus,6
+2708,20200727,Day 7,3,1,100ng/mL LPS,S. aureus,12
+2708,20200922,Day 7,1,1,0.1ng/mL LTA,S. aureus,6
+2708,20200922,Day 7,2,1,0.1ng/mL LTA,S. aureus,14.66666667
+2708,20200922,Day 7,3,1,0.1ng/mL LTA,S. aureus,15.33333333
+2708,20200922,Day 7,1,1,100ng/mL LTA,S. aureus,16.33333333
+2708,20200922,Day 7,2,1,100ng/mL LTA,S. aureus,16.33333333
+2708,20200922,Day 7,3,1,100ng/mL LTA,S. aureus,4.333333333
+2708,20200727,Day 7,1,1,Fungi alone,S. aureus,4.333333333
+2708,20200727,Day 7,2,1,Fungi alone,S. aureus,9.333333333
+2708,20200727,Day 7,3,1,Fungi alone,S. aureus,16.33333333
+2708,20200727,Day 7,1,1,Autoclaved bacteria,S. aureus,10.33333333
+2708,20200727,Day 7,2,1,Autoclaved bacteria,S. aureus,15.33333333
+2708,20200727,Day 7,3,1,Autoclaved bacteria,S. aureus,9.333333333
+5686,20200727,Day 1,1,1,0.1ng/mL LPS,A. baumannii,16806.33333
+5686,20200727,Day 1,2,1,0.1ng/mL LPS,A. baumannii,20137.5
+5686,20200727,Day 1,3,1,0.1ng/mL LPS,A. baumannii,19189.5
+5686,20200727,Day 1,1,1,100ng/mL LPS,A. baumannii,21735.83333
+5686,20200727,Day 1,2,1,100ng/mL LPS,A. baumannii,22969.66667
+5686,20200727,Day 1,3,1,100ng/mL LPS,A. baumannii,23893
+5686,20200909,Day 1,1,1,0.1ng/mL LTA,A. baumannii,608.6666667
+5686,20200909,Day 1,2,1,0.1ng/mL LTA,A. baumannii,1932.666667
+5686,20200909,Day 1,3,1,0.1ng/mL LTA,A. baumannii,668
+5686,20200909,Day 1,1,1,100ng/mL LTA,A. baumannii,6114.333333
+5686,20200909,Day 1,2,1,100ng/mL LTA,A. baumannii,2726.333333
+5686,20200909,Day 1,3,1,100ng/mL LTA,A. baumannii,642.3333333
+5686,20200727,Day 1,1,1,Fungi alone,A. baumannii,19457.16667
+5686,20200727,Day 1,2,1,Fungi alone,A. baumannii,22546.16667
+5686,20200727,Day 1,3,1,Fungi alone,A. baumannii,23962.66667
+5686,20200727,Day 1,1,1,Autoclaved bacteria,A. baumannii,25440.66667
+5686,20200727,Day 1,2,1,Autoclaved bacteria,A. baumannii,25810.66667
+5686,20200727,Day 1,3,1,Autoclaved bacteria,A. baumannii,25174.33333
+5686,20200727,Day 1,1,1,0.1ng/mL LPS,E. coli,11410
+5686,20200727,Day 1,2,1,0.1ng/mL LPS,E. coli,10450
+5686,20200727,Day 1,3,1,0.1ng/mL LPS,E. coli,10055.33333
+5686,20200727,Day 1,1,1,100ng/mL LPS,E. coli,11214.33333
+5686,20200727,Day 1,2,1,100ng/mL LPS,E. coli,11738
+5686,20200727,Day 1,3,1,100ng/mL LPS,E. coli,11719.66667
+5686,20200909,Day 1,1,1,0.1ng/mL LTA,E. coli,272
+5686,20200909,Day 1,2,1,0.1ng/mL LTA,E. coli,1380.333333
+5686,20200909,Day 1,3,1,0.1ng/mL LTA,E. coli,352.6666667
+5686,20200909,Day 1,1,1,100ng/mL LTA,E. coli,3523
+5686,20200909,Day 1,2,1,100ng/mL LTA,E. coli,2021.333333
+5686,20200909,Day 1,3,1,100ng/mL LTA,E. coli,174.3333333
+5686,20200727,Day 1,1,1,Fungi alone,E. coli,8830.666667
+5686,20200727,Day 1,2,1,Fungi alone,E. coli,11050
+5686,20200727,Day 1,3,1,Fungi alone,E. coli,10398
+5686,20200727,Day 1,1,1,Autoclaved bacteria,E. coli,11591
+5686,20200727,Day 1,2,1,Autoclaved bacteria,E. coli,11856.66667
+5686,20200727,Day 1,3,1,Autoclaved bacteria,E. coli,11525.33333
+5686,20200727,Day 1,1,1,0.1ng/mL LPS,P. aeruginosa,18085
+5686,20200727,Day 1,2,1,0.1ng/mL LPS,P. aeruginosa,17355.66667
+5686,20200727,Day 1,3,1,0.1ng/mL LPS,P. aeruginosa,16037.66667
+5686,20200727,Day 1,1,1,100ng/mL LPS,P. aeruginosa,17599.33333
+5686,20200727,Day 1,2,1,100ng/mL LPS,P. aeruginosa,15894.66667
+5686,20200727,Day 1,3,1,100ng/mL LPS,P. aeruginosa,15693
+5686,20200909,Day 1,1,1,0.1ng/mL LTA,P. aeruginosa,21581.83333
+5686,20200909,Day 1,2,1,0.1ng/mL LTA,P. aeruginosa,20048.83333
+5686,20200909,Day 1,3,1,0.1ng/mL LTA,P. aeruginosa,18322.83333
+5686,20200909,Day 1,1,1,100ng/mL LTA,P. aeruginosa,17869.16667
+5686,20200909,Day 1,2,1,100ng/mL LTA,P. aeruginosa,15158
+5686,20200909,Day 1,3,1,100ng/mL LTA,P. aeruginosa,12386
+5686,20200727,Day 1,1,1,Fungi alone,P. aeruginosa,16174.33333
+5686,20200727,Day 1,2,1,Fungi alone,P. aeruginosa,15594.33333
+5686,20200727,Day 1,3,1,Fungi alone,P. aeruginosa,15268.66667
+5686,20200727,Day 1,1,1,Autoclaved bacteria,P. aeruginosa,16566
+5686,20200727,Day 1,2,1,Autoclaved bacteria,P. aeruginosa,16965.33333
+5686,20200727,Day 1,3,1,Autoclaved bacteria,P. aeruginosa,16176.66667
+5686,20200727,Day 1,1,1,0.1ng/mL LPS,S. aureus,347.3333333
+5686,20200727,Day 1,2,1,0.1ng/mL LPS,S. aureus,461.3333333
+5686,20200727,Day 1,3,1,0.1ng/mL LPS,S. aureus,435
+5686,20200727,Day 1,1,1,100ng/mL LPS,S. aureus,427
+5686,20200727,Day 1,2,1,100ng/mL LPS,S. aureus,537
+5686,20200727,Day 1,3,1,100ng/mL LPS,S. aureus,418.6666667
+5686,20200909,Day 1,1,1,0.1ng/mL LTA,S. aureus,54.66666667
+5686,20200909,Day 1,2,1,0.1ng/mL LTA,S. aureus,78.66666667
+5686,20200909,Day 1,3,1,0.1ng/mL LTA,S. aureus,29.66666667
+5686,20200909,Day 1,1,1,100ng/mL LTA,S. aureus,231
+5686,20200909,Day 1,2,1,100ng/mL LTA,S. aureus,72.33333333
+5686,20200909,Day 1,3,1,100ng/mL LTA,S. aureus,28.66666667
+5686,20200727,Day 1,1,1,Fungi alone,S. aureus,398.6666667
+5686,20200727,Day 1,2,1,Fungi alone,S. aureus,506
+5686,20200727,Day 1,3,1,Fungi alone,S. aureus,434
+5686,20200727,Day 1,1,1,Autoclaved bacteria,S. aureus,606.6666667
+5686,20200727,Day 1,2,1,Autoclaved bacteria,S. aureus,373
+5686,20200727,Day 1,3,1,Autoclaved bacteria,S. aureus,441
+5686,20200804,Day14,1,1,0.1ng/mL LPS,A. baumannii,1297
+5686,20200804,Day14,2,1,0.1ng/mL LPS,A. baumannii,1755.666667
+5686,20200804,Day14,3,1,0.1ng/mL LPS,A. baumannii,1735.666667
+5686,20200804,Day14,1,1,100ng/mL LPS,A. baumannii,2265.333333
+5686,20200804,Day14,2,1,100ng/mL LPS,A. baumannii,1593.333333
+5686,20200804,Day14,3,1,100ng/mL LPS,A. baumannii,2250.333333
+5686,20200902,Day14,1,1,0.1ng/mL LTA,A. baumannii,15487.5
+5686,20200902,Day14,2,1,0.1ng/mL LTA,A. baumannii,15946.5
+5686,20200902,Day14,3,1,0.1ng/mL LTA,A. baumannii,16238.16667
+5686,20200902,Day14,1,1,100ng/mL LTA,A. baumannii,14783.83333
+5686,20200902,Day14,2,1,100ng/mL LTA,A. baumannii,14914.83333
+5686,20200902,Day14,3,1,100ng/mL LTA,A. baumannii,18328.66667
+5686,20200804,Day14,1,1,Fungi alone,A. baumannii,1420
+5686,20200804,Day14,2,1,Fungi alone,A. baumannii,1470.333333
+5686,20200804,Day14,3,1,Fungi alone,A. baumannii,1370
+5686,20200804,Day14,1,1,Autoclaved bacteria,A. baumannii,20210
+5686,20200804,Day14,2,1,Autoclaved bacteria,A. baumannii,1398.333333
+5686,20200804,Day14,3,1,Autoclaved bacteria,A. baumannii,1287.666667
+5686,20200804,Day14,1,1,0.1ng/mL LPS,E. coli,379
+5686,20200804,Day14,2,1,0.1ng/mL LPS,E. coli,1018.666667
+5686,20200804,Day14,3,1,0.1ng/mL LPS,E. coli,855
+5686,20200804,Day14,1,1,100ng/mL LPS,E. coli,303.6666667
+5686,20200804,Day14,2,1,100ng/mL LPS,E. coli,398.3333333
+5686,20200804,Day14,3,1,100ng/mL LPS,E. coli,470.6666667
+5686,20200902,Day14,1,1,0.1ng/mL LTA,E. coli,5652.666667
+5686,20200902,Day14,2,1,0.1ng/mL LTA,E. coli,5481.666667
+5686,20200902,Day14,3,1,0.1ng/mL LTA,E. coli,5942
+5686,20200902,Day14,1,1,100ng/mL LTA,E. coli,6557.333333
+5686,20200902,Day14,2,1,100ng/mL LTA,E. coli,6224.666667
+5686,20200902,Day14,3,1,100ng/mL LTA,E. coli,6174.666667
+5686,20200804,Day14,1,1,Fungi alone,E. coli,491.6666667
+5686,20200804,Day14,2,1,Fungi alone,E. coli,644.6666667
+5686,20200804,Day14,3,1,Fungi alone,E. coli,230
+5686,20200804,Day14,1,1,Autoclaved bacteria,E. coli,7674.666667
+5686,20200804,Day14,2,1,Autoclaved bacteria,E. coli,265.3333333
+5686,20200804,Day14,3,1,Autoclaved bacteria,E. coli,129.3333333
+5686,20200804,Day14,1,1,0.1ng/mL LPS,P. aeruginosa,1230.666667
+5686,20200804,Day14,2,1,0.1ng/mL LPS,P. aeruginosa,1207.666667
+5686,20200804,Day14,3,1,0.1ng/mL LPS,P. aeruginosa,2190.666667
+5686,20200804,Day14,1,1,100ng/mL LPS,P. aeruginosa,3456.333333
+5686,20200804,Day14,2,1,100ng/mL LPS,P. aeruginosa,1054.333333
+5686,20200804,Day14,3,1,100ng/mL LPS,P. aeruginosa,1416.666667
+5686,20200902,Day14,1,1,0.1ng/mL LTA,P. aeruginosa,10385.66667
+5686,20200902,Day14,2,1,0.1ng/mL LTA,P. aeruginosa,12500.66667
+5686,20200902,Day14,3,1,0.1ng/mL LTA,P. aeruginosa,11144.33333
+5686,20200902,Day14,1,1,100ng/mL LTA,P. aeruginosa,12354.66667
+5686,20200902,Day14,2,1,100ng/mL LTA,P. aeruginosa,11376
+5686,20200902,Day14,3,1,100ng/mL LTA,P. aeruginosa,12229.33333
+5686,20200804,Day14,1,1,Fungi alone,P. aeruginosa,712.3333333
+5686,20200804,Day14,2,1,Fungi alone,P. aeruginosa,340
+5686,20200804,Day14,3,1,Fungi alone,P. aeruginosa,230.3333333
+5686,20200804,Day14,1,1,Autoclaved bacteria,P. aeruginosa,6655.333333
+5686,20200804,Day14,2,1,Autoclaved bacteria,P. aeruginosa,157.6666667
+5686,20200804,Day14,3,1,Autoclaved bacteria,P. aeruginosa,245.6666667
+5686,20200804,Day14,1,1,0.1ng/mL LPS,S. aureus,6
+5686,20200804,Day14,2,1,0.1ng/mL LPS,S. aureus,13.66666667
+5686,20200804,Day14,3,1,0.1ng/mL LPS,S. aureus,6
+5686,20200804,Day14,1,1,100ng/mL LPS,S. aureus,17
+5686,20200804,Day14,2,1,100ng/mL LPS,S. aureus,12
+5686,20200804,Day14,3,1,100ng/mL LPS,S. aureus,14.66666667
+5686,20200902,Day14,1,1,0.1ng/mL LTA,S. aureus,1361.333333
+5686,20200902,Day14,2,1,0.1ng/mL LTA,S. aureus,1360.666667
+5686,20200902,Day14,3,1,0.1ng/mL LTA,S. aureus,1282.333333
+5686,20200902,Day14,1,1,100ng/mL LTA,S. aureus,1133.333333
+5686,20200902,Day14,2,1,100ng/mL LTA,S. aureus,1150
+5686,20200902,Day14,3,1,100ng/mL LTA,S. aureus,1074
+5686,20200804,Day14,1,1,Fungi alone,S. aureus,6
+5686,20200804,Day14,2,1,Fungi alone,S. aureus,13.66666667
+5686,20200804,Day14,3,1,Fungi alone,S. aureus,10.33333333
+5686,20200804,Day14,1,1,Autoclaved bacteria,S. aureus,10.33333333
+5686,20200804,Day14,2,1,Autoclaved bacteria,S. aureus,19
+5686,20200804,Day14,3,1,Autoclaved bacteria,S. aureus,6
+5686,20200727,Day 3,1,1,0.1ng/mL LPS,A. baumannii,9.333333333
+5686,20200727,Day 3,2,1,0.1ng/mL LPS,A. baumannii,13.66666667
+5686,20200727,Day 3,3,1,0.1ng/mL LPS,A. baumannii,14.66666667
+5686,20200727,Day 3,1,1,100ng/mL LPS,A. baumannii,7.666666667
+5686,20200727,Day 3,2,1,100ng/mL LPS,A. baumannii,19
+5686,20200727,Day 3,3,1,100ng/mL LPS,A. baumannii,0
+5686,20200915,Day 3,1,1,0.1ng/mL LTA,A. baumannii,17.66666667
+5686,20200915,Day 3,2,1,0.1ng/mL LTA,A. baumannii,12
+5686,20200915,Day 3,3,1,0.1ng/mL LTA,A. baumannii,9.333333333
+5686,20200915,Day 3,1,1,100ng/mL LTA,A. baumannii,20.66666667
+5686,20200915,Day 3,2,1,100ng/mL LTA,A. baumannii,19.66666667
+5686,20200915,Day 3,3,1,100ng/mL LTA,A. baumannii,30.66666667
+5686,20200727,Day 3,1,1,Fungi alone,A. baumannii,14.66666667
+5686,20200727,Day 3,2,1,Fungi alone,A. baumannii,18
+5686,20200727,Day 3,3,1,Fungi alone,A. baumannii,12.66666667
+5686,20200727,Day 3,1,1,Autoclaved bacteria,A. baumannii,245.6666667
+5686,20200727,Day 3,2,1,Autoclaved bacteria,A. baumannii,14.66666667
+5686,20200727,Day 3,3,1,Autoclaved bacteria,A. baumannii,14.66666667
+5686,20200727,Day 3,1,1,0.1ng/mL LPS,E. coli,12
+5686,20200727,Day 3,2,1,0.1ng/mL LPS,E. coli,7.666666667
+5686,20200727,Day 3,3,1,0.1ng/mL LPS,E. coli,1.666666667
+5686,20200727,Day 3,1,1,100ng/mL LPS,E. coli,14.66666667
+5686,20200727,Day 3,2,1,100ng/mL LPS,E. coli,7.666666667
+5686,20200727,Day 3,3,1,100ng/mL LPS,E. coli,7.666666667
+5686,20200915,Day 3,1,1,0.1ng/mL LTA,E. coli,10.33333333
+5686,20200915,Day 3,2,1,0.1ng/mL LTA,E. coli,7.666666667
+5686,20200915,Day 3,3,1,0.1ng/mL LTA,E. coli,10.33333333
+5686,20200915,Day 3,1,1,100ng/mL LTA,E. coli,10.33333333
+5686,20200915,Day 3,2,1,100ng/mL LTA,E. coli,7.666666667
+5686,20200915,Day 3,3,1,100ng/mL LTA,E. coli,21.33333333
+5686,20200727,Day 3,1,1,Fungi alone,E. coli,14.66666667
+5686,20200727,Day 3,2,1,Fungi alone,E. coli,12
+5686,20200727,Day 3,3,1,Fungi alone,E. coli,15.33333333
+5686,20200727,Day 3,1,1,Autoclaved bacteria,E. coli,7.666666667
+5686,20200727,Day 3,2,1,Autoclaved bacteria,E. coli,6
+5686,20200727,Day 3,3,1,Autoclaved bacteria,E. coli,8.666666667
+5686,20200727,Day 3,1,1,0.1ng/mL LPS,P. aeruginosa,89.66666667
+5686,20200727,Day 3,2,1,0.1ng/mL LPS,P. aeruginosa,26.33333333
+5686,20200727,Day 3,3,1,0.1ng/mL LPS,P. aeruginosa,12
+5686,20200727,Day 3,1,1,100ng/mL LPS,P. aeruginosa,25.66666667
+5686,20200727,Day 3,2,1,100ng/mL LPS,P. aeruginosa,555.3333333
+5686,20200727,Day 3,3,1,100ng/mL LPS,P. aeruginosa,24.66666667
+5686,20200915,Day 3,1,1,0.1ng/mL LTA,P. aeruginosa,31.66666667
+5686,20200915,Day 3,2,1,0.1ng/mL LTA,P. aeruginosa,6
+5686,20200915,Day 3,3,1,0.1ng/mL LTA,P. aeruginosa,6
+5686,20200915,Day 3,1,1,100ng/mL LTA,P. aeruginosa,11
+5686,20200915,Day 3,2,1,100ng/mL LTA,P. aeruginosa,12
+5686,20200915,Day 3,3,1,100ng/mL LTA,P. aeruginosa,27.33333333
+5686,20200727,Day 3,1,1,Fungi alone,P. aeruginosa,33
+5686,20200727,Day 3,2,1,Fungi alone,P. aeruginosa,9.333333333
+5686,20200727,Day 3,3,1,Fungi alone,P. aeruginosa,799.3333333
+5686,20200727,Day 3,1,1,Autoclaved bacteria,P. aeruginosa,13
+5686,20200727,Day 3,2,1,Autoclaved bacteria,P. aeruginosa,7.666666667
+5686,20200727,Day 3,3,1,Autoclaved bacteria,P. aeruginosa,9.333333333
+5686,20200727,Day 3,1,1,0.1ng/mL LPS,S. aureus,9.333333333
+5686,20200727,Day 3,2,1,0.1ng/mL LPS,S. aureus,12
+5686,20200727,Day 3,3,1,0.1ng/mL LPS,S. aureus,13
+5686,20200727,Day 3,1,1,100ng/mL LPS,S. aureus,3.333333333
+5686,20200727,Day 3,2,1,100ng/mL LPS,S. aureus,6
+5686,20200727,Day 3,3,1,100ng/mL LPS,S. aureus,19
+5686,20200922,Day 3,1,1,0.1ng/mL LTA,S. aureus,12
+5686,20200922,Day 3,2,1,0.1ng/mL LTA,S. aureus,10.33333333
+5686,20200922,Day 3,3,1,0.1ng/mL LTA,S. aureus,16.33333333
+5686,20200922,Day 3,1,1,100ng/mL LTA,S. aureus,4.333333333
+5686,20200922,Day 3,2,1,100ng/mL LTA,S. aureus,8.666666667
+5686,20200922,Day 3,3,1,100ng/mL LTA,S. aureus,12
+5686,20200727,Day 3,1,1,Fungi alone,S. aureus,13.66666667
+5686,20200727,Day 3,2,1,Fungi alone,S. aureus,1.666666667
+5686,20200727,Day 3,3,1,Fungi alone,S. aureus,3.333333333
+5686,20200727,Day 3,1,1,Autoclaved bacteria,S. aureus,4.333333333
+5686,20200727,Day 3,2,1,Autoclaved bacteria,S. aureus,10.33333333
+5686,20200727,Day 3,3,1,Autoclaved bacteria,S. aureus,12
+5686,20200727,Day 7,1,1,0.1ng/mL LPS,A. baumannii,1260.666667
+5686,20200727,Day 7,2,1,0.1ng/mL LPS,A. baumannii,262.6666667
+5686,20200727,Day 7,3,1,0.1ng/mL LPS,A. baumannii,402
+5686,20200727,Day 7,1,1,100ng/mL LPS,A. baumannii,237.6666667
+5686,20200727,Day 7,2,1,100ng/mL LPS,A. baumannii,623
+5686,20200727,Day 7,3,1,100ng/mL LPS,A. baumannii,2562.333333
+5686,20200915,Day 7,1,1,0.1ng/mL LTA,A. baumannii,11
+5686,20200915,Day 7,2,1,0.1ng/mL LTA,A. baumannii,6
+5686,20200915,Day 7,3,1,0.1ng/mL LTA,A. baumannii,10.33333333
+5686,20200915,Day 7,1,1,100ng/mL LTA,A. baumannii,10.33333333
+5686,20200915,Day 7,2,1,100ng/mL LTA,A. baumannii,9.333333333
+5686,20200915,Day 7,3,1,100ng/mL LTA,A. baumannii,13
+5686,20200727,Day 7,1,1,Fungi alone,A. baumannii,37.66666667
+5686,20200727,Day 7,2,1,Fungi alone,A. baumannii,3572.333333
+5686,20200727,Day 7,3,1,Fungi alone,A. baumannii,70.66666667
+5686,20200727,Day 7,1,1,Autoclaved bacteria,A. baumannii,4492.333333
+5686,20200727,Day 7,2,1,Autoclaved bacteria,A. baumannii,6
+5686,20200727,Day 7,3,1,Autoclaved bacteria,A. baumannii,89.66666667
+5686,20200727,Day 7,1,1,0.1ng/mL LPS,E. coli,10.33333333
+5686,20200727,Day 7,2,1,0.1ng/mL LPS,E. coli,18
+5686,20200727,Day 7,3,1,0.1ng/mL LPS,E. coli,18.66666667
+5686,20200727,Day 7,1,1,100ng/mL LPS,E. coli,14.66666667
+5686,20200727,Day 7,2,1,100ng/mL LPS,E. coli,7.666666667
+5686,20200727,Day 7,3,1,100ng/mL LPS,E. coli,31.66666667
+5686,20200915,Day 7,1,1,0.1ng/mL LTA,E. coli,7.666666667
+5686,20200915,Day 7,2,1,0.1ng/mL LTA,E. coli,10.33333333
+5686,20200915,Day 7,3,1,0.1ng/mL LTA,E. coli,19.66666667
+5686,20200915,Day 7,1,1,100ng/mL LTA,E. coli,0
+5686,20200915,Day 7,2,1,100ng/mL LTA,E. coli,12
+5686,20200915,Day 7,3,1,100ng/mL LTA,E. coli,0
+5686,20200727,Day 7,1,1,Fungi alone,E. coli,7.666666667
+5686,20200727,Day 7,2,1,Fungi alone,E. coli,515.3333333
+5686,20200727,Day 7,3,1,Fungi alone,E. coli,6
+5686,20200727,Day 7,1,1,Autoclaved bacteria,E. coli,619
+5686,20200727,Day 7,2,1,Autoclaved bacteria,E. coli,6
+5686,20200727,Day 7,3,1,Autoclaved bacteria,E. coli,31.33333333
+5686,20200727,Day 7,1,1,0.1ng/mL LPS,P. aeruginosa,73.33333333
+5686,20200727,Day 7,2,1,0.1ng/mL LPS,P. aeruginosa,855.3333333
+5686,20200727,Day 7,3,1,0.1ng/mL LPS,P. aeruginosa,1649.333333
+5686,20200727,Day 7,1,1,100ng/mL LPS,P. aeruginosa,31
+5686,20200727,Day 7,2,1,100ng/mL LPS,P. aeruginosa,21.33333333
+5686,20200727,Day 7,3,1,100ng/mL LPS,P. aeruginosa,141.6666667
+5686,20200915,Day 7,1,1,0.1ng/mL LTA,P. aeruginosa,6
+5686,20200915,Day 7,2,1,0.1ng/mL LTA,P. aeruginosa,19
+5686,20200915,Day 7,3,1,0.1ng/mL LTA,P. aeruginosa,7.666666667
+5686,20200915,Day 7,1,1,100ng/mL LTA,P. aeruginosa,18
+5686,20200915,Day 7,2,1,100ng/mL LTA,P. aeruginosa,10.33333333
+5686,20200915,Day 7,3,1,100ng/mL LTA,P. aeruginosa,9.333333333
+5686,20200727,Day 7,1,1,Fungi alone,P. aeruginosa,299.6666667
+5686,20200727,Day 7,2,1,Fungi alone,P. aeruginosa,1196.666667
+5686,20200727,Day 7,3,1,Fungi alone,P. aeruginosa,16
+5686,20200727,Day 7,1,1,Autoclaved bacteria,P. aeruginosa,1485.666667
+5686,20200727,Day 7,2,1,Autoclaved bacteria,P. aeruginosa,6
+5686,20200727,Day 7,3,1,Autoclaved bacteria,P. aeruginosa,25.33333333
+5686,20200727,Day 7,1,1,0.1ng/mL LPS,S. aureus,12
+5686,20200727,Day 7,2,1,0.1ng/mL LPS,S. aureus,14.66666667
+5686,20200727,Day 7,3,1,0.1ng/mL LPS,S. aureus,10.33333333
+5686,20200727,Day 7,1,1,100ng/mL LPS,S. aureus,10.33333333
+5686,20200727,Day 7,2,1,100ng/mL LPS,S. aureus,10.33333333
+5686,20200727,Day 7,3,1,100ng/mL LPS,S. aureus,10.33333333
+5686,20200922,Day 7,1,1,0.1ng/mL LTA,S. aureus,6
+5686,20200922,Day 7,2,1,0.1ng/mL LTA,S. aureus,12
+5686,20200922,Day 7,3,1,0.1ng/mL LTA,S. aureus,12
+5686,20200922,Day 7,1,1,100ng/mL LTA,S. aureus,8.666666667
+5686,20200922,Day 7,2,1,100ng/mL LTA,S. aureus,19
+5686,20200922,Day 7,3,1,100ng/mL LTA,S. aureus,7.666666667
+5686,20200727,Day 7,1,1,Fungi alone,S. aureus,7.666666667
+5686,20200727,Day 7,2,1,Fungi alone,S. aureus,12
+5686,20200727,Day 7,3,1,Fungi alone,S. aureus,14.66666667
+5686,20200727,Day 7,1,1,Autoclaved bacteria,S. aureus,12
+5686,20200727,Day 7,2,1,Autoclaved bacteria,S. aureus,8.666666667
+5686,20200727,Day 7,3,1,Autoclaved bacteria,S. aureus,19
+CON,20200727,Day 1,1,1,No Fungi control,A. baumannii,12480
+CON,20200909,Day 1,1,1,No Fungi control,A. baumannii,12480
+CON,20200727,Day 1,2,1,No Fungi control,A. baumannii,12554
+CON,20200909,Day 1,2,1,No Fungi control,A. baumannii,12554
+CON,20200727,Day 1,3,1,No Fungi control,A. baumannii,12102.33333
+CON,20200909,Day 1,3,1,No Fungi control,A. baumannii,12102.33333
+CON,20200727,Day 1,1,1,No Fungi control,E. coli,8698.333333
+CON,20200909,Day 1,1,1,No Fungi control,E. coli,8698.333333
+CON,20200727,Day 1,2,1,No Fungi control,E. coli,8680.333333
+CON,20200909,Day 1,2,1,No Fungi control,E. coli,8680.333333
+CON,20200727,Day 1,3,1,No Fungi control,E. coli,8822.666667
+CON,20200909,Day 1,3,1,No Fungi control,E. coli,8822.666667
+CON,20200727,Day 1,1,1,No Fungi control,P. aeruginosa,21495.83333
+CON,20200909,Day 1,1,1,No Fungi control,P. aeruginosa,21495.83333
+CON,20200727,Day 1,2,1,No Fungi control,P. aeruginosa,20255.5
+CON,20200909,Day 1,2,1,No Fungi control,P. aeruginosa,20255.5
+CON,20200727,Day 1,3,1,No Fungi control,P. aeruginosa,19466.16667
+CON,20200909,Day 1,3,1,No Fungi control,P. aeruginosa,19466.16667
+CON,20200727,Day 1,1,1,No Fungi control,S. aureus,3006.333333
+CON,20200909,Day 1,1,1,No Fungi control,S. aureus,3006.333333
+CON,20200727,Day 1,2,1,No Fungi control,S. aureus,3194.333333
+CON,20200909,Day 1,2,1,No Fungi control,S. aureus,3194.333333
+CON,20200727,Day 1,3,1,No Fungi control,S. aureus,3166.666667
+CON,20200909,Day 1,3,1,No Fungi control,S. aureus,3166.666667
+CON,20200804,Day14,1,1,No Fungi control,A. baumannii,19177.66667
+CON,20200902,Day14,1,1,No Fungi control,A. baumannii,19177.66667
+CON,20200922,Day14,1,1,No Fungi control,A. baumannii,19177.66667
+CON,20200804,Day14,2,1,No Fungi control,A. baumannii,19557.66667
+CON,20200902,Day14,2,1,No Fungi control,A. baumannii,19557.66667
+CON,20200922,Day14,2,1,No Fungi control,A. baumannii,19557.66667
+CON,20200804,Day14,3,1,No Fungi control,A. baumannii,19147
+CON,20200902,Day14,3,1,No Fungi control,A. baumannii,19147
+CON,20200922,Day14,3,1,No Fungi control,A. baumannii,19147
+CON,20200804,Day14,1,1,No Fungi control,E. coli,8219.333333
+CON,20200902,Day14,1,1,No Fungi control,E. coli,8219.333333
+CON,20200922,Day14,1,1,No Fungi control,E. coli,8219.333333
+CON,20200804,Day14,2,1,No Fungi control,E. coli,8104.333333
+CON,20200902,Day14,2,1,No Fungi control,E. coli,8104.333333
+CON,20200922,Day14,2,1,No Fungi control,E. coli,8104.333333
+CON,20200804,Day14,3,1,No Fungi control,E. coli,7975.666667
+CON,20200902,Day14,3,1,No Fungi control,E. coli,7975.666667
+CON,20200922,Day14,3,1,No Fungi control,E. coli,7975.666667
+CON,20200804,Day14,1,1,No Fungi control,P. aeruginosa,31326
+CON,20200902,Day14,1,1,No Fungi control,P. aeruginosa,31326
+CON,20200922,Day14,1,1,No Fungi control,P. aeruginosa,31326
+CON,20200804,Day14,2,1,No Fungi control,P. aeruginosa,31293.66667
+CON,20200902,Day14,2,1,No Fungi control,P. aeruginosa,31293.66667
+CON,20200922,Day14,2,1,No Fungi control,P. aeruginosa,31293.66667
+CON,20200804,Day14,3,1,No Fungi control,P. aeruginosa,31467
+CON,20200902,Day14,3,1,No Fungi control,P. aeruginosa,31467
+CON,20200922,Day14,3,1,No Fungi control,P. aeruginosa,31467
+CON,20200804,Day14,1,1,No Fungi control,S. aureus,62.33333333
+CON,20200902,Day14,1,1,No Fungi control,S. aureus,62.33333333
+CON,20200922,Day14,1,1,No Fungi control,S. aureus,62.33333333
+CON,20200804,Day14,2,1,No Fungi control,S. aureus,63.66666667
+CON,20200902,Day14,2,1,No Fungi control,S. aureus,63.66666667
+CON,20200922,Day14,2,1,No Fungi control,S. aureus,63.66666667
+CON,20200804,Day14,3,1,No Fungi control,S. aureus,42.66666667
+CON,20200902,Day14,3,1,No Fungi control,S. aureus,42.66666667
+CON,20200922,Day14,3,1,No Fungi control,S. aureus,42.66666667
+CON,20200727,Day 3,1,1,No Fungi control,A. baumannii,14175.83333
+CON,20200902,Day 3,1,1,No Fungi control,A. baumannii,14175.83333
+CON,20200915,Day 3,1,1,No Fungi control,A. baumannii,14175.83333
+CON,20200727,Day 3,2,1,No Fungi control,A. baumannii,14233.83333
+CON,20200902,Day 3,2,1,No Fungi control,A. baumannii,14233.83333
+CON,20200915,Day 3,2,1,No Fungi control,A. baumannii,14233.83333
+CON,20200727,Day 3,3,1,No Fungi control,A. baumannii,14304.5
+CON,20200902,Day 3,3,1,No Fungi control,A. baumannii,14304.5
+CON,20200915,Day 3,3,1,No Fungi control,A. baumannii,14304.5
+CON,20200727,Day 3,1,1,No Fungi control,E. coli,7852
+CON,20200902,Day 3,1,1,No Fungi control,E. coli,7852
+CON,20200915,Day 3,1,1,No Fungi control,E. coli,7852
+CON,20200727,Day 3,2,1,No Fungi control,E. coli,7687
+CON,20200902,Day 3,2,1,No Fungi control,E. coli,7687
+CON,20200915,Day 3,2,1,No Fungi control,E. coli,7687
+CON,20200727,Day 3,3,1,No Fungi control,E. coli,7732.333333
+CON,20200902,Day 3,3,1,No Fungi control,E. coli,7732.333333
+CON,20200915,Day 3,3,1,No Fungi control,E. coli,7732.333333
+CON,20200727,Day 3,1,1,No Fungi control,P. aeruginosa,7727.333333
+CON,20200902,Day 3,1,1,No Fungi control,P. aeruginosa,7727.333333
+CON,20200915,Day 3,1,1,No Fungi control,P. aeruginosa,7727.333333
+CON,20200727,Day 3,2,1,No Fungi control,P. aeruginosa,8627
+CON,20200902,Day 3,2,1,No Fungi control,P. aeruginosa,8627
+CON,20200915,Day 3,2,1,No Fungi control,P. aeruginosa,8627
+CON,20200727,Day 3,3,1,No Fungi control,P. aeruginosa,8645
+CON,20200902,Day 3,3,1,No Fungi control,P. aeruginosa,8645
+CON,20200915,Day 3,3,1,No Fungi control,P. aeruginosa,8645
+CON,20200727,Day 3,1,1,No Fungi control,S. aureus,3.333333333
+CON,20200902,Day 3,1,1,No Fungi control,S. aureus,3.333333333
+CON,20200922,Day 3,1,1,No Fungi control,S. aureus,3.333333333
+CON,20200915,Day 3,1,1,No Fungi control,S. aureus,3.333333333
+CON,20200727,Day 3,2,1,No Fungi control,S. aureus,13.66666667
+CON,20200902,Day 3,2,1,No Fungi control,S. aureus,13.66666667
+CON,20200922,Day 3,2,1,No Fungi control,S. aureus,13.66666667
+CON,20200915,Day 3,2,1,No Fungi control,S. aureus,13.66666667
+CON,20200727,Day 3,3,1,No Fungi control,S. aureus,10.33333333
+CON,20200902,Day 3,3,1,No Fungi control,S. aureus,10.33333333
+CON,20200922,Day 3,3,1,No Fungi control,S. aureus,10.33333333
+CON,20200915,Day 3,3,1,No Fungi control,S. aureus,10.33333333
+CON,20200727,Day 7,1,1,No Fungi control,A. baumannii,12555.16667
+CON,20200902,Day 7,1,1,No Fungi control,A. baumannii,12555.16667
+CON,20200915,Day 7,1,1,No Fungi control,A. baumannii,12555.16667
+CON,20200727,Day 7,2,1,No Fungi control,A. baumannii,13014.16667
+CON,20200902,Day 7,2,1,No Fungi control,A. baumannii,13014.16667
+CON,20200915,Day 7,2,1,No Fungi control,A. baumannii,13014.16667
+CON,20200727,Day 7,3,1,No Fungi control,A. baumannii,12990.16667
+CON,20200902,Day 7,3,1,No Fungi control,A. baumannii,12990.16667
+CON,20200915,Day 7,3,1,No Fungi control,A. baumannii,12990.16667
+CON,20200727,Day 7,1,1,No Fungi control,E. coli,7146.666667
+CON,20200902,Day 7,1,1,No Fungi control,E. coli,7146.666667
+CON,20200915,Day 7,1,1,No Fungi control,E. coli,7146.666667
+CON,20200727,Day 7,2,1,No Fungi control,E. coli,7235.333333
+CON,20200902,Day 7,2,1,No Fungi control,E. coli,7235.333333
+CON,20200915,Day 7,2,1,No Fungi control,E. coli,7235.333333
+CON,20200727,Day 7,3,1,No Fungi control,E. coli,7197.333333
+CON,20200902,Day 7,3,1,No Fungi control,E. coli,7197.333333
+CON,20200915,Day 7,3,1,No Fungi control,E. coli,7197.333333
+CON,20200727,Day 7,1,1,No Fungi control,P. aeruginosa,9412
+CON,20200902,Day 7,1,1,No Fungi control,P. aeruginosa,9412
+CON,20200915,Day 7,1,1,No Fungi control,P. aeruginosa,9412
+CON,20200727,Day 7,2,1,No Fungi control,P. aeruginosa,9516.333333
+CON,20200902,Day 7,2,1,No Fungi control,P. aeruginosa,9516.333333
+CON,20200915,Day 7,2,1,No Fungi control,P. aeruginosa,9516.333333
+CON,20200727,Day 7,3,1,No Fungi control,P. aeruginosa,9569.333333
+CON,20200902,Day 7,3,1,No Fungi control,P. aeruginosa,9569.333333
+CON,20200915,Day 7,3,1,No Fungi control,P. aeruginosa,9569.333333
+CON,20200727,Day 7,1,1,No Fungi control,S. aureus,23
+CON,20200902,Day 7,1,1,No Fungi control,S. aureus,23
+CON,20200915,Day 7,1,1,No Fungi control,S. aureus,23
+CON,20200922,Day 7,1,1,No Fungi control,S. aureus,23
+CON,20200727,Day 7,2,1,No Fungi control,S. aureus,12
+CON,20200902,Day 7,2,1,No Fungi control,S. aureus,12
+CON,20200915,Day 7,2,1,No Fungi control,S. aureus,12
+CON,20200922,Day 7,2,1,No Fungi control,S. aureus,12
+CON,20200727,Day 7,3,1,No Fungi control,S. aureus,41
+CON,20200902,Day 7,3,1,No Fungi control,S. aureus,41
+CON,20200915,Day 7,3,1,No Fungi control,S. aureus,41
+CON,20200922,Day 7,3,1,No Fungi control,S. aureus,41
